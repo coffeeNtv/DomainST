@@ -51,7 +51,7 @@ Our gene feature extraction have multiple steps:
 2. Gene summary refinement by LLM
 3. Gene embedding
 
-The gene summary, and gene features can be found at [Huggingface](https://huggingface.co/datasets/wzhang472/dst/tree/main) with the .pt format.
+Gene features used in this study can be found at [Huggingface](https://huggingface.co/datasets/wzhang472/dst/tree/main) with the .pt format.
 
 To provide more gene representation alternatives, we will provide more details about using other free accessed LLMs for reproducibility once we have these code and features well-organized. Thank you for your patience. 
 
