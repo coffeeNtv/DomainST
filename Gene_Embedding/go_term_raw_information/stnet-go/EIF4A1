@@ -1,0 +1,31 @@
+EIF4A1	P60842	NOT|located_in	nucleus	cellular_component
+EIF4A1	P60842	enables	RNA cap binding	molecular_function
+EIF4A1	P60842	enables	DNA clamp loader activity	molecular_function
+EIF4A1	P60842	enables	RNA binding	molecular_function
+EIF4A1	P60842	enables	RNA helicase activity	molecular_function
+EIF4A1	P60842	enables	double-stranded RNA binding	molecular_function
+EIF4A1	P60842	enables	mRNA binding	molecular_function
+EIF4A1	P60842	enables	translation initiation factor activity	molecular_function
+EIF4A1	P60842	enables	helicase activity	molecular_function
+EIF4A1	P60842	enables	protein binding	molecular_function
+EIF4A1	P60842	enables	ATP binding	molecular_function
+EIF4A1	P60842	enables	translation factor activity, RNA binding	molecular_function
+EIF4A1	P60842	enables	ATP hydrolysis activity	molecular_function
+EIF4A1	P60842	enables	cohesin loader activity	molecular_function
+EIF4A1	P60842	enables	chromatin extrusion motor activity	molecular_function
+EIF4A1	P60842	enables	ATP-dependent H3-H4 histone complex chaperone activity	molecular_function
+EIF4A1	P60842	enables	ATP-dependent H2AZ histone chaperone activity	molecular_function
+EIF4A1	P60842	involved_in	cytoplasmic translational initiation	biological_process
+EIF4A1	P60842	involved_in	chromatin remodeling	biological_process
+EIF4A1	P60842	involved_in	translational initiation	biological_process
+EIF4A1	P60842	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+EIF4A1	P60842	involved_in	chromatin looping	biological_process
+EIF4A1	P60842	located_in	cytoplasm	cellular_component
+EIF4A1	P60842	located_in	cytosol	cellular_component
+EIF4A1	P60842	located_in	plasma membrane	cellular_component
+EIF4A1	P60842	located_in	cytoplasmic stress granule	cellular_component
+EIF4A1	P60842	located_in	membrane	cellular_component
+EIF4A1	P60842	located_in	perinuclear region of cytoplasm	cellular_component
+EIF4A1	P60842	located_in	extracellular exosome	cellular_component
+EIF4A1	P60842	located_in	nuclear stress granule	cellular_component
+EIF4A1	P60842	part_of	eukaryotic translation initiation factor 4F complex	cellular_component

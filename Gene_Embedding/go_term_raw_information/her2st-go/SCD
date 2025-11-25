@@ -1,0 +1,14 @@
+SCD	O00767	enables	stearoyl-CoA 9-desaturase activity	molecular_function
+SCD	O00767	enables	iron ion binding	molecular_function
+SCD	O00767	enables	protein binding	molecular_function
+SCD	O00767	enables	oxidoreductase activity	molecular_function
+SCD	O00767	involved_in	unsaturated fatty acid biosynthetic process	biological_process
+SCD	O00767	involved_in	positive regulation of cold-induced thermogenesis	biological_process
+SCD	O00767	located_in	nucleolus	cellular_component
+SCD	O00767	located_in	endoplasmic reticulum	cellular_component
+SCD	O00767	located_in	endoplasmic reticulum membrane	cellular_component
+SCD	O00767	located_in	membrane	cellular_component
+SCD	O00767	involved_in	response to fatty acid	biological_process
+SCD	O00767	is_active_in	endoplasmic reticulum membrane	cellular_component
+SCD	O00767	enables	palmitoyl-CoA 9-desaturase activity	molecular_function
+SCD	O00767	involved_in	monounsaturated fatty acid biosynthetic process	biological_process

@@ -1,0 +1,23 @@
+EVL	Q9UI08	enables	actin binding	molecular_function
+EVL	Q9UI08	enables	protein binding	molecular_function
+EVL	Q9UI08	enables	profilin binding	molecular_function
+EVL	Q9UI08	enables	SH3 domain binding	molecular_function
+EVL	Q9UI08	involved_in	actin filament organization	biological_process
+EVL	Q9UI08	involved_in	cell surface receptor signaling pathway	biological_process
+EVL	Q9UI08	involved_in	nervous system development	biological_process
+EVL	Q9UI08	involved_in	actin polymerization or depolymerization	biological_process
+EVL	Q9UI08	involved_in	animal organ morphogenesis	biological_process
+EVL	Q9UI08	involved_in	negative regulation of epithelial cell migration	biological_process
+EVL	Q9UI08	involved_in	protein homotetramerization	biological_process
+EVL	Q9UI08	involved_in	positive regulation of stress fiber assembly	biological_process
+EVL	Q9UI08	involved_in	negative regulation of ruffle assembly	biological_process
+EVL	Q9UI08	located_in	stress fiber	cellular_component
+EVL	Q9UI08	located_in	cytoplasm	cellular_component
+EVL	Q9UI08	located_in	cytosol	cellular_component
+EVL	Q9UI08	located_in	focal adhesion	cellular_component
+EVL	Q9UI08	located_in	membrane	cellular_component
+EVL	Q9UI08	located_in	lamellipodium	cellular_component
+EVL	Q9UI08	involved_in	axon guidance	biological_process
+EVL	Q9UI08	is_active_in	focal adhesion	cellular_component
+EVL	Q9UI08	involved_in	positive regulation of actin filament polymerization	biological_process
+EVL	Q9UI08	is_active_in	plasma membrane	cellular_component

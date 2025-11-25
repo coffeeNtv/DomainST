@@ -1,0 +1,24 @@
+VMP1	Q96GC9	enables	protein binding	molecular_function
+VMP1	Q96GC9	enables	phospholipid scramblase activity	molecular_function
+VMP1	Q96GC9	involved_in	autophagosome assembly	biological_process
+VMP1	Q96GC9	involved_in	autophagy	biological_process
+VMP1	Q96GC9	involved_in	embryo implantation	biological_process
+VMP1	Q96GC9	involved_in	autophagosome membrane docking	biological_process
+VMP1	Q96GC9	involved_in	plasma membrane phospholipid scrambling	biological_process
+VMP1	Q96GC9	involved_in	cell junction assembly	biological_process
+VMP1	Q96GC9	involved_in	lipoprotein transport	biological_process
+VMP1	Q96GC9	involved_in	cell-cell adhesion	biological_process
+VMP1	Q96GC9	involved_in	organelle localization by membrane tethering	biological_process
+VMP1	Q96GC9	involved_in	positive regulation of ATPase-coupled calcium transmembrane transporter activity	biological_process
+VMP1	Q96GC9	involved_in	mitochondrion-endoplasmic reticulum membrane tethering	biological_process
+VMP1	Q96GC9	located_in	phagophore assembly site	cellular_component
+VMP1	Q96GC9	located_in	autophagosome membrane	cellular_component
+VMP1	Q96GC9	located_in	nucleolus	cellular_component
+VMP1	Q96GC9	located_in	endoplasmic reticulum	cellular_component
+VMP1	Q96GC9	located_in	endoplasmic reticulum membrane	cellular_component
+VMP1	Q96GC9	located_in	plasma membrane	cellular_component
+VMP1	Q96GC9	located_in	endoplasmic reticulum-Golgi intermediate compartment membrane	cellular_component
+VMP1	Q96GC9	involved_in	Golgi organization	biological_process
+VMP1	Q96GC9	is_active_in	endomembrane system	cellular_component
+VMP1	Q96GC9	is_active_in	membrane	cellular_component
+VMP1	Q96GC9	is_active_in	endoplasmic reticulum	cellular_component

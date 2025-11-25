@@ -1,0 +1,15 @@
+RPL23A	P62750	enables	RNA binding	molecular_function
+RPL23A	P62750	enables	structural constituent of ribosome	molecular_function
+RPL23A	P62750	enables	protein binding	molecular_function
+RPL23A	P62750	enables	rRNA binding	molecular_function
+RPL23A	P62750	enables	cadherin binding	molecular_function
+RPL23A	P62750	enables	TORC2 complex binding	molecular_function
+RPL23A	P62750	involved_in	cytoplasmic translation	biological_process
+RPL23A	P62750	involved_in	translation	biological_process
+RPL23A	P62750	located_in	nucleus	cellular_component
+RPL23A	P62750	located_in	nucleolus	cellular_component
+RPL23A	P62750	located_in	cytoplasm	cellular_component
+RPL23A	P62750	located_in	cytosol	cellular_component
+RPL23A	P62750	located_in	extracellular exosome	cellular_component
+RPL23A	P62750	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL23A	P62750	located_in	cytosolic ribosome	cellular_component

@@ -1,0 +1,8 @@
+PRRC2A	P48634	enables	RNA binding	molecular_function
+PRRC2A	P48634	enables	protein binding	molecular_function
+PRRC2A	P48634	located_in	nucleoplasm	cellular_component
+PRRC2A	P48634	located_in	cytosol	cellular_component
+PRRC2A	P48634	located_in	plasma membrane	cellular_component
+PRRC2A	P48634	located_in	membrane	cellular_component
+PRRC2A	P48634	located_in	extracellular exosome	cellular_component
+PRRC2A	P48634	involved_in	cell differentiation	biological_process

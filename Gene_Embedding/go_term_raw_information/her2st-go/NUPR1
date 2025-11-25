@@ -1,0 +1,46 @@
+NUPR1	O60356	acts_upstream_of_or_within	negative regulation of cell cycle	biological_process
+NUPR1	O60356	enables	DNA binding	molecular_function
+NUPR1	O60356	enables	chromatin binding	molecular_function
+NUPR1	O60356	enables	transcription coactivator activity	molecular_function
+NUPR1	O60356	enables	protein binding	molecular_function
+NUPR1	O60356	enables	acetyltransferase activator activity	molecular_function
+NUPR1	O60356	involved_in	acute inflammatory response	biological_process
+NUPR1	O60356	involved_in	male gonad development	biological_process
+NUPR1	O60356	involved_in	response to toxic substance	biological_process
+NUPR1	O60356	involved_in	regulation of autophagy	biological_process
+NUPR1	O60356	involved_in	negative regulation of autophagy	biological_process
+NUPR1	O60356	involved_in	negative regulation of cardiac muscle cell apoptotic process	biological_process
+NUPR1	O60356	involved_in	positive regulation of protein modification process	biological_process
+NUPR1	O60356	involved_in	skeletal muscle cell differentiation	biological_process
+NUPR1	O60356	involved_in	intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	biological_process
+NUPR1	O60356	involved_in	negative regulation of apoptotic process	biological_process
+NUPR1	O60356	involved_in	negative regulation of DNA-binding transcription factor activity	biological_process
+NUPR1	O60356	involved_in	positive regulation of neuron apoptotic process	biological_process
+NUPR1	O60356	involved_in	fibroblast apoptotic process	biological_process
+NUPR1	O60356	involved_in	positive regulation of cell cycle	biological_process
+NUPR1	O60356	involved_in	negative regulation of glycolytic process	biological_process
+NUPR1	O60356	involved_in	positive regulation of DNA-templated transcription	biological_process
+NUPR1	O60356	involved_in	fibroblast proliferation	biological_process
+NUPR1	O60356	involved_in	negative regulation of fibroblast proliferation	biological_process
+NUPR1	O60356	involved_in	negative regulation of epithelial cell proliferation	biological_process
+NUPR1	O60356	involved_in	negative regulation of programmed necrotic cell death	biological_process
+NUPR1	O60356	involved_in	protein-containing complex assembly	biological_process
+NUPR1	O60356	involved_in	positive regulation of neuroinflammatory response	biological_process
+NUPR1	O60356	involved_in	positive regulation of proteasomal protein catabolic process	biological_process
+NUPR1	O60356	involved_in	negative regulation of autophagosome assembly	biological_process
+NUPR1	O60356	involved_in	positive regulation of oxidative phosphorylation	biological_process
+NUPR1	O60356	involved_in	negative regulation of epithelial cell apoptotic process	biological_process
+NUPR1	O60356	involved_in	negative regulation of type B pancreatic cell proliferation	biological_process
+NUPR1	O60356	involved_in	regulation of response to endoplasmic reticulum stress	biological_process
+NUPR1	O60356	involved_in	regulation of female gonad development	biological_process
+NUPR1	O60356	involved_in	positive regulation of fibroblast apoptotic process	biological_process
+NUPR1	O60356	involved_in	positive regulation of intrinsic apoptotic signaling pathway	biological_process
+NUPR1	O60356	located_in	nucleus	cellular_component
+NUPR1	O60356	located_in	nucleoplasm	cellular_component
+NUPR1	O60356	located_in	cytoplasm	cellular_component
+NUPR1	O60356	located_in	intercellular bridge	cellular_component
+NUPR1	O60356	located_in	perinuclear region of cytoplasm	cellular_component
+NUPR1	O60356	part_of	protein-DNA complex	cellular_component
+NUPR1	O60356	involved_in	negative regulation of cell cycle	biological_process
+NUPR1	O60356	involved_in	negative regulation of cell population proliferation	biological_process
+NUPR1	O60356	is_active_in	nucleus	cellular_component

@@ -1,0 +1,15 @@
+ELOB	Q15370	enables	transcription corepressor binding	molecular_function
+ELOB	Q15370	enables	protein binding	molecular_function
+ELOB	Q15370	enables	ubiquitin protein ligase binding	molecular_function
+ELOB	Q15370	involved_in	transcription initiation at RNA polymerase II promoter	biological_process
+ELOB	Q15370	involved_in	transcription elongation by RNA polymerase II	biological_process
+ELOB	Q15370	involved_in	protein ubiquitination	biological_process
+ELOB	Q15370	involved_in	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	biological_process
+ELOB	Q15370	involved_in	protein-containing complex assembly	biological_process
+ELOB	Q15370	involved_in	target-directed miRNA degradation	biological_process
+ELOB	Q15370	located_in	nucleoplasm	cellular_component
+ELOB	Q15370	located_in	cytosol	cellular_component
+ELOB	Q15370	part_of	Cul2-RING ubiquitin ligase complex	cellular_component
+ELOB	Q15370	part_of	Cul5-RING ubiquitin ligase complex	cellular_component
+ELOB	Q15370	part_of	elongin complex	cellular_component
+ELOB	Q15370	part_of	VCB complex	cellular_component

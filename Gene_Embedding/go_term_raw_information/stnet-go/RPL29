@@ -1,0 +1,12 @@
+RPL29	P47914	enables	RNA binding	molecular_function
+RPL29	P47914	enables	structural constituent of ribosome	molecular_function
+RPL29	P47914	enables	heparin binding	molecular_function
+RPL29	P47914	enables	cadherin binding	molecular_function
+RPL29	P47914	involved_in	cytoplasmic translation	biological_process
+RPL29	P47914	involved_in	translation	biological_process
+RPL29	P47914	involved_in	embryo implantation	biological_process
+RPL29	P47914	located_in	cytosol	cellular_component
+RPL29	P47914	located_in	membrane	cellular_component
+RPL29	P47914	located_in	cytoplasm	cellular_component
+RPL29	P47914	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL29	P47914	located_in	cytosolic ribosome	cellular_component

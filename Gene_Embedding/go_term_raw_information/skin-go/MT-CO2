@@ -1,0 +1,16 @@
+MT-CO2	P00403	contributes_to	cytochrome-c oxidase activity	molecular_function
+MT-CO2	P00403	enables	cytochrome-c oxidase activity	molecular_function
+MT-CO2	P00403	enables	copper ion binding	molecular_function
+MT-CO2	P00403	enables	protein binding	molecular_function
+MT-CO2	P00403	involved_in	response to hypoxia	biological_process
+MT-CO2	P00403	involved_in	mitochondrial electron transport, cytochrome c to oxygen	biological_process
+MT-CO2	P00403	involved_in	lactation	biological_process
+MT-CO2	P00403	involved_in	cellular respiration	biological_process
+MT-CO2	P00403	involved_in	proton transmembrane transport	biological_process
+MT-CO2	P00403	located_in	mitochondrion	cellular_component
+MT-CO2	P00403	located_in	mitochondrial inner membrane	cellular_component
+MT-CO2	P00403	located_in	mitochondrial matrix	cellular_component
+MT-CO2	P00403	located_in	membrane	cellular_component
+MT-CO2	P00403	located_in	mitochondrial membrane	cellular_component
+MT-CO2	P00403	part_of	respiratory chain complex IV	cellular_component
+MT-CO2	P00403	involved_in	ATP synthesis coupled electron transport	biological_process

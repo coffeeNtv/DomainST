@@ -1,0 +1,11 @@
+PEBP1	P30086	enables	RNA binding	molecular_function
+PEBP1	P30086	enables	serine-type endopeptidase inhibitor activity	molecular_function
+PEBP1	P30086	enables	protein binding	molecular_function
+PEBP1	P30086	enables	ATP binding	molecular_function
+PEBP1	P30086	enables	phosphatidylethanolamine binding	molecular_function
+PEBP1	P30086	enables	enzyme binding	molecular_function
+PEBP1	P30086	enables	protein kinase binding	molecular_function
+PEBP1	P30086	located_in	nucleus	cellular_component
+PEBP1	P30086	located_in	cytosol	cellular_component
+PEBP1	P30086	located_in	extracellular exosome	cellular_component
+PEBP1	P30086	involved_in	negative regulation of MAPK cascade	biological_process

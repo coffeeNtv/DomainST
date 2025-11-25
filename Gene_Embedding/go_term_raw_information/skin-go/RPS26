@@ -1,0 +1,18 @@
+RPS26	P62854	enables	RNA binding	molecular_function
+RPS26	P62854	enables	mRNA binding	molecular_function
+RPS26	P62854	enables	structural constituent of ribosome	molecular_function
+RPS26	P62854	enables	protein binding	molecular_function
+RPS26	P62854	enables	cadherin binding	molecular_function
+RPS26	P62854	involved_in	cytoplasmic translation	biological_process
+RPS26	P62854	involved_in	translation	biological_process
+RPS26	P62854	involved_in	negative regulation of RNA splicing	biological_process
+RPS26	P62854	located_in	nucleoplasm	cellular_component
+RPS26	P62854	located_in	cytosol	cellular_component
+RPS26	P62854	located_in	membrane	cellular_component
+RPS26	P62854	located_in	synapse	cellular_component
+RPS26	P62854	located_in	extracellular exosome	cellular_component
+RPS26	P62854	located_in	cytoplasmic side of rough endoplasmic reticulum membrane	cellular_component
+RPS26	P62854	located_in	cytoplasm	cellular_component
+RPS26	P62854	located_in	ribosome	cellular_component
+RPS26	P62854	part_of	small ribosomal subunit	cellular_component
+RPS26	P62854	part_of	cytosolic small ribosomal subunit	cellular_component

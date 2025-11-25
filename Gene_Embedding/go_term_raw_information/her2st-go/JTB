@@ -1,0 +1,15 @@
+JTB	O76095	colocalizes_with	centrosome	cellular_component
+JTB	O76095	colocalizes_with	spindle	cellular_component
+JTB	O76095	enables	protein kinase binding	molecular_function
+JTB	O76095	involved_in	mitotic cell cycle	biological_process
+JTB	O76095	involved_in	mitotic cytokinesis	biological_process
+JTB	O76095	involved_in	apoptotic mitochondrial changes	biological_process
+JTB	O76095	involved_in	regulation of cell population proliferation	biological_process
+JTB	O76095	involved_in	positive regulation of protein kinase activity	biological_process
+JTB	O76095	located_in	cytoplasm	cellular_component
+JTB	O76095	located_in	mitochondrion	cellular_component
+JTB	O76095	located_in	plasma membrane	cellular_component
+JTB	O76095	located_in	membrane	cellular_component
+JTB	O76095	located_in	midbody	cellular_component
+JTB	O76095	is_active_in	midbody	cellular_component
+JTB	O76095	is_active_in	cytoplasm	cellular_component

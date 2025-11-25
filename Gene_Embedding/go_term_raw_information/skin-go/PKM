@@ -1,0 +1,39 @@
+PKM	P14618	NOT|enables	histone H3T11 kinase activity	molecular_function
+PKM	P14618	enables	magnesium ion binding	molecular_function
+PKM	P14618	enables	transcription coactivator activity	molecular_function
+PKM	P14618	enables	RNA binding	molecular_function
+PKM	P14618	enables	mRNA binding	molecular_function
+PKM	P14618	enables	protein tyrosine kinase activity	molecular_function
+PKM	P14618	enables	pyruvate kinase activity	molecular_function
+PKM	P14618	enables	protein binding	molecular_function
+PKM	P14618	enables	ATP binding	molecular_function
+PKM	P14618	enables	MHC class II protein complex binding	molecular_function
+PKM	P14618	enables	potassium ion binding	molecular_function
+PKM	P14618	enables	histone H3Y41 kinase activity	molecular_function
+PKM	P14618	enables	histone H3T11 kinase activity	molecular_function
+PKM	P14618	enables	protein homodimerization activity	molecular_function
+PKM	P14618	enables	cadherin binding	molecular_function
+PKM	P14618	enables	histone H2AXY142 kinase activity	molecular_function
+PKM	P14618	involved_in	glycolytic process	biological_process
+PKM	P14618	involved_in	chromatin remodeling	biological_process
+PKM	P14618	involved_in	programmed cell death	biological_process
+PKM	P14618	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+PKM	P14618	involved_in	canonical glycolysis	biological_process
+PKM	P14618	involved_in	positive regulation of sprouting angiogenesis	biological_process
+PKM	P14618	involved_in	positive regulation of cytoplasmic translation	biological_process
+PKM	P14618	is_active_in	nucleus	cellular_component
+PKM	P14618	located_in	extracellular region	cellular_component
+PKM	P14618	located_in	nucleus	cellular_component
+PKM	P14618	located_in	cytoplasm	cellular_component
+PKM	P14618	located_in	mitochondrion	cellular_component
+PKM	P14618	located_in	rough endoplasmic reticulum	cellular_component
+PKM	P14618	located_in	cytosol	cellular_component
+PKM	P14618	located_in	cilium	cellular_component
+PKM	P14618	located_in	vesicle	cellular_component
+PKM	P14618	located_in	secretory granule lumen	cellular_component
+PKM	P14618	located_in	collagen-containing extracellular matrix	cellular_component
+PKM	P14618	located_in	extracellular exosome	cellular_component
+PKM	P14618	located_in	extracellular vesicle	cellular_component
+PKM	P14618	located_in	ficolin-1-rich granule lumen	cellular_component
+PKM	P14618	involved_in	cellular response to insulin stimulus	biological_process
+PKM	P14618	is_active_in	cytoplasm	cellular_component

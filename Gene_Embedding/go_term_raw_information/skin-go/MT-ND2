@@ -1,0 +1,14 @@
+MT-ND2	P03891	enables	protein binding	molecular_function
+MT-ND2	P03891	enables	NADH dehydrogenase (ubiquinone) activity	molecular_function
+MT-ND2	P03891	enables	protein kinase binding	molecular_function
+MT-ND2	P03891	enables	ionotropic glutamate receptor binding	molecular_function
+MT-ND2	P03891	involved_in	response to hypoxia	biological_process
+MT-ND2	P03891	involved_in	mitochondrial electron transport, NADH to ubiquinone	biological_process
+MT-ND2	P03891	involved_in	aerobic respiration	biological_process
+MT-ND2	P03891	involved_in	mitochondrial respiratory chain complex I assembly	biological_process
+MT-ND2	P03891	involved_in	proton motive force-driven mitochondrial ATP synthesis	biological_process
+MT-ND2	P03891	involved_in	reactive oxygen species metabolic process	biological_process
+MT-ND2	P03891	involved_in	proton transmembrane transport	biological_process
+MT-ND2	P03891	located_in	mitochondrion	cellular_component
+MT-ND2	P03891	located_in	mitochondrial inner membrane	cellular_component
+MT-ND2	P03891	part_of	respiratory chain complex I	cellular_component

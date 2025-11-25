@@ -1,0 +1,12 @@
+ERGIC1	Q969X5	enables	protein binding	molecular_function
+ERGIC1	Q969X5	involved_in	endoplasmic reticulum to Golgi vesicle-mediated transport	biological_process
+ERGIC1	Q969X5	located_in	nucleoplasm	cellular_component
+ERGIC1	Q969X5	located_in	endoplasmic reticulum-Golgi intermediate compartment	cellular_component
+ERGIC1	Q969X5	located_in	membrane	cellular_component
+ERGIC1	Q969X5	located_in	endoplasmic reticulum-Golgi intermediate compartment membrane	cellular_component
+ERGIC1	Q969X5	located_in	intracellular membrane-bounded organelle	cellular_component
+ERGIC1	Q969X5	is_active_in	COPII-coated ER to Golgi transport vesicle	cellular_component
+ERGIC1	Q969X5	involved_in	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	biological_process
+ERGIC1	Q969X5	is_active_in	endoplasmic reticulum membrane	cellular_component
+ERGIC1	Q969X5	is_active_in	endoplasmic reticulum	cellular_component
+ERGIC1	Q969X5	is_active_in	Golgi membrane	cellular_component

@@ -1,0 +1,22 @@
+RPLP0	P05388	enables	RNA binding	molecular_function
+RPLP0	P05388	enables	structural constituent of ribosome	molecular_function
+RPLP0	P05388	enables	protein binding	molecular_function
+RPLP0	P05388	involved_in	cytoplasmic translation	biological_process
+RPLP0	P05388	involved_in	translation	biological_process
+RPLP0	P05388	involved_in	ribosome biogenesis	biological_process
+RPLP0	P05388	involved_in	cellular response to interleukin-4	biological_process
+RPLP0	P05388	is_active_in	postsynaptic density	cellular_component
+RPLP0	P05388	is_active_in	postsynapse	cellular_component
+RPLP0	P05388	located_in	nucleus	cellular_component
+RPLP0	P05388	located_in	cytoplasm	cellular_component
+RPLP0	P05388	located_in	endoplasmic reticulum	cellular_component
+RPLP0	P05388	located_in	cytosol	cellular_component
+RPLP0	P05388	located_in	focal adhesion	cellular_component
+RPLP0	P05388	located_in	membrane	cellular_component
+RPLP0	P05388	located_in	dendrite	cellular_component
+RPLP0	P05388	located_in	cytoplasmic ribonucleoprotein granule	cellular_component
+RPLP0	P05388	located_in	extracellular exosome	cellular_component
+RPLP0	P05388	part_of	cytosolic large ribosomal subunit	cellular_component
+RPLP0	P05388	located_in	cytosolic ribosome	cellular_component
+RPLP0	P05388	part_of	ribonucleoprotein complex	cellular_component
+RPLP0	P05388	enables	large ribosomal subunit rRNA binding	molecular_function

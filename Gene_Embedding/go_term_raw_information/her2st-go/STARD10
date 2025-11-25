@@ -1,0 +1,9 @@
+STARD10	Q9Y365	enables	protein binding	molecular_function
+STARD10	Q9Y365	enables	lipid binding	molecular_function
+STARD10	Q9Y365	involved_in	lipid transport	biological_process
+STARD10	Q9Y365	located_in	cytosol	cellular_component
+STARD10	Q9Y365	located_in	motile cilium	cellular_component
+STARD10	Q9Y365	is_active_in	microvillus	cellular_component
+STARD10	Q9Y365	is_active_in	cytosol	cellular_component
+STARD10	Q9Y365	is_active_in	membrane	cellular_component
+STARD10	Q9Y365	is_active_in	intercellular canaliculus	cellular_component

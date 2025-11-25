@@ -1,0 +1,31 @@
+APOC1	P02654	enables	phospholipase inhibitor activity	molecular_function
+APOC1	P02654	enables	fatty acid binding	molecular_function
+APOC1	P02654	enables	protein binding	molecular_function
+APOC1	P02654	enables	phosphatidylcholine binding	molecular_function
+APOC1	P02654	enables	lipase inhibitor activity	molecular_function
+APOC1	P02654	enables	phosphatidylcholine-sterol O-acyltransferase activator activity	molecular_function
+APOC1	P02654	involved_in	lipid metabolic process	biological_process
+APOC1	P02654	involved_in	cholesterol metabolic process	biological_process
+APOC1	P02654	involved_in	negative regulation of phosphatidylcholine catabolic process	biological_process
+APOC1	P02654	involved_in	negative regulation of very-low-density lipoprotein particle clearance	biological_process
+APOC1	P02654	involved_in	regulation of cholesterol transport	biological_process
+APOC1	P02654	involved_in	negative regulation of cholesterol transport	biological_process
+APOC1	P02654	involved_in	cholesterol efflux	biological_process
+APOC1	P02654	involved_in	phospholipid efflux	biological_process
+APOC1	P02654	involved_in	plasma lipoprotein particle remodeling	biological_process
+APOC1	P02654	involved_in	high-density lipoprotein particle remodeling	biological_process
+APOC1	P02654	involved_in	very-low-density lipoprotein particle assembly	biological_process
+APOC1	P02654	involved_in	chylomicron remnant clearance	biological_process
+APOC1	P02654	involved_in	very-low-density lipoprotein particle clearance	biological_process
+APOC1	P02654	involved_in	lipoprotein metabolic process	biological_process
+APOC1	P02654	involved_in	negative regulation of fatty acid biosynthetic process	biological_process
+APOC1	P02654	involved_in	negative regulation of lipid metabolic process	biological_process
+APOC1	P02654	involved_in	negative regulation of receptor-mediated endocytosis	biological_process
+APOC1	P02654	involved_in	negative regulation of lipid catabolic process	biological_process
+APOC1	P02654	involved_in	negative regulation of lipoprotein lipase activity	biological_process
+APOC1	P02654	located_in	extracellular region	cellular_component
+APOC1	P02654	located_in	endoplasmic reticulum	cellular_component
+APOC1	P02654	part_of	very-low-density lipoprotein particle	cellular_component
+APOC1	P02654	part_of	high-density lipoprotein particle	cellular_component
+APOC1	P02654	part_of	chylomicron	cellular_component
+APOC1	P02654	involved_in	triglyceride metabolic process	biological_process

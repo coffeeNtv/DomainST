@@ -1,0 +1,54 @@
+ATP1A1	P05023	enables	P-type sodium:potassium-exchanging transporter activity	molecular_function
+ATP1A1	P05023	enables	protein binding	molecular_function
+ATP1A1	P05023	enables	ATP binding	molecular_function
+ATP1A1	P05023	enables	phosphatase activity	molecular_function
+ATP1A1	P05023	enables	ATP hydrolysis activity	molecular_function
+ATP1A1	P05023	enables	potassium ion binding	molecular_function
+ATP1A1	P05023	enables	sodium ion binding	molecular_function
+ATP1A1	P05023	enables	transmembrane transporter binding	molecular_function
+ATP1A1	P05023	enables	protein heterodimerization activity	molecular_function
+ATP1A1	P05023	enables	protein-folding chaperone binding	molecular_function
+ATP1A1	P05023	enables	steroid hormone binding	molecular_function
+ATP1A1	P05023	involved_in	regulation of the force of heart contraction	biological_process
+ATP1A1	P05023	involved_in	regulation of sodium ion transport	biological_process
+ATP1A1	P05023	involved_in	intracellular sodium ion homeostasis	biological_process
+ATP1A1	P05023	involved_in	osmosensory signaling pathway	biological_process
+ATP1A1	P05023	involved_in	regulation of blood pressure	biological_process
+ATP1A1	P05023	involved_in	response to xenobiotic stimulus	biological_process
+ATP1A1	P05023	involved_in	establishment or maintenance of transmembrane electrochemical gradient	biological_process
+ATP1A1	P05023	involved_in	intracellular potassium ion homeostasis	biological_process
+ATP1A1	P05023	involved_in	negative regulation of glucocorticoid biosynthetic process	biological_process
+ATP1A1	P05023	involved_in	sodium ion export across plasma membrane	biological_process
+ATP1A1	P05023	involved_in	negative regulation of heart contraction	biological_process
+ATP1A1	P05023	involved_in	positive regulation of heart contraction	biological_process
+ATP1A1	P05023	involved_in	positive regulation of striated muscle contraction	biological_process
+ATP1A1	P05023	involved_in	relaxation of cardiac muscle	biological_process
+ATP1A1	P05023	involved_in	cellular response to steroid hormone stimulus	biological_process
+ATP1A1	P05023	involved_in	cardiac muscle cell action potential involved in contraction	biological_process
+ATP1A1	P05023	involved_in	membrane repolarization	biological_process
+ATP1A1	P05023	involved_in	membrane repolarization during cardiac muscle cell action potential	biological_process
+ATP1A1	P05023	involved_in	cell communication by electrical coupling involved in cardiac conduction	biological_process
+ATP1A1	P05023	involved_in	proton transmembrane transport	biological_process
+ATP1A1	P05023	involved_in	response to glycoside	biological_process
+ATP1A1	P05023	involved_in	potassium ion import across plasma membrane	biological_process
+ATP1A1	P05023	located_in	endoplasmic reticulum	cellular_component
+ATP1A1	P05023	located_in	Golgi apparatus	cellular_component
+ATP1A1	P05023	located_in	plasma membrane	cellular_component
+ATP1A1	P05023	located_in	postsynaptic density	cellular_component
+ATP1A1	P05023	located_in	membrane	cellular_component
+ATP1A1	P05023	located_in	basolateral plasma membrane	cellular_component
+ATP1A1	P05023	located_in	apical plasma membrane	cellular_component
+ATP1A1	P05023	located_in	lateral plasma membrane	cellular_component
+ATP1A1	P05023	located_in	T-tubule	cellular_component
+ATP1A1	P05023	located_in	axon	cellular_component
+ATP1A1	P05023	located_in	organelle membrane	cellular_component
+ATP1A1	P05023	located_in	sperm flagellum	cellular_component
+ATP1A1	P05023	located_in	sarcolemma	cellular_component
+ATP1A1	P05023	located_in	melanosome	cellular_component
+ATP1A1	P05023	located_in	membrane raft	cellular_component
+ATP1A1	P05023	located_in	photoreceptor inner segment membrane	cellular_component
+ATP1A1	P05023	located_in	extracellular exosome	cellular_component
+ATP1A1	P05023	located_in	extracellular vesicle	cellular_component
+ATP1A1	P05023	part_of	sodium:potassium-exchanging ATPase complex	cellular_component
+ATP1A1	P05023	part_of	protein-containing complex	cellular_component
+ATP1A1	P05023	is_active_in	sarcolemma	cellular_component

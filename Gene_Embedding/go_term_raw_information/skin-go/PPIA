@@ -1,0 +1,51 @@
+PPIA	P62937	enables	RNA binding	molecular_function
+PPIA	P62937	enables	peptidyl-prolyl cis-trans isomerase activity	molecular_function
+PPIA	P62937	enables	integrin binding	molecular_function
+PPIA	P62937	enables	protein binding	molecular_function
+PPIA	P62937	enables	virion binding	molecular_function
+PPIA	P62937	enables	unfolded protein binding	molecular_function
+PPIA	P62937	enables	RNA polymerase II CTD heptapeptide repeat P3 isomerase activity	molecular_function
+PPIA	P62937	enables	RNA polymerase II CTD heptapeptide repeat P6 isomerase activity	molecular_function
+PPIA	P62937	enables	heparan sulfate binding	molecular_function
+PPIA	P62937	involved_in	protein peptidyl-prolyl isomerization	biological_process
+PPIA	P62937	involved_in	negative regulation of protein phosphorylation	biological_process
+PPIA	P62937	involved_in	positive regulation of protein phosphorylation	biological_process
+PPIA	P62937	involved_in	regulation of transcription by RNA polymerase II	biological_process
+PPIA	P62937	involved_in	protein folding	biological_process
+PPIA	P62937	involved_in	negative regulation of protein kinase activity	biological_process
+PPIA	P62937	involved_in	apoptotic process	biological_process
+PPIA	P62937	involved_in	viral release from host cell	biological_process
+PPIA	P62937	involved_in	platelet activation	biological_process
+PPIA	P62937	involved_in	neuron differentiation	biological_process
+PPIA	P62937	involved_in	neutrophil chemotaxis	biological_process
+PPIA	P62937	involved_in	leukocyte chemotaxis	biological_process
+PPIA	P62937	involved_in	activation of protein kinase B activity	biological_process
+PPIA	P62937	involved_in	negative regulation of stress-activated MAPK cascade	biological_process
+PPIA	P62937	involved_in	lipid droplet organization	biological_process
+PPIA	P62937	involved_in	cellular response to oxidative stress	biological_process
+PPIA	P62937	involved_in	endothelial cell activation	biological_process
+PPIA	P62937	involved_in	positive regulation of MAPK cascade	biological_process
+PPIA	P62937	involved_in	regulation of viral genome replication	biological_process
+PPIA	P62937	involved_in	positive regulation of viral genome replication	biological_process
+PPIA	P62937	involved_in	positive regulation of protein secretion	biological_process
+PPIA	P62937	involved_in	positive regulation of NF-kappaB transcription factor activity	biological_process
+PPIA	P62937	involved_in	cell adhesion molecule production	biological_process
+PPIA	P62937	involved_in	negative regulation of protein K48-linked ubiquitination	biological_process
+PPIA	P62937	involved_in	platelet aggregation	biological_process
+PPIA	P62937	involved_in	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	biological_process
+PPIA	P62937	involved_in	negative regulation of viral life cycle	biological_process
+PPIA	P62937	involved_in	regulation of apoptotic signaling pathway	biological_process
+PPIA	P62937	located_in	extracellular region	cellular_component
+PPIA	P62937	located_in	extracellular space	cellular_component
+PPIA	P62937	located_in	nucleus	cellular_component
+PPIA	P62937	located_in	cytoplasm	cellular_component
+PPIA	P62937	located_in	cytosol	cellular_component
+PPIA	P62937	located_in	focal adhesion	cellular_component
+PPIA	P62937	located_in	membrane	cellular_component
+PPIA	P62937	located_in	vesicle	cellular_component
+PPIA	P62937	located_in	secretory granule lumen	cellular_component
+PPIA	P62937	located_in	extracellular exosome	cellular_component
+PPIA	P62937	located_in	ficolin-1-rich granule lumen	cellular_component
+PPIA	P62937	part_of	protein-containing complex	cellular_component
+PPIA	P62937	enables	cyclosporin A binding	molecular_function
+PPIA	P62937	is_active_in	cytoplasm	cellular_component

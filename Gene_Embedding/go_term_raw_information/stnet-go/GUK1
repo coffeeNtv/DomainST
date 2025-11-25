@@ -1,0 +1,17 @@
+GUK1	Q16774	enables	guanylate kinase activity	molecular_function
+GUK1	Q16774	enables	protein binding	molecular_function
+GUK1	Q16774	enables	ATP binding	molecular_function
+GUK1	Q16774	involved_in	purine nucleotide metabolic process	biological_process
+GUK1	Q16774	involved_in	dGDP biosynthetic process	biological_process
+GUK1	Q16774	involved_in	xenobiotic metabolic process	biological_process
+GUK1	Q16774	involved_in	nucleobase-containing small molecule interconversion	biological_process
+GUK1	Q16774	involved_in	GDP-mannose metabolic process	biological_process
+GUK1	Q16774	involved_in	glycoprotein transport	biological_process
+GUK1	Q16774	involved_in	GMP metabolic process	biological_process
+GUK1	Q16774	involved_in	dGMP metabolic process	biological_process
+GUK1	Q16774	involved_in	dATP metabolic process	biological_process
+GUK1	Q16774	involved_in	GDP biosynthetic process	biological_process
+GUK1	Q16774	located_in	photoreceptor inner segment	cellular_component
+GUK1	Q16774	located_in	mitochondrion	cellular_component
+GUK1	Q16774	located_in	cytosol	cellular_component
+GUK1	Q16774	is_active_in	cytosol	cellular_component

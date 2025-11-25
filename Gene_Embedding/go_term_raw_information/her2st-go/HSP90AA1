@@ -1,0 +1,100 @@
+HSP90AA1	P07900	acts_upstream_of_positive_effect	telomere maintenance via telomerase	biological_process
+HSP90AA1	P07900	enables	UTP binding	molecular_function
+HSP90AA1	P07900	enables	CTP binding	molecular_function
+HSP90AA1	P07900	enables	RNA binding	molecular_function
+HSP90AA1	P07900	enables	mRNA binding	molecular_function
+HSP90AA1	P07900	enables	protein binding	molecular_function
+HSP90AA1	P07900	enables	ATP binding	molecular_function
+HSP90AA1	P07900	enables	GTP binding	molecular_function
+HSP90AA1	P07900	enables	ATP hydrolysis activity	molecular_function
+HSP90AA1	P07900	enables	sulfonylurea receptor binding	molecular_function
+HSP90AA1	P07900	enables	protein phosphatase binding	molecular_function
+HSP90AA1	P07900	enables	MHC class II protein complex binding	molecular_function
+HSP90AA1	P07900	enables	nitric-oxide synthase regulator activity	molecular_function
+HSP90AA1	P07900	enables	TPR domain binding	molecular_function
+HSP90AA1	P07900	enables	ubiquitin protein ligase binding	molecular_function
+HSP90AA1	P07900	enables	dATP binding	molecular_function
+HSP90AA1	P07900	enables	identical protein binding	molecular_function
+HSP90AA1	P07900	enables	protein homodimerization activity	molecular_function
+HSP90AA1	P07900	enables	histone deacetylase binding	molecular_function
+HSP90AA1	P07900	enables	transmembrane transporter binding	molecular_function
+HSP90AA1	P07900	enables	tau protein binding	molecular_function
+HSP90AA1	P07900	enables	GTPase binding	molecular_function
+HSP90AA1	P07900	enables	Rho GDP-dissociation inhibitor binding	molecular_function
+HSP90AA1	P07900	enables	DNA polymerase binding	molecular_function
+HSP90AA1	P07900	enables	scaffold protein binding	molecular_function
+HSP90AA1	P07900	enables	disordered domain specific binding	molecular_function
+HSP90AA1	P07900	enables	ATP-dependent protein folding chaperone	molecular_function
+HSP90AA1	P07900	enables	protein tyrosine kinase binding	molecular_function
+HSP90AA1	P07900	involved_in	neuron migration	biological_process
+HSP90AA1	P07900	involved_in	activation of innate immune response	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of defense response to virus by host	biological_process
+HSP90AA1	P07900	involved_in	skeletal muscle contraction	biological_process
+HSP90AA1	P07900	involved_in	mitochondrial transport	biological_process
+HSP90AA1	P07900	involved_in	response to unfolded protein	biological_process
+HSP90AA1	P07900	involved_in	response to heat	biological_process
+HSP90AA1	P07900	involved_in	response to cold	biological_process
+HSP90AA1	P07900	involved_in	response to xenobiotic stimulus	biological_process
+HSP90AA1	P07900	involved_in	response to salt stress	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of lamellipodium assembly	biological_process
+HSP90AA1	P07900	involved_in	cardiac muscle cell apoptotic process	biological_process
+HSP90AA1	P07900	involved_in	regulation of protein ubiquitination	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of telomere maintenance via telomerase	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of protein polymerization	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of interferon-beta production	biological_process
+HSP90AA1	P07900	involved_in	regulation of protein localization	biological_process
+HSP90AA1	P07900	involved_in	protein refolding	biological_process
+HSP90AA1	P07900	involved_in	response to cocaine	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of protein import into nucleus	biological_process
+HSP90AA1	P07900	involved_in	regulation of apoptotic process	biological_process
+HSP90AA1	P07900	involved_in	regulation of protein-containing complex assembly	biological_process
+HSP90AA1	P07900	involved_in	protein unfolding	biological_process
+HSP90AA1	P07900	involved_in	response to estrogen	biological_process
+HSP90AA1	P07900	involved_in	protein insertion into mitochondrial outer membrane	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of nitric oxide biosynthetic process	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of protein catabolic process	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of cell size	biological_process
+HSP90AA1	P07900	involved_in	response to antibiotic	biological_process
+HSP90AA1	P07900	involved_in	protein stabilization	biological_process
+HSP90AA1	P07900	involved_in	chaperone-mediated protein complex assembly	biological_process
+HSP90AA1	P07900	involved_in	positive regulation of cardiac muscle contraction	biological_process
+HSP90AA1	P07900	involved_in	chaperone-mediated autophagy	biological_process
+HSP90AA1	P07900	involved_in	cellular response to virus	biological_process
+HSP90AA1	P07900	involved_in	regulation of postsynaptic membrane neurotransmitter receptor levels	biological_process
+HSP90AA1	P07900	involved_in	neurofibrillary tangle assembly	biological_process
+HSP90AA1	P07900	involved_in	telomerase holoenzyme complex assembly	biological_process
+HSP90AA1	P07900	located_in	extracellular region	cellular_component
+HSP90AA1	P07900	located_in	nucleus	cellular_component
+HSP90AA1	P07900	located_in	nucleoplasm	cellular_component
+HSP90AA1	P07900	located_in	cytoplasm	cellular_component
+HSP90AA1	P07900	located_in	mitochondrion	cellular_component
+HSP90AA1	P07900	located_in	cytosol	cellular_component
+HSP90AA1	P07900	located_in	plasma membrane	cellular_component
+HSP90AA1	P07900	located_in	cell surface	cellular_component
+HSP90AA1	P07900	located_in	membrane	cellular_component
+HSP90AA1	P07900	located_in	basolateral plasma membrane	cellular_component
+HSP90AA1	P07900	located_in	apical plasma membrane	cellular_component
+HSP90AA1	P07900	located_in	brush border membrane	cellular_component
+HSP90AA1	P07900	located_in	secretory granule lumen	cellular_component
+HSP90AA1	P07900	located_in	melanosome	cellular_component
+HSP90AA1	P07900	located_in	neuronal cell body	cellular_component
+HSP90AA1	P07900	located_in	lysosomal lumen	cellular_component
+HSP90AA1	P07900	located_in	dendritic growth cone	cellular_component
+HSP90AA1	P07900	located_in	axonal growth cone	cellular_component
+HSP90AA1	P07900	located_in	perinuclear region of cytoplasm	cellular_component
+HSP90AA1	P07900	located_in	collagen-containing extracellular matrix	cellular_component
+HSP90AA1	P07900	located_in	extracellular exosome	cellular_component
+HSP90AA1	P07900	located_in	endocytic vesicle lumen	cellular_component
+HSP90AA1	P07900	located_in	sperm mitochondrial sheath	cellular_component
+HSP90AA1	P07900	located_in	sperm plasma membrane	cellular_component
+HSP90AA1	P07900	located_in	ficolin-1-rich granule lumen	cellular_component
+HSP90AA1	P07900	part_of	protein-containing complex	cellular_component
+HSP90AA1	P07900	is_active_in	perinuclear region of cytoplasm	cellular_component
+HSP90AA1	P07900	is_active_in	plasma membrane	cellular_component
+HSP90AA1	P07900	is_active_in	myelin sheath	cellular_component
+HSP90AA1	P07900	is_active_in	nucleus	cellular_component
+HSP90AA1	P07900	involved_in	cellular response to heat	biological_process
+HSP90AA1	P07900	involved_in	protein folding	biological_process
+HSP90AA1	P07900	is_active_in	neuronal cell body	cellular_component
+HSP90AA1	P07900	enables	unfolded protein binding	molecular_function
+HSP90AA1	P07900	is_active_in	cytosol	cellular_component

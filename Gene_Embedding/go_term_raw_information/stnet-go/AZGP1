@@ -1,0 +1,18 @@
+AZGP1	P25311	enables	RNA nuclease activity	molecular_function
+AZGP1	P25311	enables	protein binding	molecular_function
+AZGP1	P25311	enables	protein transmembrane transporter activity	molecular_function
+AZGP1	P25311	involved_in	detection of chemical stimulus involved in sensory perception of bitter taste	biological_process
+AZGP1	P25311	involved_in	cell adhesion	biological_process
+AZGP1	P25311	involved_in	negative regulation of cell population proliferation	biological_process
+AZGP1	P25311	involved_in	protein transmembrane transport	biological_process
+AZGP1	P25311	located_in	extracellular region	cellular_component
+AZGP1	P25311	located_in	extracellular space	cellular_component
+AZGP1	P25311	located_in	nucleus	cellular_component
+AZGP1	P25311	located_in	collagen-containing extracellular matrix	cellular_component
+AZGP1	P25311	located_in	extracellular exosome	cellular_component
+AZGP1	P25311	involved_in	immune response	biological_process
+AZGP1	P25311	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	biological_process
+AZGP1	P25311	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	biological_process
+AZGP1	P25311	is_active_in	extracellular space	cellular_component
+AZGP1	P25311	is_active_in	external side of plasma membrane	cellular_component
+AZGP1	P25311	involved_in	positive regulation of T cell mediated cytotoxicity	biological_process

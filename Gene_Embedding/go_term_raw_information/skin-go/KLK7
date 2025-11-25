@@ -1,0 +1,15 @@
+KLK7	P49862	enables	metalloendopeptidase activity	molecular_function
+KLK7	P49862	enables	peptidase activity	molecular_function
+KLK7	P49862	enables	serine-type peptidase activity	molecular_function
+KLK7	P49862	involved_in	positive regulation of antibacterial peptide production	biological_process
+KLK7	P49862	involved_in	proteolysis	biological_process
+KLK7	P49862	involved_in	epidermis development	biological_process
+KLK7	P49862	involved_in	extracellular matrix disassembly	biological_process
+KLK7	P49862	located_in	cornified envelope	cellular_component
+KLK7	P49862	located_in	extracellular region	cellular_component
+KLK7	P49862	located_in	extracellular space	cellular_component
+KLK7	P49862	located_in	epidermal lamellar body	cellular_component
+KLK7	P49862	is_active_in	extracellular space	cellular_component
+KLK7	P49862	is_active_in	secretory granule	cellular_component
+KLK7	P49862	involved_in	protein maturation	biological_process
+KLK7	P49862	enables	serine-type endopeptidase activity	molecular_function

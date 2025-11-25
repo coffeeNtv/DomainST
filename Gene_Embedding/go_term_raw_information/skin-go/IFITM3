@@ -1,0 +1,18 @@
+IFITM3	Q01628	enables	protein binding	molecular_function
+IFITM3	Q01628	involved_in	immune response	biological_process
+IFITM3	Q01628	involved_in	response to virus	biological_process
+IFITM3	Q01628	involved_in	negative regulation of viral transcription	biological_process
+IFITM3	Q01628	involved_in	response to type II interferon	biological_process
+IFITM3	Q01628	involved_in	response to interferon-alpha	biological_process
+IFITM3	Q01628	involved_in	response to interferon-beta	biological_process
+IFITM3	Q01628	involved_in	negative regulation of viral genome replication	biological_process
+IFITM3	Q01628	involved_in	negative regulation of viral entry into host cell	biological_process
+IFITM3	Q01628	involved_in	defense response to virus	biological_process
+IFITM3	Q01628	located_in	lysosomal membrane	cellular_component
+IFITM3	Q01628	located_in	plasma membrane	cellular_component
+IFITM3	Q01628	located_in	early endosome membrane	cellular_component
+IFITM3	Q01628	located_in	late endosome membrane	cellular_component
+IFITM3	Q01628	located_in	perinuclear region of cytoplasm	cellular_component
+IFITM3	Q01628	part_of	protein-containing complex	cellular_component
+IFITM3	Q01628	involved_in	type I interferon-mediated signaling pathway	biological_process
+IFITM3	Q01628	is_active_in	plasma membrane	cellular_component

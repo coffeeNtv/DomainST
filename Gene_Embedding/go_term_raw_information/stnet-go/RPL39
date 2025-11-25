@@ -1,0 +1,12 @@
+RPL39	P62891	enables	RNA binding	molecular_function
+RPL39	P62891	enables	structural constituent of ribosome	molecular_function
+RPL39	P62891	involved_in	cytoplasmic translation	biological_process
+RPL39	P62891	involved_in	innate immune response in mucosa	biological_process
+RPL39	P62891	involved_in	translation	biological_process
+RPL39	P62891	involved_in	antibacterial humoral response	biological_process
+RPL39	P62891	involved_in	defense response to Gram-positive bacterium	biological_process
+RPL39	P62891	involved_in	antimicrobial humoral immune response mediated by antimicrobial peptide	biological_process
+RPL39	P62891	located_in	extracellular space	cellular_component
+RPL39	P62891	located_in	cytosol	cellular_component
+RPL39	P62891	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL39	P62891	located_in	cytosolic ribosome	cellular_component

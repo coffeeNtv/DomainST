@@ -1,0 +1,29 @@
+GPX4	P36969	enables	glutathione peroxidase activity	molecular_function
+GPX4	P36969	enables	protein binding	molecular_function
+GPX4	P36969	enables	selenium binding	molecular_function
+GPX4	P36969	enables	identical protein binding	molecular_function
+GPX4	P36969	enables	phospholipid-hydroperoxide glutathione peroxidase activity	molecular_function
+GPX4	P36969	involved_in	chromatin organization	biological_process
+GPX4	P36969	involved_in	phospholipid metabolic process	biological_process
+GPX4	P36969	involved_in	apoptotic process	biological_process
+GPX4	P36969	involved_in	response to oxidative stress	biological_process
+GPX4	P36969	involved_in	spermatogenesis	biological_process
+GPX4	P36969	involved_in	dendrite development	biological_process
+GPX4	P36969	involved_in	arachidonate metabolic process	biological_process
+GPX4	P36969	involved_in	lipoxygenase pathway	biological_process
+GPX4	P36969	involved_in	cerebellum development	biological_process
+GPX4	P36969	involved_in	response to estradiol	biological_process
+GPX4	P36969	involved_in	response to lipopolysaccharide	biological_process
+GPX4	P36969	involved_in	multicellular organism growth	biological_process
+GPX4	P36969	involved_in	long-chain fatty acid biosynthetic process	biological_process
+GPX4	P36969	involved_in	protein polymerization	biological_process
+GPX4	P36969	involved_in	cellular oxidant detoxification	biological_process
+GPX4	P36969	involved_in	negative regulation of ferroptosis	biological_process
+GPX4	P36969	located_in	nucleus	cellular_component
+GPX4	P36969	located_in	nuclear envelope	cellular_component
+GPX4	P36969	located_in	mitochondrion	cellular_component
+GPX4	P36969	located_in	cytosol	cellular_component
+GPX4	P36969	located_in	extracellular exosome	cellular_component
+GPX4	P36969	part_of	protein-containing complex	cellular_component
+GPX4	P36969	is_active_in	nucleus	cellular_component
+GPX4	P36969	is_active_in	mitochondrion	cellular_component

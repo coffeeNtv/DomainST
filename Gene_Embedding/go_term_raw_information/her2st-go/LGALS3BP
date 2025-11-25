@@ -1,0 +1,15 @@
+LGALS3BP	Q08380	colocalizes_with	collagen-containing extracellular matrix	cellular_component
+LGALS3BP	Q08380	enables	scavenger receptor activity	molecular_function
+LGALS3BP	Q08380	enables	protein binding	molecular_function
+LGALS3BP	Q08380	involved_in	cellular defense response	biological_process
+LGALS3BP	Q08380	involved_in	cell adhesion	biological_process
+LGALS3BP	Q08380	involved_in	signal transduction	biological_process
+LGALS3BP	Q08380	involved_in	vesicle-mediated transport	biological_process
+LGALS3BP	Q08380	located_in	extracellular region	cellular_component
+LGALS3BP	Q08380	located_in	extracellular space	cellular_component
+LGALS3BP	Q08380	located_in	membrane	cellular_component
+LGALS3BP	Q08380	located_in	platelet dense granule lumen	cellular_component
+LGALS3BP	Q08380	located_in	collagen-containing extracellular matrix	cellular_component
+LGALS3BP	Q08380	located_in	extracellular exosome	cellular_component
+LGALS3BP	Q08380	located_in	blood microparticle	cellular_component
+LGALS3BP	Q08380	is_active_in	extracellular space	cellular_component

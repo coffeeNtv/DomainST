@@ -1,0 +1,35 @@
+HLA-B	P01889	NOT|enables	TAP binding	molecular_function
+HLA-B	P01889	enables	signaling receptor binding	molecular_function
+HLA-B	P01889	enables	protein binding	molecular_function
+HLA-B	P01889	enables	peptide antigen binding	molecular_function
+HLA-B	P01889	enables	TAP binding	molecular_function
+HLA-B	P01889	enables	protein-folding chaperone binding	molecular_function
+HLA-B	P01889	involved_in	positive regulation of T cell mediated cytotoxicity	biological_process
+HLA-B	P01889	involved_in	adaptive immune response	biological_process
+HLA-B	P01889	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	biological_process
+HLA-B	P01889	involved_in	regulation of T cell anergy	biological_process
+HLA-B	P01889	involved_in	defense response	biological_process
+HLA-B	P01889	involved_in	immune response	biological_process
+HLA-B	P01889	involved_in	detection of bacterium	biological_process
+HLA-B	P01889	involved_in	regulation of interleukin-12 production	biological_process
+HLA-B	P01889	involved_in	regulation of interleukin-6 production	biological_process
+HLA-B	P01889	involved_in	protection from natural killer cell mediated cytotoxicity	biological_process
+HLA-B	P01889	involved_in	innate immune response	biological_process
+HLA-B	P01889	involved_in	regulation of dendritic cell differentiation	biological_process
+HLA-B	P01889	located_in	Golgi membrane	cellular_component
+HLA-B	P01889	located_in	endoplasmic reticulum	cellular_component
+HLA-B	P01889	located_in	Golgi apparatus	cellular_component
+HLA-B	P01889	located_in	plasma membrane	cellular_component
+HLA-B	P01889	located_in	cell surface	cellular_component
+HLA-B	P01889	located_in	ER to Golgi transport vesicle membrane	cellular_component
+HLA-B	P01889	located_in	membrane	cellular_component
+HLA-B	P01889	located_in	secretory granule membrane	cellular_component
+HLA-B	P01889	located_in	phagocytic vesicle membrane	cellular_component
+HLA-B	P01889	located_in	early endosome membrane	cellular_component
+HLA-B	P01889	located_in	recycling endosome membrane	cellular_component
+HLA-B	P01889	located_in	extracellular exosome	cellular_component
+HLA-B	P01889	located_in	lumenal side of endoplasmic reticulum membrane	cellular_component
+HLA-B	P01889	part_of	MHC class I protein complex	cellular_component
+HLA-B	P01889	is_active_in	external side of plasma membrane	cellular_component
+HLA-B	P01889	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	biological_process
+HLA-B	P01889	is_active_in	extracellular space	cellular_component

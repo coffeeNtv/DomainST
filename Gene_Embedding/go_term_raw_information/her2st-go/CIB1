@@ -1,0 +1,75 @@
+CIB1	Q99828	enables	calcium ion binding	molecular_function
+CIB1	Q99828	enables	protein binding	molecular_function
+CIB1	Q99828	enables	calcium-dependent protein kinase inhibitor activity	molecular_function
+CIB1	Q99828	enables	protein serine/threonine kinase inhibitor activity	molecular_function
+CIB1	Q99828	enables	small GTPase binding	molecular_function
+CIB1	Q99828	enables	protein-membrane adaptor activity	molecular_function
+CIB1	Q99828	enables	transmembrane transporter binding	molecular_function
+CIB1	Q99828	involved_in	angiogenesis	biological_process
+CIB1	Q99828	involved_in	negative regulation of protein phosphorylation	biological_process
+CIB1	Q99828	involved_in	positive regulation of protein phosphorylation	biological_process
+CIB1	Q99828	involved_in	positive regulation of cell-matrix adhesion	biological_process
+CIB1	Q99828	involved_in	response to ischemia	biological_process
+CIB1	Q99828	involved_in	double-strand break repair	biological_process
+CIB1	Q99828	involved_in	apoptotic process	biological_process
+CIB1	Q99828	involved_in	DNA damage response	biological_process
+CIB1	Q99828	involved_in	negative regulation of microtubule depolymerization	biological_process
+CIB1	Q99828	involved_in	endomitotic cell cycle	biological_process
+CIB1	Q99828	involved_in	cell adhesion	biological_process
+CIB1	Q99828	involved_in	spermatid development	biological_process
+CIB1	Q99828	involved_in	positive regulation of cell population proliferation	biological_process
+CIB1	Q99828	involved_in	negative regulation of cell population proliferation	biological_process
+CIB1	Q99828	involved_in	negative regulation of neuron projection development	biological_process
+CIB1	Q99828	involved_in	platelet formation	biological_process
+CIB1	Q99828	involved_in	positive regulation of cell growth	biological_process
+CIB1	Q99828	involved_in	positive regulation of cell migration	biological_process
+CIB1	Q99828	involved_in	cytoplasmic microtubule organization	biological_process
+CIB1	Q99828	involved_in	positive regulation of cell adhesion mediated by integrin	biological_process
+CIB1	Q99828	involved_in	thrombopoietin-mediated signaling pathway	biological_process
+CIB1	Q99828	involved_in	regulation of cell population proliferation	biological_process
+CIB1	Q99828	involved_in	negative regulation of apoptotic process	biological_process
+CIB1	Q99828	involved_in	positive regulation of catalytic activity	biological_process
+CIB1	Q99828	involved_in	negative regulation of megakaryocyte differentiation	biological_process
+CIB1	Q99828	involved_in	positive regulation of NF-kappaB transcription factor activity	biological_process
+CIB1	Q99828	involved_in	cell division	biological_process
+CIB1	Q99828	involved_in	regulation of cell division	biological_process
+CIB1	Q99828	involved_in	negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	biological_process
+CIB1	Q99828	involved_in	positive regulation of ERK1 and ERK2 cascade	biological_process
+CIB1	Q99828	involved_in	positive regulation of calcineurin-NFAT signaling cascade	biological_process
+CIB1	Q99828	involved_in	cellular response to tumor necrosis factor	biological_process
+CIB1	Q99828	involved_in	cellular response to growth factor stimulus	biological_process
+CIB1	Q99828	involved_in	positive regulation of protein serine/threonine kinase activity	biological_process
+CIB1	Q99828	involved_in	positive regulation of cell migration involved in sprouting angiogenesis	biological_process
+CIB1	Q99828	involved_in	positive regulation of protein targeting to membrane	biological_process
+CIB1	Q99828	involved_in	extrinsic apoptotic signaling pathway	biological_process
+CIB1	Q99828	involved_in	positive regulation of substrate adhesion-dependent cell spreading	biological_process
+CIB1	Q99828	involved_in	positive regulation of protein localization to plasma membrane	biological_process
+CIB1	Q99828	involved_in	cellular response to nerve growth factor stimulus	biological_process
+CIB1	Q99828	involved_in	positive regulation of male germ cell proliferation	biological_process
+CIB1	Q99828	located_in	nucleus	cellular_component
+CIB1	Q99828	located_in	nucleoplasm	cellular_component
+CIB1	Q99828	located_in	cytoplasm	cellular_component
+CIB1	Q99828	located_in	endoplasmic reticulum	cellular_component
+CIB1	Q99828	located_in	Golgi apparatus	cellular_component
+CIB1	Q99828	located_in	centrosome	cellular_component
+CIB1	Q99828	located_in	plasma membrane	cellular_component
+CIB1	Q99828	located_in	membrane	cellular_component
+CIB1	Q99828	located_in	apical plasma membrane	cellular_component
+CIB1	Q99828	located_in	lamellipodium	cellular_component
+CIB1	Q99828	located_in	growth cone	cellular_component
+CIB1	Q99828	located_in	vesicle	cellular_component
+CIB1	Q99828	located_in	filopodium tip	cellular_component
+CIB1	Q99828	located_in	ruffle membrane	cellular_component
+CIB1	Q99828	located_in	sarcolemma	cellular_component
+CIB1	Q99828	located_in	neuron projection	cellular_component
+CIB1	Q99828	located_in	neuronal cell body	cellular_component
+CIB1	Q99828	located_in	perikaryon	cellular_component
+CIB1	Q99828	located_in	perinuclear region of cytoplasm	cellular_component
+CIB1	Q99828	located_in	extracellular exosome	cellular_component
+CIB1	Q99828	located_in	cell periphery	cellular_component
+CIB1	Q99828	is_active_in	nucleus	cellular_component
+CIB1	Q99828	is_active_in	sarcolemma	cellular_component
+CIB1	Q99828	enables	magnesium ion binding	molecular_function
+CIB1	Q99828	is_active_in	neuronal cell body	cellular_component
+CIB1	Q99828	is_active_in	axon	cellular_component
+CIB1	Q99828	is_active_in	cytoplasm	cellular_component

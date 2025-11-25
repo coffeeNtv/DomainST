@@ -1,0 +1,28 @@
+AHNAK	Q09666	colocalizes_with	membrane raft	cellular_component
+AHNAK	Q09666	enables	RNA binding	molecular_function
+AHNAK	Q09666	enables	protein binding	molecular_function
+AHNAK	Q09666	enables	identical protein binding	molecular_function
+AHNAK	Q09666	enables	S100 protein binding	molecular_function
+AHNAK	Q09666	enables	cadherin binding	molecular_function
+AHNAK	Q09666	enables	structural molecule activity conferring elasticity	molecular_function
+AHNAK	Q09666	involved_in	regulation of RNA splicing	biological_process
+AHNAK	Q09666	involved_in	regulation of voltage-gated calcium channel activity	biological_process
+AHNAK	Q09666	involved_in	positive regulation of plasma membrane repair	biological_process
+AHNAK	Q09666	located_in	nucleus	cellular_component
+AHNAK	Q09666	located_in	cytoplasm	cellular_component
+AHNAK	Q09666	located_in	lysosomal membrane	cellular_component
+AHNAK	Q09666	located_in	cytosol	cellular_component
+AHNAK	Q09666	located_in	plasma membrane	cellular_component
+AHNAK	Q09666	located_in	focal adhesion	cellular_component
+AHNAK	Q09666	located_in	actin cytoskeleton	cellular_component
+AHNAK	Q09666	located_in	membrane	cellular_component
+AHNAK	Q09666	located_in	T-tubule	cellular_component
+AHNAK	Q09666	located_in	vesicle	cellular_component
+AHNAK	Q09666	located_in	sarcolemma	cellular_component
+AHNAK	Q09666	located_in	costamere	cellular_component
+AHNAK	Q09666	located_in	cell-cell contact zone	cellular_component
+AHNAK	Q09666	located_in	extracellular exosome	cellular_component
+AHNAK	Q09666	part_of	plasma membrane protein complex	cellular_component
+AHNAK	Q09666	is_active_in	cytoplasm	cellular_component
+AHNAK	Q09666	is_active_in	nucleus	cellular_component
+AHNAK	Q09666	is_active_in	costamere	cellular_component

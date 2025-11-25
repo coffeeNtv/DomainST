@@ -1,0 +1,13 @@
+IGHG3	P01860	involved_in	adaptive immune response	biological_process
+IGHG3	P01860	involved_in	B cell receptor signaling pathway	biological_process
+IGHG3	P01860	located_in	extracellular region	cellular_component
+IGHG3	P01860	located_in	extracellular space	cellular_component
+IGHG3	P01860	located_in	extracellular exosome	cellular_component
+IGHG3	P01860	located_in	blood microparticle	cellular_component
+IGHG3	P01860	located_in	plasma membrane	cellular_component
+IGHG3	P01860	part_of	IgG immunoglobulin complex	cellular_component
+IGHG3	P01860	enables	immunoglobulin receptor binding	molecular_function
+IGHG3	P01860	involved_in	complement activation, classical pathway	biological_process
+IGHG3	P01860	enables	antigen binding	molecular_function
+IGHG3	P01860	involved_in	antibacterial humoral response	biological_process
+IGHG3	P01860	part_of	immunoglobulin complex, circulating	cellular_component

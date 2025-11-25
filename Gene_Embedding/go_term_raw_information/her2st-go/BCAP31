@@ -1,0 +1,28 @@
+BCAP31	P51572	enables	protein binding	molecular_function
+BCAP31	P51572	enables	MHC class I protein binding	molecular_function
+BCAP31	P51572	enables	protein-containing complex binding	molecular_function
+BCAP31	P51572	involved_in	protein targeting to mitochondrion	biological_process
+BCAP31	P51572	involved_in	intracellular protein transport	biological_process
+BCAP31	P51572	involved_in	apoptotic process	biological_process
+BCAP31	P51572	involved_in	spermatogenesis	biological_process
+BCAP31	P51572	involved_in	response to endoplasmic reticulum stress	biological_process
+BCAP31	P51572	involved_in	positive regulation of retrograde protein transport, ER to cytosol	biological_process
+BCAP31	P51572	involved_in	positive regulation of ERAD pathway	biological_process
+BCAP31	P51572	involved_in	positive regulation of ubiquitin-dependent protein catabolic process	biological_process
+BCAP31	P51572	involved_in	positive regulation of intrinsic apoptotic signaling pathway	biological_process
+BCAP31	P51572	located_in	Golgi membrane	cellular_component
+BCAP31	P51572	located_in	endoplasmic reticulum	cellular_component
+BCAP31	P51572	located_in	endoplasmic reticulum membrane	cellular_component
+BCAP31	P51572	located_in	lipid droplet	cellular_component
+BCAP31	P51572	located_in	cytosol	cellular_component
+BCAP31	P51572	located_in	plasma membrane	cellular_component
+BCAP31	P51572	located_in	membrane	cellular_component
+BCAP31	P51572	located_in	clathrin-coated vesicle	cellular_component
+BCAP31	P51572	located_in	Golgi cisterna membrane	cellular_component
+BCAP31	P51572	located_in	endoplasmic reticulum-Golgi intermediate compartment membrane	cellular_component
+BCAP31	P51572	located_in	mitochondria-associated endoplasmic reticulum membrane contact site	cellular_component
+BCAP31	P51572	located_in	perinuclear endoplasmic reticulum	cellular_component
+BCAP31	P51572	located_in	lumenal side of endoplasmic reticulum membrane	cellular_component
+BCAP31	P51572	involved_in	endoplasmic reticulum to Golgi vesicle-mediated transport	biological_process
+BCAP31	P51572	is_active_in	endoplasmic reticulum membrane	cellular_component
+BCAP31	P51572	involved_in	protein localization to endoplasmic reticulum exit site	biological_process

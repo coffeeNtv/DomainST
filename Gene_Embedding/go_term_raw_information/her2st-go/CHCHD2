@@ -1,0 +1,14 @@
+CHCHD2	Q9Y6H1	acts_upstream_of	positive regulation of mitochondrial ATP synthesis coupled electron transport	biological_process
+CHCHD2	Q9Y6H1	enables	protein binding	molecular_function
+CHCHD2	Q9Y6H1	enables	sequence-specific DNA binding	molecular_function
+CHCHD2	Q9Y6H1	enables	DNA-binding transcription factor binding	molecular_function
+CHCHD2	Q9Y6H1	involved_in	cellular response to oxidative stress	biological_process
+CHCHD2	Q9Y6H1	involved_in	regulation of generation of precursor metabolites and energy	biological_process
+CHCHD2	Q9Y6H1	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+CHCHD2	Q9Y6H1	involved_in	regulation of cellular response to hypoxia	biological_process
+CHCHD2	Q9Y6H1	located_in	nucleus	cellular_component
+CHCHD2	Q9Y6H1	located_in	mitochondrion	cellular_component
+CHCHD2	Q9Y6H1	located_in	mitochondrial intermembrane space	cellular_component
+CHCHD2	Q9Y6H1	is_active_in	nucleus	cellular_component
+CHCHD2	Q9Y6H1	involved_in	mitochondrion organization	biological_process
+CHCHD2	Q9Y6H1	is_active_in	mitochondrion	cellular_component

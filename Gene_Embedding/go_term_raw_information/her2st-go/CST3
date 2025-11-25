@@ -1,0 +1,28 @@
+CST3	P01034	enables	amyloid-beta binding	molecular_function
+CST3	P01034	enables	protease binding	molecular_function
+CST3	P01034	enables	endopeptidase inhibitor activity	molecular_function
+CST3	P01034	enables	cysteine-type endopeptidase inhibitor activity	molecular_function
+CST3	P01034	enables	protein binding	molecular_function
+CST3	P01034	enables	peptidase inhibitor activity	molecular_function
+CST3	P01034	enables	identical protein binding	molecular_function
+CST3	P01034	involved_in	defense response	biological_process
+CST3	P01034	involved_in	negative regulation of peptidase activity	biological_process
+CST3	P01034	involved_in	negative regulation of collagen catabolic process	biological_process
+CST3	P01034	involved_in	negative regulation of extracellular matrix disassembly	biological_process
+CST3	P01034	involved_in	regulation of tissue remodeling	biological_process
+CST3	P01034	involved_in	negative regulation of proteolysis	biological_process
+CST3	P01034	involved_in	negative regulation of elastin catabolic process	biological_process
+CST3	P01034	involved_in	negative regulation of blood vessel remodeling	biological_process
+CST3	P01034	involved_in	supramolecular fiber organization	biological_process
+CST3	P01034	located_in	extracellular region	cellular_component
+CST3	P01034	located_in	extracellular space	cellular_component
+CST3	P01034	located_in	endoplasmic reticulum	cellular_component
+CST3	P01034	located_in	endoplasmic reticulum lumen	cellular_component
+CST3	P01034	located_in	Golgi apparatus	cellular_component
+CST3	P01034	located_in	plasma membrane	cellular_component
+CST3	P01034	located_in	extracellular exosome	cellular_component
+CST3	P01034	located_in	tertiary granule lumen	cellular_component
+CST3	P01034	located_in	ficolin-1-rich granule lumen	cellular_component
+CST3	P01034	is_active_in	vesicle	cellular_component
+CST3	P01034	is_active_in	cytoplasm	cellular_component
+CST3	P01034	is_active_in	extracellular space	cellular_component

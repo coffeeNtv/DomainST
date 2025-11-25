@@ -1,0 +1,15 @@
+FLG	P20930	enables	calcium ion binding	molecular_function
+FLG	P20930	enables	protein binding	molecular_function
+FLG	P20930	enables	structural constituent of skin epidermis	molecular_function
+FLG	P20930	enables	transition metal ion binding	molecular_function
+FLG	P20930	involved_in	peptide cross-linking	biological_process
+FLG	P20930	involved_in	keratinocyte differentiation	biological_process
+FLG	P20930	involved_in	establishment of skin barrier	biological_process
+FLG	P20930	located_in	cornified envelope	cellular_component
+FLG	P20930	located_in	nucleus	cellular_component
+FLG	P20930	located_in	cytosol	cellular_component
+FLG	P20930	located_in	keratohyalin granule	cellular_component
+FLG	P20930	located_in	cytoplasmic ribonucleoprotein granule	cellular_component
+FLG	P20930	located_in	collagen-containing extracellular matrix	cellular_component
+FLG	P20930	is_active_in	keratohyalin granule	cellular_component
+FLG	P20930	is_active_in	cornified envelope	cellular_component

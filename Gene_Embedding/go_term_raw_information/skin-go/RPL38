@@ -1,0 +1,20 @@
+RPL38	P63173	enables	RNA binding	molecular_function
+RPL38	P63173	enables	structural constituent of ribosome	molecular_function
+RPL38	P63173	enables	protein binding	molecular_function
+RPL38	P63173	involved_in	skeletal system development	biological_process
+RPL38	P63173	involved_in	ossification	biological_process
+RPL38	P63173	involved_in	cytoplasmic translation	biological_process
+RPL38	P63173	involved_in	translation	biological_process
+RPL38	P63173	involved_in	regulation of translation	biological_process
+RPL38	P63173	involved_in	sensory perception of sound	biological_process
+RPL38	P63173	involved_in	90S preribosome assembly	biological_process
+RPL38	P63173	involved_in	middle ear morphogenesis	biological_process
+RPL38	P63173	involved_in	axial mesoderm development	biological_process
+RPL38	P63173	is_active_in	postsynaptic density	cellular_component
+RPL38	P63173	located_in	cytosol	cellular_component
+RPL38	P63173	located_in	focal adhesion	cellular_component
+RPL38	P63173	located_in	cytoplasm	cellular_component
+RPL38	P63173	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL38	P63173	located_in	cytosolic ribosome	cellular_component
+RPL38	P63173	part_of	eukaryotic 80S initiation complex	cellular_component
+RPL38	P63173	involved_in	protein-RNA complex assembly	biological_process

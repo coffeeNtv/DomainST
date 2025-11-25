@@ -1,0 +1,8 @@
+S100A7A	Q86SG5	enables	protein binding	molecular_function
+S100A7A	Q86SG5	enables	identical protein binding	molecular_function
+S100A7A	Q86SG5	enables	transition metal ion binding	molecular_function
+S100A7A	Q86SG5	located_in	cytosol	cellular_component
+S100A7A	Q86SG5	enables	calcium-dependent protein binding	molecular_function
+S100A7A	Q86SG5	is_active_in	cytoplasm	cellular_component
+S100A7A	Q86SG5	enables	calcium ion binding	molecular_function
+S100A7A	Q86SG5	involved_in	endothelial cell migration	biological_process

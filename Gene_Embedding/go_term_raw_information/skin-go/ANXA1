@@ -1,0 +1,75 @@
+ANXA1	P04083	colocalizes_with	actin filament	cellular_component
+ANXA1	P04083	enables	signaling receptor binding	molecular_function
+ANXA1	P04083	enables	calcium ion binding	molecular_function
+ANXA1	P04083	enables	protein binding	molecular_function
+ANXA1	P04083	enables	phospholipid binding	molecular_function
+ANXA1	P04083	enables	calcium-dependent phospholipid binding	molecular_function
+ANXA1	P04083	enables	lipid binding	molecular_function
+ANXA1	P04083	enables	phospholipase A2 inhibitor activity	molecular_function
+ANXA1	P04083	enables	calcium-dependent protein binding	molecular_function
+ANXA1	P04083	enables	cadherin binding involved in cell-cell adhesion	molecular_function
+ANXA1	P04083	involved_in	neutrophil homeostasis	biological_process
+ANXA1	P04083	involved_in	adaptive immune response	biological_process
+ANXA1	P04083	involved_in	monocyte chemotaxis	biological_process
+ANXA1	P04083	involved_in	regulation of leukocyte migration	biological_process
+ANXA1	P04083	involved_in	phagocytosis	biological_process
+ANXA1	P04083	involved_in	inflammatory response	biological_process
+ANXA1	P04083	involved_in	signal transduction	biological_process
+ANXA1	P04083	involved_in	cell surface receptor signaling pathway	biological_process
+ANXA1	P04083	involved_in	G protein-coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger	biological_process
+ANXA1	P04083	involved_in	regulation of cell shape	biological_process
+ANXA1	P04083	involved_in	myoblast migration involved in skeletal muscle regeneration	biological_process
+ANXA1	P04083	involved_in	peptide cross-linking	biological_process
+ANXA1	P04083	involved_in	actin cytoskeleton organization	biological_process
+ANXA1	P04083	involved_in	keratinocyte differentiation	biological_process
+ANXA1	P04083	involved_in	positive regulation of vesicle fusion	biological_process
+ANXA1	P04083	involved_in	regulation of interleukin-1 production	biological_process
+ANXA1	P04083	involved_in	negative regulation of interleukin-8 production	biological_process
+ANXA1	P04083	involved_in	positive regulation of interleukin-2 production	biological_process
+ANXA1	P04083	involved_in	positive regulation of neutrophil apoptotic process	biological_process
+ANXA1	P04083	involved_in	cellular response to vascular endothelial growth factor stimulus	biological_process
+ANXA1	P04083	involved_in	positive regulation of T cell proliferation	biological_process
+ANXA1	P04083	involved_in	neutrophil activation	biological_process
+ANXA1	P04083	involved_in	negative regulation of apoptotic process	biological_process
+ANXA1	P04083	involved_in	innate immune response	biological_process
+ANXA1	P04083	involved_in	positive regulation of T-helper 1 cell differentiation	biological_process
+ANXA1	P04083	involved_in	negative regulation of T-helper 2 cell differentiation	biological_process
+ANXA1	P04083	involved_in	negative regulation of exocytosis	biological_process
+ANXA1	P04083	involved_in	alpha-beta T cell differentiation	biological_process
+ANXA1	P04083	involved_in	regulation of hormone secretion	biological_process
+ANXA1	P04083	involved_in	arachidonate secretion	biological_process
+ANXA1	P04083	involved_in	regulation of inflammatory response	biological_process
+ANXA1	P04083	involved_in	cellular response to glucocorticoid stimulus	biological_process
+ANXA1	P04083	involved_in	granulocyte chemotaxis	biological_process
+ANXA1	P04083	involved_in	positive regulation of cell migration involved in sprouting angiogenesis	biological_process
+ANXA1	P04083	involved_in	positive regulation of wound healing	biological_process
+ANXA1	P04083	involved_in	neutrophil clearance	biological_process
+ANXA1	P04083	involved_in	cell-cell adhesion	biological_process
+ANXA1	P04083	involved_in	positive regulation of G1/S transition of mitotic cell cycle	biological_process
+ANXA1	P04083	located_in	cornified envelope	cellular_component
+ANXA1	P04083	located_in	phagocytic cup	cellular_component
+ANXA1	P04083	located_in	extracellular region	cellular_component
+ANXA1	P04083	located_in	extracellular space	cellular_component
+ANXA1	P04083	located_in	nucleus	cellular_component
+ANXA1	P04083	located_in	nucleoplasm	cellular_component
+ANXA1	P04083	located_in	cytoplasm	cellular_component
+ANXA1	P04083	located_in	endosome	cellular_component
+ANXA1	P04083	located_in	cytosol	cellular_component
+ANXA1	P04083	located_in	plasma membrane	cellular_component
+ANXA1	P04083	located_in	adherens junction	cellular_component
+ANXA1	P04083	located_in	focal adhesion	cellular_component
+ANXA1	P04083	located_in	cell surface	cellular_component
+ANXA1	P04083	located_in	basolateral plasma membrane	cellular_component
+ANXA1	P04083	located_in	apical plasma membrane	cellular_component
+ANXA1	P04083	located_in	lateral plasma membrane	cellular_component
+ANXA1	P04083	located_in	motile cilium	cellular_component
+ANXA1	P04083	located_in	early endosome membrane	cellular_component
+ANXA1	P04083	located_in	vesicle	cellular_component
+ANXA1	P04083	located_in	sarcolemma	cellular_component
+ANXA1	P04083	located_in	collagen-containing extracellular matrix	cellular_component
+ANXA1	P04083	located_in	extracellular exosome	cellular_component
+ANXA1	P04083	is_active_in	cytoplasm	cellular_component
+ANXA1	P04083	is_active_in	nucleus	cellular_component
+ANXA1	P04083	enables	phosphatidylserine binding	molecular_function
+ANXA1	P04083	is_active_in	vesicle membrane	cellular_component
+ANXA1	P04083	is_active_in	plasma membrane	cellular_component

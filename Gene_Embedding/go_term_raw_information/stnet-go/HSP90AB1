@@ -1,0 +1,76 @@
+HSP90AB1	P08238	acts_upstream_of_positive_effect	telomere maintenance via telomerase	biological_process
+HSP90AB1	P08238	part_of	COP9 signalosome	cellular_component
+HSP90AB1	P08238	enables	RNA binding	molecular_function
+HSP90AB1	P08238	enables	double-stranded RNA binding	molecular_function
+HSP90AB1	P08238	enables	protein binding	molecular_function
+HSP90AB1	P08238	enables	ATP binding	molecular_function
+HSP90AB1	P08238	enables	ATP hydrolysis activity	molecular_function
+HSP90AB1	P08238	enables	protein kinase regulator activity	molecular_function
+HSP90AB1	P08238	enables	kinase binding	molecular_function
+HSP90AB1	P08238	enables	protein kinase binding	molecular_function
+HSP90AB1	P08238	enables	MHC class II protein complex binding	molecular_function
+HSP90AB1	P08238	enables	nitric-oxide synthase regulator activity	molecular_function
+HSP90AB1	P08238	enables	TPR domain binding	molecular_function
+HSP90AB1	P08238	enables	heat shock protein binding	molecular_function
+HSP90AB1	P08238	enables	ubiquitin protein ligase binding	molecular_function
+HSP90AB1	P08238	enables	peptide binding	molecular_function
+HSP90AB1	P08238	enables	identical protein binding	molecular_function
+HSP90AB1	P08238	enables	protein homodimerization activity	molecular_function
+HSP90AB1	P08238	enables	histone deacetylase binding	molecular_function
+HSP90AB1	P08238	enables	ATP-dependent protein binding	molecular_function
+HSP90AB1	P08238	enables	protein folding chaperone	molecular_function
+HSP90AB1	P08238	enables	cadherin binding	molecular_function
+HSP90AB1	P08238	enables	protein dimerization activity	molecular_function
+HSP90AB1	P08238	enables	tau protein binding	molecular_function
+HSP90AB1	P08238	enables	DNA polymerase binding	molecular_function
+HSP90AB1	P08238	enables	protein phosphatase activator activity	molecular_function
+HSP90AB1	P08238	enables	disordered domain specific binding	molecular_function
+HSP90AB1	P08238	enables	ATP-dependent protein folding chaperone	molecular_function
+HSP90AB1	P08238	enables	receptor ligand inhibitor activity	molecular_function
+HSP90AB1	P08238	enables	histone methyltransferase binding	molecular_function
+HSP90AB1	P08238	involved_in	placenta development	biological_process
+HSP90AB1	P08238	involved_in	response to unfolded protein	biological_process
+HSP90AB1	P08238	involved_in	virion attachment to host cell	biological_process
+HSP90AB1	P08238	involved_in	positive regulation of transforming growth factor beta receptor signaling pathway	biological_process
+HSP90AB1	P08238	involved_in	regulation of protein ubiquitination	biological_process
+HSP90AB1	P08238	involved_in	negative regulation of proteasomal ubiquitin-dependent protein catabolic process	biological_process
+HSP90AB1	P08238	involved_in	regulation of protein localization	biological_process
+HSP90AB1	P08238	involved_in	negative regulation of apoptotic process	biological_process
+HSP90AB1	P08238	involved_in	positive regulation of nitric oxide biosynthetic process	biological_process
+HSP90AB1	P08238	involved_in	positive regulation of cell differentiation	biological_process
+HSP90AB1	P08238	involved_in	chaperone-mediated protein complex assembly	biological_process
+HSP90AB1	P08238	involved_in	regulation of cell cycle	biological_process
+HSP90AB1	P08238	involved_in	chaperone-mediated protein folding	biological_process
+HSP90AB1	P08238	involved_in	cellular response to interleukin-4	biological_process
+HSP90AB1	P08238	involved_in	supramolecular fiber organization	biological_process
+HSP90AB1	P08238	involved_in	negative regulation of proteasomal protein catabolic process	biological_process
+HSP90AB1	P08238	involved_in	telomerase holoenzyme complex assembly	biological_process
+HSP90AB1	P08238	involved_in	positive regulation of protein localization to cell surface	biological_process
+HSP90AB1	P08238	part_of	protein folding chaperone complex	cellular_component
+HSP90AB1	P08238	located_in	extracellular region	cellular_component
+HSP90AB1	P08238	located_in	nucleus	cellular_component
+HSP90AB1	P08238	located_in	nucleoplasm	cellular_component
+HSP90AB1	P08238	located_in	cytoplasm	cellular_component
+HSP90AB1	P08238	located_in	mitochondrion	cellular_component
+HSP90AB1	P08238	located_in	cytosol	cellular_component
+HSP90AB1	P08238	located_in	cell surface	cellular_component
+HSP90AB1	P08238	located_in	membrane	cellular_component
+HSP90AB1	P08238	located_in	secretory granule lumen	cellular_component
+HSP90AB1	P08238	located_in	melanosome	cellular_component
+HSP90AB1	P08238	located_in	neuronal cell body	cellular_component
+HSP90AB1	P08238	located_in	dendritic growth cone	cellular_component
+HSP90AB1	P08238	located_in	axonal growth cone	cellular_component
+HSP90AB1	P08238	located_in	perinuclear region of cytoplasm	cellular_component
+HSP90AB1	P08238	located_in	extracellular exosome	cellular_component
+HSP90AB1	P08238	located_in	dynein axonemal particle	cellular_component
+HSP90AB1	P08238	located_in	ficolin-1-rich granule lumen	cellular_component
+HSP90AB1	P08238	part_of	protein-containing complex	cellular_component
+HSP90AB1	P08238	part_of	aryl hydrocarbon receptor complex	cellular_component
+HSP90AB1	P08238	part_of	HSP90-CDC37 chaperone complex	cellular_component
+HSP90AB1	P08238	involved_in	protein folding	biological_process
+HSP90AB1	P08238	involved_in	protein stabilization	biological_process
+HSP90AB1	P08238	involved_in	cellular response to heat	biological_process
+HSP90AB1	P08238	is_active_in	perinuclear region of cytoplasm	cellular_component
+HSP90AB1	P08238	is_active_in	cytosol	cellular_component
+HSP90AB1	P08238	is_active_in	plasma membrane	cellular_component
+HSP90AB1	P08238	enables	unfolded protein binding	molecular_function

@@ -1,0 +1,19 @@
+RPL10	P27635	acts_upstream_of_or_within	translation	biological_process
+RPL10	P27635	colocalizes_with	smooth endoplasmic reticulum	cellular_component
+RPL10	P27635	enables	RNA binding	molecular_function
+RPL10	P27635	enables	structural constituent of ribosome	molecular_function
+RPL10	P27635	enables	protein binding	molecular_function
+RPL10	P27635	enables	translation regulator activity	molecular_function
+RPL10	P27635	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
+RPL10	P27635	involved_in	cytoplasmic translation	biological_process
+RPL10	P27635	involved_in	translation	biological_process
+RPL10	P27635	involved_in	regulation of translation	biological_process
+RPL10	P27635	involved_in	negative regulation of apoptotic process	biological_process
+RPL10	P27635	involved_in	embryonic brain development	biological_process
+RPL10	P27635	located_in	nucleus	cellular_component
+RPL10	P27635	located_in	endoplasmic reticulum	cellular_component
+RPL10	P27635	located_in	cytosol	cellular_component
+RPL10	P27635	located_in	membrane	cellular_component
+RPL10	P27635	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL10	P27635	located_in	cytosolic ribosome	cellular_component
+RPL10	P27635	part_of	protein-containing complex	cellular_component

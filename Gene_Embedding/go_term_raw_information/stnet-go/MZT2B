@@ -1,0 +1,8 @@
+MZT2B	Q6NZ67	enables	protein binding	molecular_function
+MZT2B	Q6NZ67	located_in	nucleoplasm	cellular_component
+MZT2B	Q6NZ67	located_in	centrosome	cellular_component
+MZT2B	Q6NZ67	located_in	spindle	cellular_component
+MZT2B	Q6NZ67	located_in	cytosol	cellular_component
+MZT2B	Q6NZ67	part_of	gamma-tubulin ring complex	cellular_component
+MZT2B	Q6NZ67	is_active_in	centrosome	cellular_component
+MZT2B	Q6NZ67	is_active_in	spindle	cellular_component

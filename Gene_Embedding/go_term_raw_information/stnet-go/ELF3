@@ -1,0 +1,20 @@
+ELF3	P78545	enables	RNA polymerase II cis-regulatory region sequence-specific DNA binding	molecular_function
+ELF3	P78545	enables	DNA-binding transcription factor activity, RNA polymerase II-specific	molecular_function
+ELF3	P78545	enables	DNA-binding transcription activator activity, RNA polymerase II-specific	molecular_function
+ELF3	P78545	enables	DNA-binding transcription factor activity	molecular_function
+ELF3	P78545	enables	protein binding	molecular_function
+ELF3	P78545	enables	sequence-specific double-stranded DNA binding	molecular_function
+ELF3	P78545	involved_in	blastocyst development	biological_process
+ELF3	P78545	involved_in	inflammatory response	biological_process
+ELF3	P78545	involved_in	cell differentiation	biological_process
+ELF3	P78545	involved_in	extracellular matrix organization	biological_process
+ELF3	P78545	involved_in	negative regulation of DNA-templated transcription	biological_process
+ELF3	P78545	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+ELF3	P78545	involved_in	mammary gland involution	biological_process
+ELF3	P78545	located_in	chromatin	cellular_component
+ELF3	P78545	located_in	nucleus	cellular_component
+ELF3	P78545	located_in	nucleoplasm	cellular_component
+ELF3	P78545	located_in	Golgi apparatus	cellular_component
+ELF3	P78545	located_in	cytosol	cellular_component
+ELF3	P78545	involved_in	regulation of transcription by RNA polymerase II	biological_process
+ELF3	P78545	is_active_in	nucleus	cellular_component

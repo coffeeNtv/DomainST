@@ -1,0 +1,31 @@
+RPL11	P62913	enables	RNA binding	molecular_function
+RPL11	P62913	enables	structural constituent of ribosome	molecular_function
+RPL11	P62913	enables	protein binding	molecular_function
+RPL11	P62913	enables	5S rRNA binding	molecular_function
+RPL11	P62913	enables	ubiquitin protein ligase binding	molecular_function
+RPL11	P62913	enables	ubiquitin ligase inhibitor activity	molecular_function
+RPL11	P62913	involved_in	ribosomal large subunit assembly	biological_process
+RPL11	P62913	involved_in	cytoplasmic translation	biological_process
+RPL11	P62913	involved_in	rRNA processing	biological_process
+RPL11	P62913	involved_in	translation	biological_process
+RPL11	P62913	involved_in	protein targeting	biological_process
+RPL11	P62913	involved_in	positive regulation of gene expression	biological_process
+RPL11	P62913	involved_in	positive regulation of protein binding	biological_process
+RPL11	P62913	involved_in	negative regulation of proteasomal ubiquitin-dependent protein catabolic process	biological_process
+RPL11	P62913	involved_in	protein localization to nucleus	biological_process
+RPL11	P62913	involved_in	ribosomal large subunit biogenesis	biological_process
+RPL11	P62913	involved_in	protein stabilization	biological_process
+RPL11	P62913	involved_in	regulation of signal transduction by p53 class mediator	biological_process
+RPL11	P62913	involved_in	positive regulation of signal transduction by p53 class mediator	biological_process
+RPL11	P62913	involved_in	negative regulation of ubiquitin protein ligase activity	biological_process
+RPL11	P62913	involved_in	negative regulation of ubiquitin-dependent protein catabolic process	biological_process
+RPL11	P62913	involved_in	negative regulation of protein neddylation	biological_process
+RPL11	P62913	located_in	nucleoplasm	cellular_component
+RPL11	P62913	located_in	nucleolus	cellular_component
+RPL11	P62913	located_in	cytoplasm	cellular_component
+RPL11	P62913	located_in	cytosol	cellular_component
+RPL11	P62913	located_in	membrane	cellular_component
+RPL11	P62913	located_in	extracellular exosome	cellular_component
+RPL11	P62913	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL11	P62913	located_in	cytosolic ribosome	cellular_component
+RPL11	P62913	part_of	protein-containing complex	cellular_component

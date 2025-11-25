@@ -1,0 +1,37 @@
+FABP5	Q01469	enables	retinoic acid binding	molecular_function
+FABP5	Q01469	enables	long-chain fatty acid transmembrane transporter activity	molecular_function
+FABP5	Q01469	enables	fatty acid binding	molecular_function
+FABP5	Q01469	enables	protein binding	molecular_function
+FABP5	Q01469	enables	lipid binding	molecular_function
+FABP5	Q01469	enables	identical protein binding	molecular_function
+FABP5	Q01469	involved_in	glucose metabolic process	biological_process
+FABP5	Q01469	involved_in	lipid metabolic process	biological_process
+FABP5	Q01469	involved_in	phosphatidylcholine biosynthetic process	biological_process
+FABP5	Q01469	involved_in	epidermis development	biological_process
+FABP5	Q01469	involved_in	negative regulation of D-glucose transmembrane transport	biological_process
+FABP5	Q01469	involved_in	long-chain fatty acid transport	biological_process
+FABP5	Q01469	involved_in	regulation of prostaglandin biosynthetic process	biological_process
+FABP5	Q01469	involved_in	positive regulation of peroxisome proliferator activated receptor signaling pathway	biological_process
+FABP5	Q01469	involved_in	glucose homeostasis	biological_process
+FABP5	Q01469	involved_in	regulation of sensory perception of pain	biological_process
+FABP5	Q01469	involved_in	retrograde trans-synaptic signaling by endocannabinoid	biological_process
+FABP5	Q01469	involved_in	regulation of retrograde trans-synaptic signaling by endocanabinoid	biological_process
+FABP5	Q01469	involved_in	positive regulation of cold-induced thermogenesis	biological_process
+FABP5	Q01469	involved_in	lipid transport across blood-brain barrier	biological_process
+FABP5	Q01469	located_in	extracellular region	cellular_component
+FABP5	Q01469	located_in	nucleus	cellular_component
+FABP5	Q01469	located_in	nucleoplasm	cellular_component
+FABP5	Q01469	located_in	cytoplasm	cellular_component
+FABP5	Q01469	located_in	cytosol	cellular_component
+FABP5	Q01469	located_in	plasma membrane	cellular_component
+FABP5	Q01469	located_in	postsynaptic density	cellular_component
+FABP5	Q01469	located_in	secretory granule membrane	cellular_component
+FABP5	Q01469	located_in	azurophil granule lumen	cellular_component
+FABP5	Q01469	located_in	synapse	cellular_component
+FABP5	Q01469	located_in	extracellular exosome	cellular_component
+FABP5	Q01469	located_in	glutamatergic synapse	cellular_component
+FABP5	Q01469	located_in	postsynaptic density, intracellular component	cellular_component
+FABP5	Q01469	located_in	postsynaptic cytosol	cellular_component
+FABP5	Q01469	is_active_in	nucleus	cellular_component
+FABP5	Q01469	involved_in	fatty acid transport	biological_process
+FABP5	Q01469	is_active_in	cytosol	cellular_component

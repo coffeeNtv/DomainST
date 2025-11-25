@@ -1,0 +1,12 @@
+EIF1	P41567	enables	RNA binding	molecular_function
+EIF1	P41567	enables	translation initiation factor activity	molecular_function
+EIF1	P41567	enables	protein binding	molecular_function
+EIF1	P41567	enables	translation factor activity, RNA binding	molecular_function
+EIF1	P41567	enables	ribosomal small subunit binding	molecular_function
+EIF1	P41567	involved_in	translational initiation	biological_process
+EIF1	P41567	involved_in	regulation of translational initiation	biological_process
+EIF1	P41567	located_in	nucleus	cellular_component
+EIF1	P41567	located_in	cytoplasm	cellular_component
+EIF1	P41567	part_of	eukaryotic 43S preinitiation complex	cellular_component
+EIF1	P41567	part_of	eukaryotic 48S preinitiation complex	cellular_component
+EIF1	P41567	part_of	multi-eIF complex	cellular_component

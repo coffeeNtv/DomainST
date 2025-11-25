@@ -1,0 +1,51 @@
+HLA-A	P04439	NOT|involved_in	protection from natural killer cell mediated cytotoxicity	biological_process
+HLA-A	P04439	enables	RNA binding	molecular_function
+HLA-A	P04439	enables	signaling receptor binding	molecular_function
+HLA-A	P04439	enables	protein binding	molecular_function
+HLA-A	P04439	enables	beta-2-microglobulin binding	molecular_function
+HLA-A	P04439	enables	peptide antigen binding	molecular_function
+HLA-A	P04439	enables	T cell receptor binding	molecular_function
+HLA-A	P04439	enables	CD8 receptor binding	molecular_function
+HLA-A	P04439	enables	TAP binding	molecular_function
+HLA-A	P04439	enables	TAP complex binding	molecular_function
+HLA-A	P04439	involved_in	T cell mediated cytotoxicity	biological_process
+HLA-A	P04439	involved_in	positive regulation of T cell mediated cytotoxicity	biological_process
+HLA-A	P04439	involved_in	T cell mediated cytotoxicity directed against tumor cell target	biological_process
+HLA-A	P04439	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-dependent	biological_process
+HLA-A	P04439	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	biological_process
+HLA-A	P04439	involved_in	peptide antigen assembly with MHC class I protein complex	biological_process
+HLA-A	P04439	involved_in	positive regulation of T cell cytokine production	biological_process
+HLA-A	P04439	involved_in	immune response	biological_process
+HLA-A	P04439	involved_in	detection of bacterium	biological_process
+HLA-A	P04439	involved_in	antibacterial humoral response	biological_process
+HLA-A	P04439	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class I	biological_process
+HLA-A	P04439	involved_in	positive regulation of type II interferon production	biological_process
+HLA-A	P04439	involved_in	CD8-positive, alpha-beta T cell activation	biological_process
+HLA-A	P04439	involved_in	protection from natural killer cell mediated cytotoxicity	biological_process
+HLA-A	P04439	involved_in	antigen processing and presentation of exogenous peptide antigen via MHC class I	biological_process
+HLA-A	P04439	involved_in	innate immune response	biological_process
+HLA-A	P04439	involved_in	defense response to Gram-positive bacterium	biological_process
+HLA-A	P04439	involved_in	T cell receptor signaling pathway	biological_process
+HLA-A	P04439	involved_in	positive regulation of CD8-positive, alpha-beta T cell proliferation	biological_process
+HLA-A	P04439	involved_in	positive regulation of memory T cell activation	biological_process
+HLA-A	P04439	involved_in	positive regulation of CD8-positive, alpha-beta T cell activation	biological_process
+HLA-A	P04439	located_in	Golgi membrane	cellular_component
+HLA-A	P04439	located_in	endoplasmic reticulum	cellular_component
+HLA-A	P04439	located_in	endoplasmic reticulum membrane	cellular_component
+HLA-A	P04439	located_in	Golgi apparatus	cellular_component
+HLA-A	P04439	located_in	Golgi medial cisterna	cellular_component
+HLA-A	P04439	located_in	plasma membrane	cellular_component
+HLA-A	P04439	located_in	cell surface	cellular_component
+HLA-A	P04439	located_in	ER to Golgi transport vesicle membrane	cellular_component
+HLA-A	P04439	located_in	membrane	cellular_component
+HLA-A	P04439	located_in	phagocytic vesicle membrane	cellular_component
+HLA-A	P04439	located_in	early endosome membrane	cellular_component
+HLA-A	P04439	located_in	recycling endosome membrane	cellular_component
+HLA-A	P04439	located_in	extracellular exosome	cellular_component
+HLA-A	P04439	located_in	endoplasmic reticulum exit site	cellular_component
+HLA-A	P04439	located_in	lumenal side of endoplasmic reticulum membrane	cellular_component
+HLA-A	P04439	part_of	MHC class I protein complex	cellular_component
+HLA-A	P04439	part_of	MHC class I peptide loading complex	cellular_component
+HLA-A	P04439	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	biological_process
+HLA-A	P04439	is_active_in	extracellular space	cellular_component
+HLA-A	P04439	is_active_in	external side of plasma membrane	cellular_component

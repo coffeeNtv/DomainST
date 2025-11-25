@@ -1,0 +1,58 @@
+DDX5	P17844	NOT|involved_in	regulation of miRNA transcription	biological_process
+DDX5	P17844	enables	DNA clamp loader activity	molecular_function
+DDX5	P17844	enables	RNA binding	molecular_function
+DDX5	P17844	enables	RNA helicase activity	molecular_function
+DDX5	P17844	enables	mRNA 3'-UTR binding	molecular_function
+DDX5	P17844	enables	protein binding	molecular_function
+DDX5	P17844	enables	calmodulin binding	molecular_function
+DDX5	P17844	enables	ATP binding	molecular_function
+DDX5	P17844	enables	ATP hydrolysis activity	molecular_function
+DDX5	P17844	enables	enzyme binding	molecular_function
+DDX5	P17844	enables	MH2 domain binding	molecular_function
+DDX5	P17844	enables	pre-mRNA binding	molecular_function
+DDX5	P17844	enables	ribonucleoprotein complex binding	molecular_function
+DDX5	P17844	enables	SMAD binding	molecular_function
+DDX5	P17844	enables	calcium-dependent protein binding	molecular_function
+DDX5	P17844	enables	nuclear androgen receptor binding	molecular_function
+DDX5	P17844	enables	cohesin loader activity	molecular_function
+DDX5	P17844	enables	R-SMAD binding	molecular_function
+DDX5	P17844	enables	primary miRNA binding	molecular_function
+DDX5	P17844	enables	chromatin extrusion motor activity	molecular_function
+DDX5	P17844	enables	ATP-dependent H3-H4 histone complex chaperone activity	molecular_function
+DDX5	P17844	enables	ATP-dependent H2AZ histone chaperone activity	molecular_function
+DDX5	P17844	enables	promoter-specific chromatin binding	molecular_function
+DDX5	P17844	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
+DDX5	P17844	involved_in	alternative mRNA splicing, via spliceosome	biological_process
+DDX5	P17844	involved_in	regulation of alternative mRNA splicing, via spliceosome	biological_process
+DDX5	P17844	involved_in	mRNA splicing, via spliceosome	biological_process
+DDX5	P17844	involved_in	nuclear-transcribed mRNA catabolic process	biological_process
+DDX5	P17844	involved_in	epithelial to mesenchymal transition	biological_process
+DDX5	P17844	involved_in	chromatin remodeling	biological_process
+DDX5	P17844	involved_in	regulation of transcription by RNA polymerase II	biological_process
+DDX5	P17844	involved_in	mRNA transcription	biological_process
+DDX5	P17844	involved_in	BMP signaling pathway	biological_process
+DDX5	P17844	involved_in	estrogen receptor signaling pathway	biological_process
+DDX5	P17844	involved_in	androgen receptor signaling pathway	biological_process
+DDX5	P17844	involved_in	primary miRNA processing	biological_process
+DDX5	P17844	involved_in	positive regulation of DNA damage response, signal transduction by p53 class mediator	biological_process
+DDX5	P17844	involved_in	regulation of viral genome replication	biological_process
+DDX5	P17844	involved_in	myoblast differentiation	biological_process
+DDX5	P17844	involved_in	regulation of osteoblast differentiation	biological_process
+DDX5	P17844	involved_in	rhythmic process	biological_process
+DDX5	P17844	involved_in	regulation of androgen receptor signaling pathway	biological_process
+DDX5	P17844	involved_in	miRNA transcription	biological_process
+DDX5	P17844	involved_in	intrinsic apoptotic signaling pathway by p53 class mediator	biological_process
+DDX5	P17844	involved_in	chromatin looping	biological_process
+DDX5	P17844	involved_in	regulation of skeletal muscle cell differentiation	biological_process
+DDX5	P17844	located_in	nucleus	cellular_component
+DDX5	P17844	located_in	nucleoplasm	cellular_component
+DDX5	P17844	located_in	nucleolus	cellular_component
+DDX5	P17844	located_in	cytosol	cellular_component
+DDX5	P17844	located_in	membrane	cellular_component
+DDX5	P17844	located_in	nuclear speck	cellular_component
+DDX5	P17844	located_in	extracellular exosome	cellular_component
+DDX5	P17844	part_of	catalytic step 2 spliceosome	cellular_component
+DDX5	P17844	part_of	ribonucleoprotein complex	cellular_component
+DDX5	P17844	is_active_in	nucleus	cellular_component
+DDX5	P17844	enables	mRNA binding	molecular_function
+DDX5	P17844	is_active_in	cytoplasm	cellular_component

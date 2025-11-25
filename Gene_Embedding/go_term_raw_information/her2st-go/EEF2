@@ -1,0 +1,25 @@
+EEF2	P13639	enables	RNA binding	molecular_function
+EEF2	P13639	enables	translation elongation factor activity	molecular_function
+EEF2	P13639	enables	GTPase activity	molecular_function
+EEF2	P13639	enables	protein binding	molecular_function
+EEF2	P13639	enables	GTP binding	molecular_function
+EEF2	P13639	enables	protein kinase binding	molecular_function
+EEF2	P13639	enables	ribosome binding	molecular_function
+EEF2	P13639	enables	cadherin binding	molecular_function
+EEF2	P13639	involved_in	hematopoietic progenitor cell differentiation	biological_process
+EEF2	P13639	involved_in	translational elongation	biological_process
+EEF2	P13639	involved_in	positive regulation of translation	biological_process
+EEF2	P13639	located_in	extracellular region	cellular_component
+EEF2	P13639	located_in	nucleus	cellular_component
+EEF2	P13639	located_in	cytoplasm	cellular_component
+EEF2	P13639	located_in	cytosol	cellular_component
+EEF2	P13639	located_in	ribosome	cellular_component
+EEF2	P13639	located_in	plasma membrane	cellular_component
+EEF2	P13639	located_in	membrane	cellular_component
+EEF2	P13639	located_in	aggresome	cellular_component
+EEF2	P13639	located_in	secretory granule lumen	cellular_component
+EEF2	P13639	located_in	synapse	cellular_component
+EEF2	P13639	located_in	extracellular exosome	cellular_component
+EEF2	P13639	located_in	ficolin-1-rich granule lumen	cellular_component
+EEF2	P13639	part_of	ribonucleoprotein complex	cellular_component
+EEF2	P13639	is_active_in	cytosol	cellular_component

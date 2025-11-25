@@ -1,0 +1,11 @@
+KRT7	P08729	enables	protein binding	molecular_function
+KRT7	P08729	located_in	nucleus	cellular_component
+KRT7	P08729	located_in	cytoplasm	cellular_component
+KRT7	P08729	located_in	cytosol	cellular_component
+KRT7	P08729	located_in	intermediate filament	cellular_component
+KRT7	P08729	located_in	intermediate filament cytoskeleton	cellular_component
+KRT7	P08729	located_in	extracellular exosome	cellular_component
+KRT7	P08729	is_active_in	keratin filament	cellular_component
+KRT7	P08729	enables	structural constituent of skin epidermis	molecular_function
+KRT7	P08729	involved_in	intermediate filament organization	biological_process
+KRT7	P08729	involved_in	keratinization	biological_process

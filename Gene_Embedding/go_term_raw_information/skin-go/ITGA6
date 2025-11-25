@@ -1,0 +1,35 @@
+ITGA6	P23229	acts_upstream_of_or_within	positive regulation of apoptotic process	biological_process
+ITGA6	P23229	enables	protein binding	molecular_function
+ITGA6	P23229	enables	insulin-like growth factor I binding	molecular_function
+ITGA6	P23229	enables	neuregulin binding	molecular_function
+ITGA6	P23229	enables	laminin binding	molecular_function
+ITGA6	P23229	enables	cadherin binding	molecular_function
+ITGA6	P23229	enables	metal ion binding	molecular_function
+ITGA6	P23229	involved_in	cell-substrate junction assembly	biological_process
+ITGA6	P23229	involved_in	cell-matrix adhesion	biological_process
+ITGA6	P23229	involved_in	integrin-mediated signaling pathway	biological_process
+ITGA6	P23229	involved_in	ectodermal cell differentiation	biological_process
+ITGA6	P23229	involved_in	positive regulation of cell-substrate adhesion	biological_process
+ITGA6	P23229	involved_in	positive regulation of neuron projection development	biological_process
+ITGA6	P23229	involved_in	positive regulation of cell migration	biological_process
+ITGA6	P23229	involved_in	cell-substrate adhesion	biological_process
+ITGA6	P23229	involved_in	nail development	biological_process
+ITGA6	P23229	involved_in	positive regulation of phosphorylation	biological_process
+ITGA6	P23229	involved_in	positive regulation of GTPase activity	biological_process
+ITGA6	P23229	involved_in	skin morphogenesis	biological_process
+ITGA6	P23229	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+ITGA6	P23229	involved_in	cellular response to organic cyclic compound	biological_process
+ITGA6	P23229	involved_in	negative regulation of extrinsic apoptotic signaling pathway	biological_process
+ITGA6	P23229	located_in	plasma membrane	cellular_component
+ITGA6	P23229	located_in	adherens junction	cellular_component
+ITGA6	P23229	located_in	focal adhesion	cellular_component
+ITGA6	P23229	located_in	cell surface	cellular_component
+ITGA6	P23229	located_in	filopodium	cellular_component
+ITGA6	P23229	part_of	integrin alpha6-beta1 complex	cellular_component
+ITGA6	P23229	part_of	integrin alpha6-beta4 complex	cellular_component
+ITGA6	P23229	enables	integrin binding	molecular_function
+ITGA6	P23229	part_of	integrin complex	cellular_component
+ITGA6	P23229	is_active_in	external side of plasma membrane	cellular_component
+ITGA6	P23229	involved_in	leukocyte migration	biological_process
+ITGA6	P23229	involved_in	cell adhesion mediated by integrin	biological_process
+ITGA6	P23229	involved_in	cell-cell adhesion	biological_process

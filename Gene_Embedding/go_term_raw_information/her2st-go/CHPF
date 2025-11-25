@@ -1,0 +1,10 @@
+CHPF	Q8IZ52	enables	protein binding	molecular_function
+CHPF	Q8IZ52	enables	metal ion binding	molecular_function
+CHPF	Q8IZ52	enables	glucuronosyl-N-acetylgalactosaminyl-proteoglycan 4-beta-N-acetylgalactosaminyltransferase activity	molecular_function
+CHPF	Q8IZ52	enables	N-acetylgalactosaminyl-proteoglycan 3-beta-glucuronosyltransferase activity	molecular_function
+CHPF	Q8IZ52	involved_in	chondroitin sulfate biosynthetic process	biological_process
+CHPF	Q8IZ52	involved_in	chondroitin sulfate proteoglycan biosynthetic process, polysaccharide chain biosynthetic process	biological_process
+CHPF	Q8IZ52	located_in	Golgi membrane	cellular_component
+CHPF	Q8IZ52	located_in	mitochondrial matrix	cellular_component
+CHPF	Q8IZ52	located_in	cytosol	cellular_component
+CHPF	Q8IZ52	located_in	Golgi cisterna membrane	cellular_component

@@ -1,0 +1,11 @@
+COX6B1	P14854	enables	cytochrome-c oxidase activity	molecular_function
+COX6B1	P14854	involved_in	mitochondrial electron transport, cytochrome c to oxygen	biological_process
+COX6B1	P14854	involved_in	substantia nigra development	biological_process
+COX6B1	P14854	involved_in	cellular respiration	biological_process
+COX6B1	P14854	involved_in	proton transmembrane transport	biological_process
+COX6B1	P14854	located_in	mitochondrion	cellular_component
+COX6B1	P14854	located_in	mitochondrial inner membrane	cellular_component
+COX6B1	P14854	located_in	mitochondrial membrane	cellular_component
+COX6B1	P14854	is_active_in	mitochondrial inner membrane	cellular_component
+COX6B1	P14854	is_active_in	mitochondrion	cellular_component
+COX6B1	P14854	part_of	respiratory chain complex IV	cellular_component

@@ -1,0 +1,22 @@
+EIF4G2	P78344	enables	RNA binding	molecular_function
+EIF4G2	P78344	enables	translation initiation factor activity	molecular_function
+EIF4G2	P78344	enables	protein binding	molecular_function
+EIF4G2	P78344	enables	translation factor activity, RNA binding	molecular_function
+EIF4G2	P78344	enables	cadherin binding	molecular_function
+EIF4G2	P78344	involved_in	regulation of translational initiation	biological_process
+EIF4G2	P78344	involved_in	heart development	biological_process
+EIF4G2	P78344	involved_in	cell death	biological_process
+EIF4G2	P78344	involved_in	macromolecule biosynthetic process	biological_process
+EIF4G2	P78344	involved_in	negative regulation of autophagy	biological_process
+EIF4G2	P78344	involved_in	positive regulation of cell growth	biological_process
+EIF4G2	P78344	involved_in	positive regulation of translation	biological_process
+EIF4G2	P78344	involved_in	positive regulation of axon extension	biological_process
+EIF4G2	P78344	involved_in	regulation of cell cycle	biological_process
+EIF4G2	P78344	involved_in	positive regulation of dendritic spine development	biological_process
+EIF4G2	P78344	located_in	cytosol	cellular_component
+EIF4G2	P78344	located_in	adherens junction	cellular_component
+EIF4G2	P78344	located_in	membrane	cellular_component
+EIF4G2	P78344	located_in	axon	cellular_component
+EIF4G2	P78344	part_of	eukaryotic translation initiation factor 4F complex	cellular_component
+EIF4G2	P78344	involved_in	translational initiation	biological_process
+EIF4G2	P78344	enables	mRNA binding	molecular_function

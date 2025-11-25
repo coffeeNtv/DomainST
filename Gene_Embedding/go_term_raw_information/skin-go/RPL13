@@ -1,0 +1,16 @@
+RPL13	P26373	enables	RNA binding	molecular_function
+RPL13	P26373	enables	structural constituent of ribosome	molecular_function
+RPL13	P26373	enables	protein binding	molecular_function
+RPL13	P26373	involved_in	blastocyst development	biological_process
+RPL13	P26373	involved_in	cytoplasmic translation	biological_process
+RPL13	P26373	involved_in	translation	biological_process
+RPL13	P26373	involved_in	bone development	biological_process
+RPL13	P26373	located_in	nucleus	cellular_component
+RPL13	P26373	located_in	nucleolus	cellular_component
+RPL13	P26373	located_in	endoplasmic reticulum	cellular_component
+RPL13	P26373	located_in	cytosol	cellular_component
+RPL13	P26373	located_in	membrane	cellular_component
+RPL13	P26373	located_in	synapse	cellular_component
+RPL13	P26373	located_in	cytoplasm	cellular_component
+RPL13	P26373	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL13	P26373	located_in	cytosolic ribosome	cellular_component

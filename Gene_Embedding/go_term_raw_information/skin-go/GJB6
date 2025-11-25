@@ -1,0 +1,25 @@
+GJB6	O95452	enables	gap junction channel activity	molecular_function
+GJB6	O95452	enables	protein binding	molecular_function
+GJB6	O95452	enables	microtubule binding	molecular_function
+GJB6	O95452	enables	beta-tubulin binding	molecular_function
+GJB6	O95452	enables	actin filament binding	molecular_function
+GJB6	O95452	enables	gap junction channel activity involved in cell communication by electrical coupling	molecular_function
+GJB6	O95452	involved_in	sinoatrial node development	biological_process
+GJB6	O95452	involved_in	sensory perception of sound	biological_process
+GJB6	O95452	involved_in	negative regulation of cell population proliferation	biological_process
+GJB6	O95452	involved_in	cell communication by electrical coupling	biological_process
+GJB6	O95452	involved_in	gap junction assembly	biological_process
+GJB6	O95452	involved_in	response to lipopolysaccharide	biological_process
+GJB6	O95452	involved_in	maintenance of blood-brain barrier	biological_process
+GJB6	O95452	involved_in	ear morphogenesis	biological_process
+GJB6	O95452	involved_in	inner ear development	biological_process
+GJB6	O95452	involved_in	response to electrical stimulus	biological_process
+GJB6	O95452	involved_in	transmembrane transport	biological_process
+GJB6	O95452	involved_in	cellular response to glucose stimulus	biological_process
+GJB6	O95452	involved_in	gap junction-mediated intercellular transport	biological_process
+GJB6	O95452	located_in	actin filament	cellular_component
+GJB6	O95452	located_in	gap junction	cellular_component
+GJB6	O95452	located_in	apical plasma membrane	cellular_component
+GJB6	O95452	located_in	cell junction	cellular_component
+GJB6	O95452	involved_in	cell-cell signaling	biological_process
+GJB6	O95452	part_of	connexin complex	cellular_component

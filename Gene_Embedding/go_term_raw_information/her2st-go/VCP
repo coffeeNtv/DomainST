@@ -1,0 +1,100 @@
+VCP	P55072	enables	DNA clamp loader activity	molecular_function
+VCP	P55072	enables	RNA binding	molecular_function
+VCP	P55072	enables	protein binding	molecular_function
+VCP	P55072	enables	ATP binding	molecular_function
+VCP	P55072	enables	lipid binding	molecular_function
+VCP	P55072	enables	ATP hydrolysis activity	molecular_function
+VCP	P55072	enables	protein phosphatase binding	molecular_function
+VCP	P55072	enables	protein domain specific binding	molecular_function
+VCP	P55072	enables	polyubiquitin modification-dependent protein binding	molecular_function
+VCP	P55072	enables	ubiquitin protein ligase binding	molecular_function
+VCP	P55072	enables	deubiquitinase activator activity	molecular_function
+VCP	P55072	enables	K48-linked polyubiquitin modification-dependent protein binding	molecular_function
+VCP	P55072	enables	MHC class I protein binding	molecular_function
+VCP	P55072	enables	identical protein binding	molecular_function
+VCP	P55072	enables	ADP binding	molecular_function
+VCP	P55072	enables	ubiquitin-like protein ligase binding	molecular_function
+VCP	P55072	enables	cohesin loader activity	molecular_function
+VCP	P55072	enables	ubiquitin-modified protein reader activity	molecular_function
+VCP	P55072	enables	chromatin extrusion motor activity	molecular_function
+VCP	P55072	enables	ATP-dependent H3-H4 histone complex chaperone activity	molecular_function
+VCP	P55072	enables	ATP-dependent H2AZ histone chaperone activity	molecular_function
+VCP	P55072	enables	BAT3 complex binding	molecular_function
+VCP	P55072	enables	ubiquitin-specific protease binding	molecular_function
+VCP	P55072	involved_in	DNA repair	biological_process
+VCP	P55072	involved_in	double-strand break repair	biological_process
+VCP	P55072	involved_in	chromatin remodeling	biological_process
+VCP	P55072	involved_in	ubiquitin-dependent protein catabolic process	biological_process
+VCP	P55072	involved_in	NADH metabolic process	biological_process
+VCP	P55072	involved_in	endoplasmic reticulum to Golgi vesicle-mediated transport	biological_process
+VCP	P55072	involved_in	autophagy	biological_process
+VCP	P55072	involved_in	DNA damage response	biological_process
+VCP	P55072	involved_in	proteasomal protein catabolic process	biological_process
+VCP	P55072	involved_in	positive regulation of mitochondrial membrane potential	biological_process
+VCP	P55072	involved_in	macroautophagy	biological_process
+VCP	P55072	involved_in	protein ubiquitination	biological_process
+VCP	P55072	involved_in	viral genome replication	biological_process
+VCP	P55072	involved_in	translesion synthesis	biological_process
+VCP	P55072	involved_in	endoplasmic reticulum unfolded protein response	biological_process
+VCP	P55072	involved_in	retrograde protein transport, ER to cytosol	biological_process
+VCP	P55072	involved_in	positive regulation of protein-containing complex assembly	biological_process
+VCP	P55072	involved_in	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	biological_process
+VCP	P55072	involved_in	endosome to lysosome transport via multivesicular body sorting pathway	biological_process
+VCP	P55072	involved_in	cellular response to heat	biological_process
+VCP	P55072	involved_in	negative regulation of hippo signaling	biological_process
+VCP	P55072	involved_in	stress granule disassembly	biological_process
+VCP	P55072	involved_in	interstrand cross-link repair	biological_process
+VCP	P55072	involved_in	ERAD pathway	biological_process
+VCP	P55072	involved_in	regulation of apoptotic process	biological_process
+VCP	P55072	involved_in	proteasome-mediated ubiquitin-dependent protein catabolic process	biological_process
+VCP	P55072	involved_in	establishment of protein localization	biological_process
+VCP	P55072	involved_in	positive regulation of protein catabolic process	biological_process
+VCP	P55072	involved_in	negative regulation of smoothened signaling pathway	biological_process
+VCP	P55072	involved_in	ATP metabolic process	biological_process
+VCP	P55072	involved_in	regulation of synapse organization	biological_process
+VCP	P55072	involved_in	endoplasmic reticulum stress-induced pre-emptive quality control	biological_process
+VCP	P55072	involved_in	aggresome assembly	biological_process
+VCP	P55072	involved_in	cellular response to misfolded protein	biological_process
+VCP	P55072	involved_in	flavin adenine dinucleotide catabolic process	biological_process
+VCP	P55072	involved_in	positive regulation of canonical Wnt signaling pathway	biological_process
+VCP	P55072	involved_in	autophagosome maturation	biological_process
+VCP	P55072	involved_in	protein-DNA covalent cross-linking repair	biological_process
+VCP	P55072	involved_in	negative regulation of protein localization to chromatin	biological_process
+VCP	P55072	involved_in	cytoplasm protein quality control	biological_process
+VCP	P55072	involved_in	chromatin looping	biological_process
+VCP	P55072	involved_in	positive regulation of non-canonical NF-kappaB signal transduction	biological_process
+VCP	P55072	involved_in	positive regulation of protein K63-linked deubiquitination	biological_process
+VCP	P55072	involved_in	positive regulation of Lys63-specific deubiquitinase activity	biological_process
+VCP	P55072	involved_in	regulation of aerobic respiration	biological_process
+VCP	P55072	involved_in	cellular response to arsenite ion	biological_process
+VCP	P55072	involved_in	positive regulation of oxidative phosphorylation	biological_process
+VCP	P55072	involved_in	regulation of protein localization to chromatin	biological_process
+VCP	P55072	involved_in	positive regulation of cysteine-type endopeptidase activity	biological_process
+VCP	P55072	involved_in	positive regulation of ATP biosynthetic process	biological_process
+VCP	P55072	is_active_in	endoplasmic reticulum membrane	cellular_component
+VCP	P55072	is_active_in	cytosol	cellular_component
+VCP	P55072	located_in	extracellular region	cellular_component
+VCP	P55072	located_in	nucleus	cellular_component
+VCP	P55072	located_in	nucleoplasm	cellular_component
+VCP	P55072	located_in	cytoplasm	cellular_component
+VCP	P55072	located_in	endoplasmic reticulum	cellular_component
+VCP	P55072	located_in	endoplasmic reticulum membrane	cellular_component
+VCP	P55072	located_in	lipid droplet	cellular_component
+VCP	P55072	located_in	cytosol	cellular_component
+VCP	P55072	located_in	cytoplasmic stress granule	cellular_component
+VCP	P55072	located_in	secretory granule lumen	cellular_component
+VCP	P55072	located_in	azurophil granule lumen	cellular_component
+VCP	P55072	located_in	site of double-strand break	cellular_component
+VCP	P55072	located_in	intracellular membrane-bounded organelle	cellular_component
+VCP	P55072	located_in	perinuclear region of cytoplasm	cellular_component
+VCP	P55072	located_in	extracellular exosome	cellular_component
+VCP	P55072	located_in	glutamatergic synapse	cellular_component
+VCP	P55072	located_in	ficolin-1-rich granule lumen	cellular_component
+VCP	P55072	part_of	proteasome complex	cellular_component
+VCP	P55072	part_of	protein-containing complex	cellular_component
+VCP	P55072	part_of	VCP-NPL4-UFD1 AAA ATPase complex	cellular_component
+VCP	P55072	part_of	Derlin-1 retrotranslocation complex	cellular_component
+VCP	P55072	part_of	ATPase complex	cellular_component
+VCP	P55072	part_of	VCP-NSFL1C complex	cellular_component
+VCP	P55072	involved_in	mitotic spindle disassembly	biological_process
+VCP	P55072	is_active_in	nucleus	cellular_component

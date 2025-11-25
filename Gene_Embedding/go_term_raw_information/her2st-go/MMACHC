@@ -1,0 +1,16 @@
+MMACHC	Q9Y4U1	enables	protein binding	molecular_function
+MMACHC	Q9Y4U1	enables	oxidoreductase activity	molecular_function
+MMACHC	Q9Y4U1	enables	transferase activity, transferring alkyl or aryl (other than methyl) groups	molecular_function
+MMACHC	Q9Y4U1	enables	cobalamin binding	molecular_function
+MMACHC	Q9Y4U1	enables	demethylase activity	molecular_function
+MMACHC	Q9Y4U1	enables	cyanocobalamin reductase (cyanide-eliminating) (NADP+) activity	molecular_function
+MMACHC	Q9Y4U1	enables	protein homodimerization activity	molecular_function
+MMACHC	Q9Y4U1	enables	glutathione binding	molecular_function
+MMACHC	Q9Y4U1	enables	FAD binding	molecular_function
+MMACHC	Q9Y4U1	involved_in	glutathione metabolic process	biological_process
+MMACHC	Q9Y4U1	involved_in	cobalamin metabolic process	biological_process
+MMACHC	Q9Y4U1	involved_in	demethylation	biological_process
+MMACHC	Q9Y4U1	is_active_in	cytosol	cellular_component
+MMACHC	Q9Y4U1	located_in	cytoplasm	cellular_component
+MMACHC	Q9Y4U1	located_in	cytosol	cellular_component
+MMACHC	Q9Y4U1	is_active_in	cytoplasm	cellular_component

@@ -1,0 +1,32 @@
+ADAM15	Q13444	NOT|involved_in	apoptotic process	biological_process
+ADAM15	Q13444	enables	metalloendopeptidase activity	molecular_function
+ADAM15	Q13444	enables	integrin binding	molecular_function
+ADAM15	Q13444	enables	protein binding	molecular_function
+ADAM15	Q13444	enables	metallopeptidase activity	molecular_function
+ADAM15	Q13444	enables	SH3 domain binding	molecular_function
+ADAM15	Q13444	enables	immunoglobulin receptor binding	molecular_function
+ADAM15	Q13444	enables	metal ion binding	molecular_function
+ADAM15	Q13444	involved_in	angiogenesis	biological_process
+ADAM15	Q13444	involved_in	negative regulation of cell-matrix adhesion	biological_process
+ADAM15	Q13444	involved_in	immune response to tumor cell	biological_process
+ADAM15	Q13444	involved_in	cell-matrix adhesion	biological_process
+ADAM15	Q13444	involved_in	integrin-mediated signaling pathway	biological_process
+ADAM15	Q13444	involved_in	male gonad development	biological_process
+ADAM15	Q13444	involved_in	extracellular matrix disassembly	biological_process
+ADAM15	Q13444	involved_in	negative regulation of cell growth	biological_process
+ADAM15	Q13444	involved_in	negative regulation of cell migration	biological_process
+ADAM15	Q13444	involved_in	collagen catabolic process	biological_process
+ADAM15	Q13444	involved_in	tissue regeneration	biological_process
+ADAM15	Q13444	involved_in	innate immune response	biological_process
+ADAM15	Q13444	involved_in	cardiac epithelial to mesenchymal transition	biological_process
+ADAM15	Q13444	involved_in	negative regulation of receptor binding	biological_process
+ADAM15	Q13444	involved_in	cellular response to phorbol 13-acetate 12-myristate	biological_process
+ADAM15	Q13444	involved_in	response to hypobaric hypoxia	biological_process
+ADAM15	Q13444	located_in	acrosomal vesicle	cellular_component
+ADAM15	Q13444	located_in	plasma membrane	cellular_component
+ADAM15	Q13444	located_in	adherens junction	cellular_component
+ADAM15	Q13444	located_in	cell surface	cellular_component
+ADAM15	Q13444	located_in	motile cilium	cellular_component
+ADAM15	Q13444	located_in	extracellular exosome	cellular_component
+ADAM15	Q13444	is_active_in	extracellular space	cellular_component
+ADAM15	Q13444	involved_in	proteolysis	biological_process

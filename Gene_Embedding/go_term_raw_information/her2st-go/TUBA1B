@@ -1,0 +1,19 @@
+TUBA1B	P68363	enables	double-stranded RNA binding	molecular_function
+TUBA1B	P68363	enables	GTPase activity	molecular_function
+TUBA1B	P68363	enables	structural molecule activity	molecular_function
+TUBA1B	P68363	enables	structural constituent of cytoskeleton	molecular_function
+TUBA1B	P68363	enables	protein binding	molecular_function
+TUBA1B	P68363	enables	GTP binding	molecular_function
+TUBA1B	P68363	enables	ubiquitin protein ligase binding	molecular_function
+TUBA1B	P68363	involved_in	microtubule cytoskeleton organization	biological_process
+TUBA1B	P68363	involved_in	microtubule-based process	biological_process
+TUBA1B	P68363	involved_in	cytoskeleton-dependent intracellular transport	biological_process
+TUBA1B	P68363	involved_in	cell division	biological_process
+TUBA1B	P68363	involved_in	cellular response to interleukin-4	biological_process
+TUBA1B	P68363	is_active_in	microtubule cytoskeleton	cellular_component
+TUBA1B	P68363	located_in	microtubule	cellular_component
+TUBA1B	P68363	located_in	cytoplasmic microtubule	cellular_component
+TUBA1B	P68363	located_in	microtubule cytoskeleton	cellular_component
+TUBA1B	P68363	is_active_in	cytoplasm	cellular_component
+TUBA1B	P68363	involved_in	mitotic cell cycle	biological_process
+TUBA1B	P68363	is_active_in	microtubule	cellular_component

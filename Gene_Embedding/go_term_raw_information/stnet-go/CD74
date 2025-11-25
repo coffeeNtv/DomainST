@@ -1,0 +1,86 @@
+CD74	P04233	enables	amyloid-beta binding	molecular_function
+CD74	P04233	enables	cytokine receptor activity	molecular_function
+CD74	P04233	enables	protein binding	molecular_function
+CD74	P04233	enables	cytokine binding	molecular_function
+CD74	P04233	enables	MHC class II protein complex binding	molecular_function
+CD74	P04233	enables	macrophage migration inhibitory factor binding	molecular_function
+CD74	P04233	enables	MHC class II protein binding	molecular_function
+CD74	P04233	enables	CD4 receptor binding	molecular_function
+CD74	P04233	enables	MHC class II protein binding, via antigen binding groove	molecular_function
+CD74	P04233	enables	identical protein binding	molecular_function
+CD74	P04233	enables	protein folding chaperone	molecular_function
+CD74	P04233	enables	nitric-oxide synthase binding	molecular_function
+CD74	P04233	involved_in	prostaglandin biosynthetic process	biological_process
+CD74	P04233	involved_in	positive regulation of protein phosphorylation	biological_process
+CD74	P04233	involved_in	positive regulation of cytokine-mediated signaling pathway	biological_process
+CD74	P04233	involved_in	positive regulation of dendritic cell antigen processing and presentation	biological_process
+CD74	P04233	involved_in	negative regulation of peptide secretion	biological_process
+CD74	P04233	involved_in	negative regulation of mature B cell apoptotic process	biological_process
+CD74	P04233	involved_in	intracellular protein transport	biological_process
+CD74	P04233	involved_in	positive regulation of gene expression	biological_process
+CD74	P04233	involved_in	immunoglobulin mediated immune response	biological_process
+CD74	P04233	involved_in	antigen processing and presentation of endogenous antigen	biological_process
+CD74	P04233	involved_in	antigen processing and presentation of exogenous peptide antigen via MHC class II	biological_process
+CD74	P04233	involved_in	negative regulation of cell migration	biological_process
+CD74	P04233	involved_in	positive regulation of B cell proliferation	biological_process
+CD74	P04233	involved_in	positive regulation of prostaglandin biosynthetic process	biological_process
+CD74	P04233	involved_in	positive regulation of chemokine production	biological_process
+CD74	P04233	involved_in	positive regulation of interleukin-6 production	biological_process
+CD74	P04233	involved_in	positive regulation of interleukin-8 production	biological_process
+CD74	P04233	involved_in	positive regulation of kinase activity	biological_process
+CD74	P04233	involved_in	response to type II interferon	biological_process
+CD74	P04233	involved_in	macrophage migration inhibitory factor signaling pathway	biological_process
+CD74	P04233	involved_in	regulation of macrophage activation	biological_process
+CD74	P04233	involved_in	negative regulation of apoptotic process	biological_process
+CD74	P04233	involved_in	positive regulation of canonical NF-kappaB signal transduction	biological_process
+CD74	P04233	involved_in	positive regulation of MAPK cascade	biological_process
+CD74	P04233	involved_in	negative regulation of DNA damage response, signal transduction by p53 class mediator	biological_process
+CD74	P04233	involved_in	T cell selection	biological_process
+CD74	P04233	involved_in	positive thymic T cell selection	biological_process
+CD74	P04233	involved_in	negative thymic T cell selection	biological_process
+CD74	P04233	involved_in	negative regulation of T cell differentiation	biological_process
+CD74	P04233	involved_in	positive regulation of T cell differentiation	biological_process
+CD74	P04233	involved_in	positive regulation of monocyte differentiation	biological_process
+CD74	P04233	involved_in	positive regulation of DNA-templated transcription	biological_process
+CD74	P04233	involved_in	negative regulation of viral entry into host cell	biological_process
+CD74	P04233	involved_in	positive regulation of viral entry into host cell	biological_process
+CD74	P04233	involved_in	positive regulation of fibroblast proliferation	biological_process
+CD74	P04233	involved_in	protein stabilization	biological_process
+CD74	P04233	involved_in	chaperone cofactor-dependent protein refolding	biological_process
+CD74	P04233	involved_in	positive regulation of macrophage cytokine production	biological_process
+CD74	P04233	involved_in	protein-containing complex assembly	biological_process
+CD74	P04233	involved_in	protein trimerization	biological_process
+CD74	P04233	involved_in	positive regulation of ERK1 and ERK2 cascade	biological_process
+CD74	P04233	involved_in	positive regulation of neutrophil chemotaxis	biological_process
+CD74	P04233	involved_in	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	biological_process
+CD74	P04233	involved_in	positive regulation of chemokine (C-X-C motif) ligand 2 production	biological_process
+CD74	P04233	involved_in	positive regulation of macrophage migration inhibitory factor signaling pathway	biological_process
+CD74	P04233	located_in	Golgi membrane	cellular_component
+CD74	P04233	located_in	nucleus	cellular_component
+CD74	P04233	located_in	cytoplasm	cellular_component
+CD74	P04233	located_in	lysosome	cellular_component
+CD74	P04233	located_in	lysosomal membrane	cellular_component
+CD74	P04233	located_in	late endosome	cellular_component
+CD74	P04233	located_in	multivesicular body	cellular_component
+CD74	P04233	located_in	vacuole	cellular_component
+CD74	P04233	located_in	plasma membrane	cellular_component
+CD74	P04233	located_in	external side of plasma membrane	cellular_component
+CD74	P04233	located_in	cell surface	cellular_component
+CD74	P04233	located_in	ER to Golgi transport vesicle membrane	cellular_component
+CD74	P04233	located_in	membrane	cellular_component
+CD74	P04233	located_in	transport vesicle membrane	cellular_component
+CD74	P04233	located_in	endocytic vesicle membrane	cellular_component
+CD74	P04233	located_in	clathrin-coated endocytic vesicle membrane	cellular_component
+CD74	P04233	located_in	trans-Golgi network membrane	cellular_component
+CD74	P04233	located_in	lysosomal lumen	cellular_component
+CD74	P04233	located_in	extracellular exosome	cellular_component
+CD74	P04233	located_in	lumenal side of endoplasmic reticulum membrane	cellular_component
+CD74	P04233	part_of	protein-containing complex	cellular_component
+CD74	P04233	part_of	macrophage migration inhibitory factor receptor complex	cellular_component
+CD74	P04233	part_of	NOS2-CD74 complex	cellular_component
+CD74	P04233	part_of	MHC class II protein complex	cellular_component
+CD74	P04233	is_active_in	cell surface	cellular_component
+CD74	P04233	involved_in	T cell activation involved in immune response	biological_process
+CD74	P04233	is_active_in	cytoplasm	cellular_component
+CD74	P04233	involved_in	positive regulation of type 2 immune response	biological_process
+CD74	P04233	involved_in	antigen processing and presentation	biological_process

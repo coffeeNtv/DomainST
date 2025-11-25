@@ -1,0 +1,8 @@
+UQCR11	O14957	enables	electron transfer activity	molecular_function
+UQCR11	O14957	involved_in	generation of precursor metabolites and energy	biological_process
+UQCR11	O14957	involved_in	mitochondrial electron transport, ubiquinol to cytochrome c	biological_process
+UQCR11	O14957	involved_in	cellular respiration	biological_process
+UQCR11	O14957	located_in	mitochondrion	cellular_component
+UQCR11	O14957	located_in	mitochondrial inner membrane	cellular_component
+UQCR11	O14957	part_of	respiratory chain complex III	cellular_component
+UQCR11	O14957	is_active_in	mitochondrial inner membrane	cellular_component

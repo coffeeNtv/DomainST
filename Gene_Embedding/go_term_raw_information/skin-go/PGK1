@@ -1,0 +1,21 @@
+PGK1	P00558	enables	phosphoglycerate kinase activity	molecular_function
+PGK1	P00558	enables	protein serine/threonine kinase activity	molecular_function
+PGK1	P00558	enables	protein binding	molecular_function
+PGK1	P00558	enables	ATP binding	molecular_function
+PGK1	P00558	enables	protein-disulfide reductase (NAD(P)H) activity	molecular_function
+PGK1	P00558	involved_in	gluconeogenesis	biological_process
+PGK1	P00558	involved_in	glycolytic process	biological_process
+PGK1	P00558	involved_in	negative regulation of angiogenesis	biological_process
+PGK1	P00558	involved_in	epithelial cell differentiation	biological_process
+PGK1	P00558	involved_in	plasminogen activation	biological_process
+PGK1	P00558	involved_in	canonical glycolysis	biological_process
+PGK1	P00558	involved_in	cellular response to hypoxia	biological_process
+PGK1	P00558	involved_in	negative regulation of acetyl-CoA biosynthetic process from pyruvate	biological_process
+PGK1	P00558	located_in	extracellular space	cellular_component
+PGK1	P00558	located_in	mitochondrial matrix	cellular_component
+PGK1	P00558	located_in	cytosol	cellular_component
+PGK1	P00558	located_in	membrane	cellular_component
+PGK1	P00558	located_in	membrane raft	cellular_component
+PGK1	P00558	located_in	extracellular exosome	cellular_component
+PGK1	P00558	enables	ADP binding	molecular_function
+PGK1	P00558	is_active_in	cytosol	cellular_component

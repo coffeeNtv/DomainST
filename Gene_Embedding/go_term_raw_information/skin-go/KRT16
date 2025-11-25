@@ -1,0 +1,22 @@
+KRT16	P08779	enables	structural constituent of cytoskeleton	molecular_function
+KRT16	P08779	enables	protein binding	molecular_function
+KRT16	P08779	involved_in	morphogenesis of an epithelium	biological_process
+KRT16	P08779	involved_in	inflammatory response	biological_process
+KRT16	P08779	involved_in	cytoskeleton organization	biological_process
+KRT16	P08779	involved_in	keratinocyte differentiation	biological_process
+KRT16	P08779	involved_in	negative regulation of cell migration	biological_process
+KRT16	P08779	involved_in	keratinization	biological_process
+KRT16	P08779	involved_in	hair cycle	biological_process
+KRT16	P08779	involved_in	innate immune response	biological_process
+KRT16	P08779	involved_in	keratinocyte migration	biological_process
+KRT16	P08779	involved_in	establishment of skin barrier	biological_process
+KRT16	P08779	located_in	cornified envelope	cellular_component
+KRT16	P08779	located_in	nucleus	cellular_component
+KRT16	P08779	located_in	cytosol	cellular_component
+KRT16	P08779	located_in	cytoskeleton	cellular_component
+KRT16	P08779	located_in	intermediate filament	cellular_component
+KRT16	P08779	located_in	extracellular exosome	cellular_component
+KRT16	P08779	is_active_in	cytoskeleton	cellular_component
+KRT16	P08779	involved_in	epithelial cell differentiation	biological_process
+KRT16	P08779	is_active_in	keratin filament	cellular_component
+KRT16	P08779	involved_in	intermediate filament organization	biological_process

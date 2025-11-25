@@ -1,0 +1,5 @@
+LAPTM4A	Q15012	enables	protein binding	molecular_function
+LAPTM4A	Q15012	located_in	lysosomal membrane	cellular_component
+LAPTM4A	Q15012	located_in	Golgi apparatus	cellular_component
+LAPTM4A	Q15012	located_in	late endosome membrane	cellular_component
+LAPTM4A	Q15012	is_active_in	lysosomal membrane	cellular_component

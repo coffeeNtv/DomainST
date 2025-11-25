@@ -1,0 +1,16 @@
+MT-ND4	P03905	enables	NADH dehydrogenase (ubiquinone) activity	molecular_function
+MT-ND4	P03905	involved_in	response to hypoxia	biological_process
+MT-ND4	P03905	involved_in	in utero embryonic development	biological_process
+MT-ND4	P03905	involved_in	mitochondrial electron transport, NADH to ubiquinone	biological_process
+MT-ND4	P03905	involved_in	aerobic respiration	biological_process
+MT-ND4	P03905	involved_in	cerebellum development	biological_process
+MT-ND4	P03905	involved_in	mitochondrial respiratory chain complex I assembly	biological_process
+MT-ND4	P03905	involved_in	response to nicotine	biological_process
+MT-ND4	P03905	involved_in	proton motive force-driven mitochondrial ATP synthesis	biological_process
+MT-ND4	P03905	involved_in	response to ethanol	biological_process
+MT-ND4	P03905	located_in	mitochondrion	cellular_component
+MT-ND4	P03905	located_in	mitochondrial inner membrane	cellular_component
+MT-ND4	P03905	part_of	respiratory chain complex I	cellular_component
+MT-ND4	P03905	enables	ubiquinone binding	molecular_function
+MT-ND4	P03905	contributes_to	NADH dehydrogenase activity	molecular_function
+MT-ND4	P03905	involved_in	electron transport coupled proton transport	biological_process

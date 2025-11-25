@@ -1,0 +1,18 @@
+SDF4	Q9BRK5	colocalizes_with	plasma membrane	cellular_component
+SDF4	Q9BRK5	enables	calcium ion binding	molecular_function
+SDF4	Q9BRK5	enables	protein binding	molecular_function
+SDF4	Q9BRK5	enables	identical protein binding	molecular_function
+SDF4	Q9BRK5	involved_in	UV protection	biological_process
+SDF4	Q9BRK5	involved_in	calcium-ion regulated exocytosis	biological_process
+SDF4	Q9BRK5	involved_in	cerebellum development	biological_process
+SDF4	Q9BRK5	involved_in	fat cell differentiation	biological_process
+SDF4	Q9BRK5	involved_in	response to ethanol	biological_process
+SDF4	Q9BRK5	involved_in	zymogen granule exocytosis	biological_process
+SDF4	Q9BRK5	involved_in	maintenance of synapse structure	biological_process
+SDF4	Q9BRK5	located_in	cytoplasm	cellular_component
+SDF4	Q9BRK5	located_in	late endosome	cellular_component
+SDF4	Q9BRK5	located_in	Golgi lumen	cellular_component
+SDF4	Q9BRK5	located_in	membrane	cellular_component
+SDF4	Q9BRK5	located_in	bleb	cellular_component
+SDF4	Q9BRK5	located_in	extracellular exosome	cellular_component
+SDF4	Q9BRK5	is_active_in	endoplasmic reticulum	cellular_component

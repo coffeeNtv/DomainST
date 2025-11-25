@@ -1,0 +1,9 @@
+SLC2A4RG	Q9NR83	enables	DNA-binding transcription factor activity	molecular_function
+SLC2A4RG	Q9NR83	enables	metal ion binding	molecular_function
+SLC2A4RG	Q9NR83	involved_in	regulation of DNA-templated transcription	biological_process
+SLC2A4RG	Q9NR83	located_in	nucleus	cellular_component
+SLC2A4RG	Q9NR83	located_in	cytoplasm	cellular_component
+SLC2A4RG	Q9NR83	located_in	nuclear speck	cellular_component
+SLC2A4RG	Q9NR83	is_active_in	nucleus	cellular_component
+SLC2A4RG	Q9NR83	involved_in	regulation of transcription by RNA polymerase II	biological_process
+SLC2A4RG	Q9NR83	enables	RNA polymerase II cis-regulatory region sequence-specific DNA binding	molecular_function

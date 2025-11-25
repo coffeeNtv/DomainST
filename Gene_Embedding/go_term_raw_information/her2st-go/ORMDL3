@@ -1,0 +1,18 @@
+ORMDL3	Q8N138	acts_upstream_of_or_within	negative regulation of B cell apoptotic process	biological_process
+ORMDL3	Q8N138	acts_upstream_of_or_within	positive regulation of autophagy	biological_process
+ORMDL3	Q8N138	acts_upstream_of_or_within	negative regulation of ceramide biosynthetic process	biological_process
+ORMDL3	Q8N138	acts_upstream_of_or_within	positive regulation of protein localization to nucleus	biological_process
+ORMDL3	Q8N138	enables	protein binding	molecular_function
+ORMDL3	Q8N138	involved_in	ceramide metabolic process	biological_process
+ORMDL3	Q8N138	involved_in	sphingomyelin biosynthetic process	biological_process
+ORMDL3	Q8N138	involved_in	regulation of smooth muscle contraction	biological_process
+ORMDL3	Q8N138	involved_in	myelination	biological_process
+ORMDL3	Q8N138	involved_in	motor behavior	biological_process
+ORMDL3	Q8N138	located_in	endoplasmic reticulum	cellular_component
+ORMDL3	Q8N138	located_in	endoplasmic reticulum membrane	cellular_component
+ORMDL3	Q8N138	located_in	plasma membrane	cellular_component
+ORMDL3	Q8N138	located_in	secretory granule membrane	cellular_component
+ORMDL3	Q8N138	located_in	specific granule membrane	cellular_component
+ORMDL3	Q8N138	part_of	serine palmitoyltransferase complex	cellular_component
+ORMDL3	Q8N138	involved_in	intracellular sphingolipid homeostasis	biological_process
+ORMDL3	Q8N138	involved_in	sphingolipid biosynthetic process	biological_process

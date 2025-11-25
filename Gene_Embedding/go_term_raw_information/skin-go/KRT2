@@ -1,0 +1,22 @@
+KRT2	P35908	enables	structural constituent of cytoskeleton	molecular_function
+KRT2	P35908	enables	protein binding	molecular_function
+KRT2	P35908	enables	cytoskeletal protein binding	molecular_function
+KRT2	P35908	enables	structural constituent of skin epidermis	molecular_function
+KRT2	P35908	involved_in	keratinocyte development	biological_process
+KRT2	P35908	involved_in	epidermis development	biological_process
+KRT2	P35908	involved_in	peptide cross-linking	biological_process
+KRT2	P35908	involved_in	keratinization	biological_process
+KRT2	P35908	involved_in	keratinocyte activation	biological_process
+KRT2	P35908	involved_in	keratinocyte proliferation	biological_process
+KRT2	P35908	involved_in	positive regulation of epidermis development	biological_process
+KRT2	P35908	involved_in	keratinocyte migration	biological_process
+KRT2	P35908	located_in	cornified envelope	cellular_component
+KRT2	P35908	located_in	extracellular space	cellular_component
+KRT2	P35908	located_in	nucleus	cellular_component
+KRT2	P35908	located_in	cytoplasm	cellular_component
+KRT2	P35908	located_in	cytosol	cellular_component
+KRT2	P35908	located_in	intermediate filament	cellular_component
+KRT2	P35908	located_in	membrane	cellular_component
+KRT2	P35908	located_in	extracellular exosome	cellular_component
+KRT2	P35908	involved_in	intermediate filament organization	biological_process
+KRT2	P35908	is_active_in	keratin filament	cellular_component

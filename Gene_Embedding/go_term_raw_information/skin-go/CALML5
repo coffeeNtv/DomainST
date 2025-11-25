@@ -1,0 +1,9 @@
+CALML5	Q9NZT1	enables	protein binding	molecular_function
+CALML5	Q9NZT1	involved_in	signal transduction	biological_process
+CALML5	Q9NZT1	involved_in	epidermis development	biological_process
+CALML5	Q9NZT1	located_in	extracellular region	cellular_component
+CALML5	Q9NZT1	located_in	ficolin-1-rich granule lumen	cellular_component
+CALML5	Q9NZT1	involved_in	microtubule cytoskeleton organization	biological_process
+CALML5	Q9NZT1	enables	enzyme regulator activity	molecular_function
+CALML5	Q9NZT1	enables	calcium ion binding	molecular_function
+CALML5	Q9NZT1	is_active_in	cytoplasm	cellular_component

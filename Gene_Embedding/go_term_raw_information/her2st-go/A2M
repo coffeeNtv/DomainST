@@ -1,0 +1,31 @@
+A2M	P01023	colocalizes_with	collagen-containing extracellular matrix	cellular_component
+A2M	P01023	enables	protease binding	molecular_function
+A2M	P01023	enables	endopeptidase inhibitor activity	molecular_function
+A2M	P01023	enables	serine-type endopeptidase inhibitor activity	molecular_function
+A2M	P01023	enables	signaling receptor binding	molecular_function
+A2M	P01023	enables	protein binding	molecular_function
+A2M	P01023	enables	growth factor binding	molecular_function
+A2M	P01023	enables	enzyme binding	molecular_function
+A2M	P01023	enables	interleukin-8 binding	molecular_function
+A2M	P01023	enables	interleukin-1 binding	molecular_function
+A2M	P01023	enables	identical protein binding	molecular_function
+A2M	P01023	enables	tumor necrosis factor binding	molecular_function
+A2M	P01023	enables	calcium-dependent protein binding	molecular_function
+A2M	P01023	enables	brain-derived neurotrophic factor binding	molecular_function
+A2M	P01023	enables	nerve growth factor binding	molecular_function
+A2M	P01023	involved_in	luteinization	biological_process
+A2M	P01023	involved_in	negative regulation of complement activation, lectin pathway	biological_process
+A2M	P01023	involved_in	acute inflammatory response to antigenic stimulus	biological_process
+A2M	P01023	involved_in	acute-phase response	biological_process
+A2M	P01023	involved_in	response to nutrient	biological_process
+A2M	P01023	involved_in	response to carbon dioxide	biological_process
+A2M	P01023	involved_in	response to prostaglandin E	biological_process
+A2M	P01023	involved_in	stem cell differentiation	biological_process
+A2M	P01023	involved_in	response to glucocorticoid	biological_process
+A2M	P01023	involved_in	embryonic liver development	biological_process
+A2M	P01023	located_in	extracellular region	cellular_component
+A2M	P01023	located_in	platelet alpha granule lumen	cellular_component
+A2M	P01023	located_in	collagen-containing extracellular matrix	cellular_component
+A2M	P01023	located_in	extracellular exosome	cellular_component
+A2M	P01023	located_in	blood microparticle	cellular_component
+A2M	P01023	is_active_in	extracellular space	cellular_component

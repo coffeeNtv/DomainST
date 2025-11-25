@@ -1,0 +1,47 @@
+DST	Q03001	NOT|located_in	actin cytoskeleton	cellular_component
+DST	Q03001	enables	actin binding	molecular_function
+DST	Q03001	enables	integrin binding	molecular_function
+DST	Q03001	enables	calcium ion binding	molecular_function
+DST	Q03001	enables	protein binding	molecular_function
+DST	Q03001	enables	protein homodimerization activity	molecular_function
+DST	Q03001	enables	microtubule plus-end binding	molecular_function
+DST	Q03001	involved_in	microtubule cytoskeleton organization	biological_process
+DST	Q03001	involved_in	cytoskeleton organization	biological_process
+DST	Q03001	involved_in	cell adhesion	biological_process
+DST	Q03001	involved_in	integrin-mediated signaling pathway	biological_process
+DST	Q03001	involved_in	retrograde axonal transport	biological_process
+DST	Q03001	involved_in	response to wounding	biological_process
+DST	Q03001	involved_in	maintenance of cell polarity	biological_process
+DST	Q03001	involved_in	hemidesmosome assembly	biological_process
+DST	Q03001	involved_in	intermediate filament cytoskeleton organization	biological_process
+DST	Q03001	involved_in	cell motility	biological_process
+DST	Q03001	located_in	stress fiber	cellular_component
+DST	Q03001	located_in	basement membrane	cellular_component
+DST	Q03001	located_in	nucleus	cellular_component
+DST	Q03001	located_in	nuclear envelope	cellular_component
+DST	Q03001	located_in	nucleoplasm	cellular_component
+DST	Q03001	located_in	cytoplasm	cellular_component
+DST	Q03001	located_in	endoplasmic reticulum membrane	cellular_component
+DST	Q03001	located_in	cytosol	cellular_component
+DST	Q03001	located_in	focal adhesion	cellular_component
+DST	Q03001	located_in	cell cortex	cellular_component
+DST	Q03001	located_in	basal plasma membrane	cellular_component
+DST	Q03001	located_in	actin cytoskeleton	cellular_component
+DST	Q03001	located_in	microtubule cytoskeleton	cellular_component
+DST	Q03001	located_in	Z disc	cellular_component
+DST	Q03001	located_in	hemidesmosome	cellular_component
+DST	Q03001	located_in	axon	cellular_component
+DST	Q03001	located_in	cell leading edge	cellular_component
+DST	Q03001	located_in	cytoplasmic vesicle	cellular_component
+DST	Q03001	located_in	H zone	cellular_component
+DST	Q03001	located_in	microtubule plus-end	cellular_component
+DST	Q03001	located_in	intermediate filament cytoskeleton	cellular_component
+DST	Q03001	located_in	axon cytoplasm	cellular_component
+DST	Q03001	enables	microtubule binding	molecular_function
+DST	Q03001	is_active_in	membrane	cellular_component
+DST	Q03001	enables	structural molecule activity	molecular_function
+DST	Q03001	colocalizes_with	intermediate filament	cellular_component
+DST	Q03001	involved_in	wound healing	biological_process
+DST	Q03001	is_active_in	cytoplasm	cellular_component
+DST	Q03001	is_active_in	focal adhesion	cellular_component
+DST	Q03001	is_active_in	hemidesmosome	cellular_component

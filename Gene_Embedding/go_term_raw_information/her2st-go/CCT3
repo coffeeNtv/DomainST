@@ -1,0 +1,23 @@
+CCT3	P49368	acts_upstream_of	positive regulation of telomere maintenance via telomerase	biological_process
+CCT3	P49368	enables	RNA binding	molecular_function
+CCT3	P49368	enables	protein binding	molecular_function
+CCT3	P49368	enables	ATP binding	molecular_function
+CCT3	P49368	enables	ATP hydrolysis activity	molecular_function
+CCT3	P49368	enables	protein folding chaperone	molecular_function
+CCT3	P49368	enables	ATP-dependent protein folding chaperone	molecular_function
+CCT3	P49368	involved_in	protein folding	biological_process
+CCT3	P49368	involved_in	binding of sperm to zona pellucida	biological_process
+CCT3	P49368	involved_in	protein stabilization	biological_process
+CCT3	P49368	involved_in	chaperone mediated protein folding independent of cofactor	biological_process
+CCT3	P49368	involved_in	chaperone-mediated protein folding	biological_process
+CCT3	P49368	involved_in	positive regulation of establishment of protein localization to telomere	biological_process
+CCT3	P49368	involved_in	positive regulation of protein localization to Cajal body	biological_process
+CCT3	P49368	involved_in	positive regulation of telomerase RNA localization to Cajal body	biological_process
+CCT3	P49368	located_in	cytosol	cellular_component
+CCT3	P49368	located_in	cytoskeleton	cellular_component
+CCT3	P49368	located_in	microtubule	cellular_component
+CCT3	P49368	located_in	cell body	cellular_component
+CCT3	P49368	located_in	extracellular exosome	cellular_component
+CCT3	P49368	part_of	zona pellucida receptor complex	cellular_component
+CCT3	P49368	part_of	chaperonin-containing T-complex	cellular_component
+CCT3	P49368	enables	unfolded protein binding	molecular_function

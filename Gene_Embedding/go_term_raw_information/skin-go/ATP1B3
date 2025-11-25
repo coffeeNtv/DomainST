@@ -1,0 +1,24 @@
+ATP1B3	P54709	enables	ATPase activator activity	molecular_function
+ATP1B3	P54709	enables	protein binding	molecular_function
+ATP1B3	P54709	enables	protein-macromolecule adaptor activity	molecular_function
+ATP1B3	P54709	enables	ATPase binding	molecular_function
+ATP1B3	P54709	involved_in	intracellular sodium ion homeostasis	biological_process
+ATP1B3	P54709	involved_in	intracellular potassium ion homeostasis	biological_process
+ATP1B3	P54709	involved_in	positive regulation of ATP-dependent activity	biological_process
+ATP1B3	P54709	involved_in	sodium ion transmembrane transport	biological_process
+ATP1B3	P54709	involved_in	sodium ion export across plasma membrane	biological_process
+ATP1B3	P54709	involved_in	protein stabilization	biological_process
+ATP1B3	P54709	involved_in	potassium ion transmembrane transport	biological_process
+ATP1B3	P54709	involved_in	protein localization to plasma membrane	biological_process
+ATP1B3	P54709	involved_in	membrane repolarization	biological_process
+ATP1B3	P54709	involved_in	positive regulation of potassium ion transmembrane transporter activity	biological_process
+ATP1B3	P54709	involved_in	positive regulation of sodium ion export across plasma membrane	biological_process
+ATP1B3	P54709	involved_in	positive regulation of potassium ion import across plasma membrane	biological_process
+ATP1B3	P54709	involved_in	potassium ion import across plasma membrane	biological_process
+ATP1B3	P54709	located_in	plasma membrane	cellular_component
+ATP1B3	P54709	located_in	basolateral plasma membrane	cellular_component
+ATP1B3	P54709	located_in	apical plasma membrane	cellular_component
+ATP1B3	P54709	located_in	sperm flagellum	cellular_component
+ATP1B3	P54709	located_in	melanosome	cellular_component
+ATP1B3	P54709	located_in	extracellular exosome	cellular_component
+ATP1B3	P54709	part_of	sodium:potassium-exchanging ATPase complex	cellular_component

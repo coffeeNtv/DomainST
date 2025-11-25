@@ -1,0 +1,5 @@
+SPRR2D	P22532	involved_in	epidermis development	biological_process
+SPRR2D	P22532	involved_in	keratinization	biological_process
+SPRR2D	P22532	located_in	cornified envelope	cellular_component
+SPRR2D	P22532	located_in	cytoplasm	cellular_component
+SPRR2D	P22532	located_in	cytosol	cellular_component

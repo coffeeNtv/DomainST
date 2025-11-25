@@ -1,0 +1,10 @@
+COPS9	Q8WXC6	part_of	COP9 signalosome	cellular_component
+COPS9	Q8WXC6	enables	protein binding	molecular_function
+COPS9	Q8WXC6	involved_in	positive regulation of cell population proliferation	biological_process
+COPS9	Q8WXC6	involved_in	cellular response to UV	biological_process
+COPS9	Q8WXC6	involved_in	cytoplasmic sequestering of protein	biological_process
+COPS9	Q8WXC6	involved_in	negative regulation of protein neddylation	biological_process
+COPS9	Q8WXC6	located_in	chromatin	cellular_component
+COPS9	Q8WXC6	located_in	nucleus	cellular_component
+COPS9	Q8WXC6	located_in	nucleoplasm	cellular_component
+COPS9	Q8WXC6	located_in	cytoplasm	cellular_component

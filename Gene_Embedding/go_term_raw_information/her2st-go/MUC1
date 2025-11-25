@@ -1,0 +1,18 @@
+MUC1	P15941	enables	RNA polymerase II cis-regulatory region sequence-specific DNA binding	molecular_function
+MUC1	P15941	enables	p53 binding	molecular_function
+MUC1	P15941	enables	transcription coregulator activity	molecular_function
+MUC1	P15941	enables	protein binding	molecular_function
+MUC1	P15941	involved_in	DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest	biological_process
+MUC1	P15941	involved_in	negative regulation of transcription by competitive promoter binding	biological_process
+MUC1	P15941	involved_in	DNA damage response, signal transduction by p53 class mediator	biological_process
+MUC1	P15941	involved_in	negative regulation of cell adhesion mediated by integrin	biological_process
+MUC1	P15941	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+MUC1	P15941	involved_in	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	biological_process
+MUC1	P15941	located_in	chromatin	cellular_component
+MUC1	P15941	located_in	extracellular space	cellular_component
+MUC1	P15941	located_in	nucleus	cellular_component
+MUC1	P15941	located_in	Golgi lumen	cellular_component
+MUC1	P15941	located_in	plasma membrane	cellular_component
+MUC1	P15941	located_in	vesicle	cellular_component
+MUC1	P15941	located_in	extracellular exosome	cellular_component
+MUC1	P15941	is_active_in	apical plasma membrane	cellular_component

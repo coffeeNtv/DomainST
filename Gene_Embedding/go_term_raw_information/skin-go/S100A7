@@ -1,0 +1,27 @@
+S100A7	P31151	enables	calcium ion binding	molecular_function
+S100A7	P31151	enables	protein binding	molecular_function
+S100A7	P31151	enables	zinc ion binding	molecular_function
+S100A7	P31151	enables	RAGE receptor binding	molecular_function
+S100A7	P31151	enables	zinc ion sequestering activity	molecular_function
+S100A7	P31151	involved_in	response to reactive oxygen species	biological_process
+S100A7	P31151	involved_in	angiogenesis	biological_process
+S100A7	P31151	involved_in	epidermis development	biological_process
+S100A7	P31151	involved_in	positive regulation of T cell chemotaxis	biological_process
+S100A7	P31151	involved_in	keratinocyte differentiation	biological_process
+S100A7	P31151	involved_in	response to lipopolysaccharide	biological_process
+S100A7	P31151	involved_in	antimicrobial humoral immune response mediated by antimicrobial peptide	biological_process
+S100A7	P31151	involved_in	positive regulation of ERK1 and ERK2 cascade	biological_process
+S100A7	P31151	involved_in	positive regulation of granulocyte chemotaxis	biological_process
+S100A7	P31151	involved_in	positive regulation of monocyte chemotaxis	biological_process
+S100A7	P31151	located_in	extracellular region	cellular_component
+S100A7	P31151	located_in	extracellular space	cellular_component
+S100A7	P31151	located_in	nucleus	cellular_component
+S100A7	P31151	located_in	cytoplasm	cellular_component
+S100A7	P31151	located_in	endoplasmic reticulum	cellular_component
+S100A7	P31151	located_in	cytosol	cellular_component
+S100A7	P31151	located_in	focal adhesion	cellular_component
+S100A7	P31151	located_in	azurophil granule lumen	cellular_component
+S100A7	P31151	located_in	collagen-containing extracellular matrix	cellular_component
+S100A7	P31151	is_active_in	cytoplasm	cellular_component
+S100A7	P31151	involved_in	endothelial cell migration	biological_process
+S100A7	P31151	enables	calcium-dependent protein binding	molecular_function

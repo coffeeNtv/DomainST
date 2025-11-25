@@ -1,0 +1,28 @@
+DHCR24	Q15392	acts_upstream_of_or_within	cholesterol biosynthetic process	biological_process
+DHCR24	Q15392	enables	delta24(24-1) sterol reductase activity	molecular_function
+DHCR24	Q15392	enables	protein binding	molecular_function
+DHCR24	Q15392	enables	oxidoreductase activity, acting on the CH-CH group of donors, NAD or NADP as acceptor	molecular_function
+DHCR24	Q15392	enables	enzyme binding	molecular_function
+DHCR24	Q15392	enables	peptide antigen binding	molecular_function
+DHCR24	Q15392	enables	delta24-sterol reductase activity	molecular_function
+DHCR24	Q15392	enables	FAD binding	molecular_function
+DHCR24	Q15392	involved_in	cholesterol biosynthetic process	biological_process
+DHCR24	Q15392	involved_in	Ras protein signal transduction	biological_process
+DHCR24	Q15392	involved_in	protein localization	biological_process
+DHCR24	Q15392	involved_in	negative regulation of cell population proliferation	biological_process
+DHCR24	Q15392	involved_in	response to hormone	biological_process
+DHCR24	Q15392	involved_in	tissue development	biological_process
+DHCR24	Q15392	involved_in	male genitalia development	biological_process
+DHCR24	Q15392	involved_in	plasminogen activation	biological_process
+DHCR24	Q15392	involved_in	cholesterol biosynthetic process via desmosterol	biological_process
+DHCR24	Q15392	involved_in	cholesterol biosynthetic process via lathosterol	biological_process
+DHCR24	Q15392	involved_in	amyloid precursor protein catabolic process	biological_process
+DHCR24	Q15392	involved_in	skin development	biological_process
+DHCR24	Q15392	involved_in	membrane organization	biological_process
+DHCR24	Q15392	located_in	Golgi membrane	cellular_component
+DHCR24	Q15392	located_in	nucleus	cellular_component
+DHCR24	Q15392	located_in	endoplasmic reticulum	cellular_component
+DHCR24	Q15392	located_in	endoplasmic reticulum membrane	cellular_component
+DHCR24	Q15392	located_in	membrane	cellular_component
+DHCR24	Q15392	is_active_in	cytoplasm	cellular_component
+DHCR24	Q15392	involved_in	steroid metabolic process	biological_process

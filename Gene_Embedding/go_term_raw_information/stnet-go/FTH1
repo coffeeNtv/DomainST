@@ -1,0 +1,24 @@
+FTH1	P02794	enables	ferroxidase activity	molecular_function
+FTH1	P02794	enables	iron ion binding	molecular_function
+FTH1	P02794	enables	protein binding	molecular_function
+FTH1	P02794	enables	ferrous iron binding	molecular_function
+FTH1	P02794	enables	identical protein binding	molecular_function
+FTH1	P02794	enables	iron ion sequestering activity	molecular_function
+FTH1	P02794	involved_in	intracellular iron ion homeostasis	biological_process
+FTH1	P02794	involved_in	immune response	biological_process
+FTH1	P02794	involved_in	negative regulation of cell population proliferation	biological_process
+FTH1	P02794	involved_in	negative regulation of fibroblast proliferation	biological_process
+FTH1	P02794	involved_in	negative regulation of ferroptosis	biological_process
+FTH1	P02794	located_in	extracellular region	cellular_component
+FTH1	P02794	located_in	nucleus	cellular_component
+FTH1	P02794	located_in	autophagosome	cellular_component
+FTH1	P02794	located_in	cytosol	cellular_component
+FTH1	P02794	located_in	membrane	cellular_component
+FTH1	P02794	located_in	autolysosome	cellular_component
+FTH1	P02794	located_in	extracellular exosome	cellular_component
+FTH1	P02794	located_in	tertiary granule lumen	cellular_component
+FTH1	P02794	located_in	ficolin-1-rich granule lumen	cellular_component
+FTH1	P02794	part_of	ferritin complex	cellular_component
+FTH1	P02794	enables	ferric iron binding	molecular_function
+FTH1	P02794	is_active_in	cytoplasm	cellular_component
+FTH1	P02794	involved_in	iron ion transport	biological_process

@@ -1,0 +1,15 @@
+TLE5	Q08117	enables	transcription corepressor activity	molecular_function
+TLE5	Q08117	enables	protein binding	molecular_function
+TLE5	Q08117	enables	identical protein binding	molecular_function
+TLE5	Q08117	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
+TLE5	Q08117	involved_in	skeletal system development	biological_process
+TLE5	Q08117	involved_in	negative regulation of gene expression	biological_process
+TLE5	Q08117	involved_in	Wnt signaling pathway	biological_process
+TLE5	Q08117	involved_in	negative regulation of protein binding	biological_process
+TLE5	Q08117	involved_in	regulation of growth	biological_process
+TLE5	Q08117	involved_in	negative regulation of DNA-templated transcription	biological_process
+TLE5	Q08117	involved_in	negative regulation of response to cytokine stimulus	biological_process
+TLE5	Q08117	involved_in	response to interleukin-1	biological_process
+TLE5	Q08117	involved_in	negative regulation of canonical Wnt signaling pathway	biological_process
+TLE5	Q08117	involved_in	positive regulation of anoikis	biological_process
+TLE5	Q08117	located_in	nucleus	cellular_component

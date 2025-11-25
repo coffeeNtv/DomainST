@@ -1,0 +1,15 @@
+RPL12	P30050	enables	RNA binding	molecular_function
+RPL12	P30050	enables	structural constituent of ribosome	molecular_function
+RPL12	P30050	enables	protein binding	molecular_function
+RPL12	P30050	involved_in	cytoplasmic translation	biological_process
+RPL12	P30050	involved_in	translation	biological_process
+RPL12	P30050	is_active_in	postsynaptic density	cellular_component
+RPL12	P30050	located_in	nucleolus	cellular_component
+RPL12	P30050	located_in	cytosol	cellular_component
+RPL12	P30050	located_in	focal adhesion	cellular_component
+RPL12	P30050	located_in	membrane	cellular_component
+RPL12	P30050	located_in	extracellular exosome	cellular_component
+RPL12	P30050	located_in	cytoplasm	cellular_component
+RPL12	P30050	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL12	P30050	located_in	cytosolic ribosome	cellular_component
+RPL12	P30050	enables	large ribosomal subunit rRNA binding	molecular_function

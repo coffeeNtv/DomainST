@@ -1,0 +1,20 @@
+PTBP1	P26599	enables	RNA binding	molecular_function
+PTBP1	P26599	enables	protein binding	molecular_function
+PTBP1	P26599	enables	poly-pyrimidine tract binding	molecular_function
+PTBP1	P26599	enables	pre-mRNA binding	molecular_function
+PTBP1	P26599	involved_in	regulation of alternative mRNA splicing, via spliceosome	biological_process
+PTBP1	P26599	involved_in	mRNA processing	biological_process
+PTBP1	P26599	involved_in	RNA splicing	biological_process
+PTBP1	P26599	involved_in	negative regulation of RNA splicing	biological_process
+PTBP1	P26599	involved_in	negative regulation of mRNA splicing, via spliceosome	biological_process
+PTBP1	P26599	involved_in	negative regulation of muscle cell differentiation	biological_process
+PTBP1	P26599	involved_in	positive regulation of calcineurin-NFAT signaling cascade	biological_process
+PTBP1	P26599	involved_in	IRES-dependent viral translational initiation	biological_process
+PTBP1	P26599	located_in	nucleoplasm	cellular_component
+PTBP1	P26599	located_in	nucleolus	cellular_component
+PTBP1	P26599	located_in	membrane	cellular_component
+PTBP1	P26599	located_in	extracellular exosome	cellular_component
+PTBP1	P26599	involved_in	regulation of RNA splicing	biological_process
+PTBP1	P26599	involved_in	regulation of cell differentiation	biological_process
+PTBP1	P26599	is_active_in	nucleus	cellular_component
+PTBP1	P26599	enables	mRNA binding	molecular_function

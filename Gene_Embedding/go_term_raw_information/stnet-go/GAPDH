@@ -1,0 +1,41 @@
+GAPDH	P04406	enables	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	molecular_function
+GAPDH	P04406	enables	protein binding	molecular_function
+GAPDH	P04406	enables	microtubule binding	molecular_function
+GAPDH	P04406	enables	aspartic-type endopeptidase inhibitor activity	molecular_function
+GAPDH	P04406	enables	peptidyl-cysteine S-nitrosylase activity	molecular_function
+GAPDH	P04406	enables	identical protein binding	molecular_function
+GAPDH	P04406	enables	NADP binding	molecular_function
+GAPDH	P04406	enables	NAD binding	molecular_function
+GAPDH	P04406	enables	disordered domain specific binding	molecular_function
+GAPDH	P04406	involved_in	microtubule cytoskeleton organization	biological_process
+GAPDH	P04406	involved_in	positive regulation of cytokine production	biological_process
+GAPDH	P04406	involved_in	glucose metabolic process	biological_process
+GAPDH	P04406	involved_in	glycolytic process	biological_process
+GAPDH	P04406	involved_in	negative regulation of endopeptidase activity	biological_process
+GAPDH	P04406	involved_in	regulation of macroautophagy	biological_process
+GAPDH	P04406	involved_in	negative regulation of translation	biological_process
+GAPDH	P04406	involved_in	killing of cells of another organism	biological_process
+GAPDH	P04406	involved_in	positive regulation of type I interferon production	biological_process
+GAPDH	P04406	involved_in	peptidyl-cysteine S-trans-nitrosylation	biological_process
+GAPDH	P04406	involved_in	positive regulation of canonical NF-kappaB signal transduction	biological_process
+GAPDH	P04406	involved_in	protein stabilization	biological_process
+GAPDH	P04406	involved_in	defense response to fungus	biological_process
+GAPDH	P04406	involved_in	neuron apoptotic process	biological_process
+GAPDH	P04406	involved_in	killing by host of symbiont cells	biological_process
+GAPDH	P04406	involved_in	antimicrobial humoral immune response mediated by antimicrobial peptide	biological_process
+GAPDH	P04406	involved_in	cellular response to type II interferon	biological_process
+GAPDH	P04406	located_in	nucleus	cellular_component
+GAPDH	P04406	located_in	cytoplasm	cellular_component
+GAPDH	P04406	located_in	lipid droplet	cellular_component
+GAPDH	P04406	located_in	cytosol	cellular_component
+GAPDH	P04406	located_in	plasma membrane	cellular_component
+GAPDH	P04406	located_in	microtubule cytoskeleton	cellular_component
+GAPDH	P04406	located_in	membrane	cellular_component
+GAPDH	P04406	located_in	nuclear membrane	cellular_component
+GAPDH	P04406	located_in	vesicle	cellular_component
+GAPDH	P04406	located_in	intracellular membrane-bounded organelle	cellular_component
+GAPDH	P04406	located_in	perinuclear region of cytoplasm	cellular_component
+GAPDH	P04406	located_in	extracellular exosome	cellular_component
+GAPDH	P04406	part_of	GAIT complex	cellular_component
+GAPDH	P04406	part_of	ribonucleoprotein complex	cellular_component
+GAPDH	P04406	is_active_in	cytosol	cellular_component

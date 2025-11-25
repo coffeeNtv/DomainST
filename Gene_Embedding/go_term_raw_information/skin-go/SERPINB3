@@ -1,0 +1,27 @@
+SERPINB3	P29508	enables	virus receptor activity	molecular_function
+SERPINB3	P29508	enables	protease binding	molecular_function
+SERPINB3	P29508	enables	serine-type endopeptidase inhibitor activity	molecular_function
+SERPINB3	P29508	enables	cysteine-type endopeptidase inhibitor activity	molecular_function
+SERPINB3	P29508	enables	protein binding	molecular_function
+SERPINB3	P29508	involved_in	positive regulation of cell population proliferation	biological_process
+SERPINB3	P29508	involved_in	negative regulation of peptidase activity	biological_process
+SERPINB3	P29508	involved_in	positive regulation of epithelial to mesenchymal transition	biological_process
+SERPINB3	P29508	involved_in	positive regulation of endopeptidase activity	biological_process
+SERPINB3	P29508	involved_in	negative regulation of endopeptidase activity	biological_process
+SERPINB3	P29508	involved_in	positive regulation of cell migration	biological_process
+SERPINB3	P29508	involved_in	autocrine signaling	biological_process
+SERPINB3	P29508	involved_in	paracrine signaling	biological_process
+SERPINB3	P29508	involved_in	negative regulation of catalytic activity	biological_process
+SERPINB3	P29508	involved_in	negative regulation of JUN kinase activity	biological_process
+SERPINB3	P29508	involved_in	negative regulation of proteolysis	biological_process
+SERPINB3	P29508	involved_in	symbiont entry into host cell	biological_process
+SERPINB3	P29508	located_in	extracellular region	cellular_component
+SERPINB3	P29508	located_in	nucleus	cellular_component
+SERPINB3	P29508	located_in	cytoplasm	cellular_component
+SERPINB3	P29508	located_in	cytosol	cellular_component
+SERPINB3	P29508	located_in	plasma membrane	cellular_component
+SERPINB3	P29508	located_in	cytoplasmic vesicle	cellular_component
+SERPINB3	P29508	located_in	vesicle	cellular_component
+SERPINB3	P29508	located_in	azurophil granule lumen	cellular_component
+SERPINB3	P29508	located_in	extracellular exosome	cellular_component
+SERPINB3	P29508	is_active_in	extracellular space	cellular_component

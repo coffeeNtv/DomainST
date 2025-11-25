@@ -1,0 +1,20 @@
+IGHA1	P01876	contributes_to	immunoglobulin receptor binding	molecular_function
+IGHA1	P01876	enables	antigen binding	molecular_function
+IGHA1	P01876	involved_in	adaptive immune response	biological_process
+IGHA1	P01876	involved_in	glomerular filtration	biological_process
+IGHA1	P01876	involved_in	immune response	biological_process
+IGHA1	P01876	involved_in	antibacterial humoral response	biological_process
+IGHA1	P01876	involved_in	B cell receptor signaling pathway	biological_process
+IGHA1	P01876	involved_in	positive regulation of respiratory burst	biological_process
+IGHA1	P01876	located_in	extracellular region	cellular_component
+IGHA1	P01876	located_in	extracellular space	cellular_component
+IGHA1	P01876	located_in	extracellular exosome	cellular_component
+IGHA1	P01876	located_in	blood microparticle	cellular_component
+IGHA1	P01876	located_in	plasma membrane	cellular_component
+IGHA1	P01876	part_of	IgG immunoglobulin complex	cellular_component
+IGHA1	P01876	part_of	IgA immunoglobulin complex	cellular_component
+IGHA1	P01876	part_of	monomeric IgA immunoglobulin complex	cellular_component
+IGHA1	P01876	part_of	secretory IgA immunoglobulin complex	cellular_component
+IGHA1	P01876	part_of	secretory dimeric IgA immunoglobulin complex	cellular_component
+IGHA1	P01876	involved_in	complement activation, classical pathway	biological_process
+IGHA1	P01876	part_of	immunoglobulin complex, circulating	cellular_component

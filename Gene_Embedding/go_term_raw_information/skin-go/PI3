@@ -1,0 +1,12 @@
+PI3	P19957	enables	endopeptidase inhibitor activity	molecular_function
+PI3	P19957	enables	structural constituent of skin epidermis	molecular_function
+PI3	P19957	involved_in	copulation	biological_process
+PI3	P19957	involved_in	peptide cross-linking	biological_process
+PI3	P19957	located_in	cornified envelope	cellular_component
+PI3	P19957	located_in	extracellular region	cellular_component
+PI3	P19957	located_in	cytosol	cellular_component
+PI3	P19957	located_in	extracellular matrix	cellular_component
+PI3	P19957	involved_in	antibacterial humoral response	biological_process
+PI3	P19957	enables	serine-type endopeptidase inhibitor activity	molecular_function
+PI3	P19957	involved_in	innate immune response	biological_process
+PI3	P19957	is_active_in	extracellular space	cellular_component

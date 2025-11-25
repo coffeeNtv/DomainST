@@ -1,0 +1,13 @@
+RPL19	P84098	enables	RNA binding	molecular_function
+RPL19	P84098	enables	structural constituent of ribosome	molecular_function
+RPL19	P84098	enables	protein binding	molecular_function
+RPL19	P84098	involved_in	cytoplasmic translation	biological_process
+RPL19	P84098	involved_in	translation	biological_process
+RPL19	P84098	located_in	nucleolus	cellular_component
+RPL19	P84098	located_in	cytosol	cellular_component
+RPL19	P84098	located_in	focal adhesion	cellular_component
+RPL19	P84098	located_in	membrane	cellular_component
+RPL19	P84098	located_in	synapse	cellular_component
+RPL19	P84098	located_in	cytoplasm	cellular_component
+RPL19	P84098	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL19	P84098	located_in	cytosolic ribosome	cellular_component

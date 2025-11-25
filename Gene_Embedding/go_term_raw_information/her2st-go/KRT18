@@ -1,0 +1,27 @@
+KRT18	P05783	enables	RNA binding	molecular_function
+KRT18	P05783	enables	structural molecule activity	molecular_function
+KRT18	P05783	enables	protein binding	molecular_function
+KRT18	P05783	enables	scaffold protein binding	molecular_function
+KRT18	P05783	enables	cadherin binding involved in cell-cell adhesion	molecular_function
+KRT18	P05783	involved_in	anatomical structure morphogenesis	biological_process
+KRT18	P05783	involved_in	tumor necrosis factor-mediated signaling pathway	biological_process
+KRT18	P05783	involved_in	Golgi to plasma membrane protein transport	biological_process
+KRT18	P05783	involved_in	negative regulation of apoptotic process	biological_process
+KRT18	P05783	involved_in	intermediate filament cytoskeleton organization	biological_process
+KRT18	P05783	involved_in	extrinsic apoptotic signaling pathway	biological_process
+KRT18	P05783	involved_in	hepatocyte apoptotic process	biological_process
+KRT18	P05783	involved_in	cell-cell adhesion	biological_process
+KRT18	P05783	located_in	nucleolus	cellular_component
+KRT18	P05783	located_in	cytoplasm	cellular_component
+KRT18	P05783	located_in	microtubule organizing center	cellular_component
+KRT18	P05783	located_in	cytosol	cellular_component
+KRT18	P05783	located_in	intermediate filament	cellular_component
+KRT18	P05783	located_in	adherens junction	cellular_component
+KRT18	P05783	located_in	nuclear matrix	cellular_component
+KRT18	P05783	located_in	centriolar satellite	cellular_component
+KRT18	P05783	located_in	keratin filament	cellular_component
+KRT18	P05783	located_in	perinuclear region of cytoplasm	cellular_component
+KRT18	P05783	located_in	extracellular exosome	cellular_component
+KRT18	P05783	located_in	cell periphery	cellular_component
+KRT18	P05783	is_active_in	cytoskeleton	cellular_component
+KRT18	P05783	is_active_in	keratin filament	cellular_component

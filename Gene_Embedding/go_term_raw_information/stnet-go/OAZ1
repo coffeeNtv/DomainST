@@ -1,0 +1,9 @@
+OAZ1	P54368	enables	protein binding	molecular_function
+OAZ1	P54368	enables	ornithine decarboxylase inhibitor activity	molecular_function
+OAZ1	P54368	involved_in	polyamine biosynthetic process	biological_process
+OAZ1	P54368	involved_in	positive regulation of protein catabolic process	biological_process
+OAZ1	P54368	involved_in	viral translational frameshifting	biological_process
+OAZ1	P54368	involved_in	positive regulation of intracellular protein transport	biological_process
+OAZ1	P54368	located_in	cytosol	cellular_component
+OAZ1	P54368	is_active_in	cytoplasm	cellular_component
+OAZ1	P54368	is_active_in	nucleus	cellular_component

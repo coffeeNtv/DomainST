@@ -1,0 +1,16 @@
+NBL1	P41271	enables	protein binding	molecular_function
+NBL1	P41271	enables	morphogen activity	molecular_function
+NBL1	P41271	enables	BMP binding	molecular_function
+NBL1	P41271	enables	identical protein binding	molecular_function
+NBL1	P41271	involved_in	signal transduction	biological_process
+NBL1	P41271	involved_in	nervous system development	biological_process
+NBL1	P41271	involved_in	negative regulation of BMP signaling pathway	biological_process
+NBL1	P41271	involved_in	sequestering of BMP in extracellular matrix	biological_process
+NBL1	P41271	involved_in	sequestering of BMP from receptor via BMP binding	biological_process
+NBL1	P41271	involved_in	positive regulation of neuron differentiation	biological_process
+NBL1	P41271	involved_in	determination of dorsal identity	biological_process
+NBL1	P41271	involved_in	neuron projection morphogenesis	biological_process
+NBL1	P41271	involved_in	negative regulation of monocyte chemotaxis	biological_process
+NBL1	P41271	located_in	extracellular space	cellular_component
+NBL1	P41271	enables	receptor ligand activity	molecular_function
+NBL1	P41271	is_active_in	extracellular space	cellular_component

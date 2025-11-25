@@ -1,0 +1,17 @@
+IGFBP4	P22692	enables	signaling receptor binding	molecular_function
+IGFBP4	P22692	enables	protein binding	molecular_function
+IGFBP4	P22692	involved_in	MAPK cascade	biological_process
+IGFBP4	P22692	involved_in	regulation of cell growth	biological_process
+IGFBP4	P22692	involved_in	signal transduction	biological_process
+IGFBP4	P22692	involved_in	regulation of glucose metabolic process	biological_process
+IGFBP4	P22692	involved_in	response to organic cyclic compound	biological_process
+IGFBP4	P22692	involved_in	positive regulation of MAPK cascade	biological_process
+IGFBP4	P22692	involved_in	positive regulation of insulin-like growth factor receptor signaling pathway	biological_process
+IGFBP4	P22692	involved_in	type B pancreatic cell proliferation	biological_process
+IGFBP4	P22692	involved_in	negative regulation of canonical Wnt signaling pathway	biological_process
+IGFBP4	P22692	located_in	extracellular region	cellular_component
+IGFBP4	P22692	located_in	endoplasmic reticulum lumen	cellular_component
+IGFBP4	P22692	involved_in	regulation of insulin-like growth factor receptor signaling pathway	biological_process
+IGFBP4	P22692	enables	insulin-like growth factor II binding	molecular_function
+IGFBP4	P22692	is_active_in	extracellular space	cellular_component
+IGFBP4	P22692	enables	insulin-like growth factor I binding	molecular_function

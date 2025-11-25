@@ -1,0 +1,17 @@
+POLR2L	P62875	enables	DNA binding	molecular_function
+POLR2L	P62875	enables	DNA-directed 5'-3' RNA polymerase activity	molecular_function
+POLR2L	P62875	enables	protein binding	molecular_function
+POLR2L	P62875	enables	zinc ion binding	molecular_function
+POLR2L	P62875	involved_in	regulation of transcription by RNA polymerase I	biological_process
+POLR2L	P62875	involved_in	transcription by RNA polymerase II	biological_process
+POLR2L	P62875	located_in	nucleus	cellular_component
+POLR2L	P62875	located_in	nucleoplasm	cellular_component
+POLR2L	P62875	located_in	cytosol	cellular_component
+POLR2L	P62875	part_of	RNA polymerase II, core complex	cellular_component
+POLR2L	P62875	part_of	RNA polymerase III complex	cellular_component
+POLR2L	P62875	part_of	RNA polymerase I complex	cellular_component
+POLR2L	P62875	contributes_to	RNA polymerase II activity	molecular_function
+POLR2L	P62875	contributes_to	RNA polymerase I activity	molecular_function
+POLR2L	P62875	contributes_to	RNA polymerase III activity	molecular_function
+POLR2L	P62875	involved_in	transcription by RNA polymerase I	biological_process
+POLR2L	P62875	involved_in	tRNA transcription by RNA polymerase III	biological_process

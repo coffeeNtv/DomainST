@@ -1,0 +1,19 @@
+RPL22	P35268	enables	RNA binding	molecular_function
+RPL22	P35268	enables	structural constituent of ribosome	molecular_function
+RPL22	P35268	enables	protein binding	molecular_function
+RPL22	P35268	enables	heparin binding	molecular_function
+RPL22	P35268	enables	identical protein binding	molecular_function
+RPL22	P35268	involved_in	cytoplasmic translation	biological_process
+RPL22	P35268	involved_in	translation	biological_process
+RPL22	P35268	involved_in	alpha-beta T cell differentiation	biological_process
+RPL22	P35268	involved_in	translation at presynapse	biological_process
+RPL22	P35268	located_in	nucleus	cellular_component
+RPL22	P35268	located_in	cytoplasm	cellular_component
+RPL22	P35268	located_in	cytosol	cellular_component
+RPL22	P35268	located_in	focal adhesion	cellular_component
+RPL22	P35268	located_in	extracellular exosome	cellular_component
+RPL22	P35268	located_in	presynapse	cellular_component
+RPL22	P35268	located_in	glutamatergic synapse	cellular_component
+RPL22	P35268	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL22	P35268	located_in	cytosolic ribosome	cellular_component
+RPL22	P35268	part_of	ribonucleoprotein complex	cellular_component

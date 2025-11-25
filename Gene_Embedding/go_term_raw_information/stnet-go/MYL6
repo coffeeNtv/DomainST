@@ -1,0 +1,16 @@
+MYL6	P60660	enables	microfilament motor activity	molecular_function
+MYL6	P60660	enables	cytoskeletal motor activity	molecular_function
+MYL6	P60660	enables	calcium ion binding	molecular_function
+MYL6	P60660	enables	protein binding	molecular_function
+MYL6	P60660	enables	structural constituent of muscle	molecular_function
+MYL6	P60660	involved_in	muscle contraction	biological_process
+MYL6	P60660	involved_in	skeletal muscle tissue development	biological_process
+MYL6	P60660	involved_in	muscle filament sliding	biological_process
+MYL6	P60660	located_in	cytosol	cellular_component
+MYL6	P60660	located_in	brush border	cellular_component
+MYL6	P60660	located_in	membrane	cellular_component
+MYL6	P60660	located_in	vesicle	cellular_component
+MYL6	P60660	located_in	extracellular exosome	cellular_component
+MYL6	P60660	part_of	myosin complex	cellular_component
+MYL6	P60660	part_of	unconventional myosin complex	cellular_component
+MYL6	P60660	part_of	myosin II complex	cellular_component

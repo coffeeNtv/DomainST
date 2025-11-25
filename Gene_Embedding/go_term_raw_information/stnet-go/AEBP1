@@ -1,0 +1,19 @@
+AEBP1	Q8IUX7	colocalizes_with	collagen-containing extracellular matrix	cellular_component
+AEBP1	Q8IUX7	enables	RNA polymerase II transcription regulatory region sequence-specific DNA binding	molecular_function
+AEBP1	Q8IUX7	enables	DNA-binding transcription repressor activity, RNA polymerase II-specific	molecular_function
+AEBP1	Q8IUX7	enables	extracellular matrix structural constituent	molecular_function
+AEBP1	Q8IUX7	enables	calmodulin binding	molecular_function
+AEBP1	Q8IUX7	enables	collagen binding	molecular_function
+AEBP1	Q8IUX7	enables	zinc ion binding	molecular_function
+AEBP1	Q8IUX7	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
+AEBP1	Q8IUX7	involved_in	regulation of collagen fibril organization	biological_process
+AEBP1	Q8IUX7	located_in	extracellular region	cellular_component
+AEBP1	Q8IUX7	located_in	extracellular space	cellular_component
+AEBP1	Q8IUX7	located_in	nucleus	cellular_component
+AEBP1	Q8IUX7	located_in	cytoplasm	cellular_component
+AEBP1	Q8IUX7	located_in	collagen-containing extracellular matrix	cellular_component
+AEBP1	Q8IUX7	located_in	extracellular exosome	cellular_component
+AEBP1	Q8IUX7	NOT|involved_in	peptide metabolic process	biological_process
+AEBP1	Q8IUX7	involved_in	regulation of DNA-templated transcription	biological_process
+AEBP1	Q8IUX7	NOT|involved_in	protein processing	biological_process
+AEBP1	Q8IUX7	NOT|enables	metallocarboxypeptidase activity	molecular_function

@@ -1,0 +1,10 @@
+NDUFA3	O95167	enables	protein binding	molecular_function
+NDUFA3	O95167	enables	NADH dehydrogenase (ubiquinone) activity	molecular_function
+NDUFA3	O95167	involved_in	mitochondrial electron transport, NADH to ubiquinone	biological_process
+NDUFA3	O95167	involved_in	aerobic respiration	biological_process
+NDUFA3	O95167	involved_in	mitochondrial respiratory chain complex I assembly	biological_process
+NDUFA3	O95167	involved_in	proton motive force-driven mitochondrial ATP synthesis	biological_process
+NDUFA3	O95167	involved_in	proton transmembrane transport	biological_process
+NDUFA3	O95167	located_in	mitochondrion	cellular_component
+NDUFA3	O95167	located_in	mitochondrial inner membrane	cellular_component
+NDUFA3	O95167	part_of	respiratory chain complex I	cellular_component

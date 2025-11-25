@@ -1,0 +1,15 @@
+S100A14	Q9HCY8	enables	calcium ion binding	molecular_function
+S100A14	Q9HCY8	enables	protein binding	molecular_function
+S100A14	Q9HCY8	enables	chemokine receptor binding	molecular_function
+S100A14	Q9HCY8	involved_in	apoptotic process	biological_process
+S100A14	Q9HCY8	involved_in	response to lipopolysaccharide	biological_process
+S100A14	Q9HCY8	involved_in	toll-like receptor 4 signaling pathway	biological_process
+S100A14	Q9HCY8	involved_in	defense response to bacterium	biological_process
+S100A14	Q9HCY8	involved_in	calcium ion homeostasis	biological_process
+S100A14	Q9HCY8	involved_in	positive regulation of granulocyte chemotaxis	biological_process
+S100A14	Q9HCY8	involved_in	positive regulation of monocyte chemotaxis	biological_process
+S100A14	Q9HCY8	located_in	perinuclear region of cytoplasm	cellular_component
+S100A14	Q9HCY8	located_in	extracellular exosome	cellular_component
+S100A14	Q9HCY8	enables	calcium-dependent protein binding	molecular_function
+S100A14	Q9HCY8	is_active_in	extracellular space	cellular_component
+S100A14	Q9HCY8	is_active_in	perinuclear region of cytoplasm	cellular_component

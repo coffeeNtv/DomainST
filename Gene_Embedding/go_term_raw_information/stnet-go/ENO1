@@ -1,0 +1,34 @@
+ENO1	P06733	enables	magnesium ion binding	molecular_function
+ENO1	P06733	enables	RNA polymerase II transcription regulatory region sequence-specific DNA binding	molecular_function
+ENO1	P06733	enables	transcription corepressor binding	molecular_function
+ENO1	P06733	enables	DNA-binding transcription repressor activity, RNA polymerase II-specific	molecular_function
+ENO1	P06733	enables	transcription corepressor activity	molecular_function
+ENO1	P06733	enables	RNA binding	molecular_function
+ENO1	P06733	enables	phosphopyruvate hydratase activity	molecular_function
+ENO1	P06733	enables	protein binding	molecular_function
+ENO1	P06733	enables	protein homodimerization activity	molecular_function
+ENO1	P06733	enables	cadherin binding	molecular_function
+ENO1	P06733	enables	GTPase binding	molecular_function
+ENO1	P06733	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
+ENO1	P06733	involved_in	gluconeogenesis	biological_process
+ENO1	P06733	involved_in	response to virus	biological_process
+ENO1	P06733	involved_in	positive regulation of plasminogen activation	biological_process
+ENO1	P06733	involved_in	negative regulation of cell growth	biological_process
+ENO1	P06733	involved_in	negative regulation of DNA-templated transcription	biological_process
+ENO1	P06733	involved_in	positive regulation of muscle contraction	biological_process
+ENO1	P06733	involved_in	canonical glycolysis	biological_process
+ENO1	P06733	involved_in	negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	biological_process
+ENO1	P06733	involved_in	positive regulation of ATP biosynthetic process	biological_process
+ENO1	P06733	located_in	extracellular space	cellular_component
+ENO1	P06733	located_in	nucleus	cellular_component
+ENO1	P06733	located_in	nuclear outer membrane	cellular_component
+ENO1	P06733	located_in	cytoplasm	cellular_component
+ENO1	P06733	located_in	cytosol	cellular_component
+ENO1	P06733	located_in	plasma membrane	cellular_component
+ENO1	P06733	located_in	cell cortex	cellular_component
+ENO1	P06733	located_in	cell surface	cellular_component
+ENO1	P06733	located_in	membrane	cellular_component
+ENO1	P06733	located_in	M band	cellular_component
+ENO1	P06733	located_in	extracellular exosome	cellular_component
+ENO1	P06733	part_of	phosphopyruvate hydratase complex	cellular_component
+ENO1	P06733	involved_in	glycolytic process	biological_process

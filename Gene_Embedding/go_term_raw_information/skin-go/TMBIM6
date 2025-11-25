@@ -1,0 +1,26 @@
+TMBIM6	P55061	acts_upstream_of_or_within	negative regulation of calcium ion transport into cytosol	biological_process
+TMBIM6	P55061	enables	protein binding	molecular_function
+TMBIM6	P55061	enables	enzyme binding	molecular_function
+TMBIM6	P55061	enables	ubiquitin protein ligase binding	molecular_function
+TMBIM6	P55061	enables	endoribonuclease inhibitor activity	molecular_function
+TMBIM6	P55061	involved_in	negative regulation of immunoglobulin production	biological_process
+TMBIM6	P55061	involved_in	autophagy	biological_process
+TMBIM6	P55061	involved_in	endoplasmic reticulum calcium ion homeostasis	biological_process
+TMBIM6	P55061	involved_in	negative regulation of RNA splicing	biological_process
+TMBIM6	P55061	involved_in	cellular response to unfolded protein	biological_process
+TMBIM6	P55061	involved_in	neuron intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress	biological_process
+TMBIM6	P55061	involved_in	negative regulation of apoptotic process	biological_process
+TMBIM6	P55061	involved_in	negative regulation of endoribonuclease activity	biological_process
+TMBIM6	P55061	involved_in	calcium ion transmembrane transport	biological_process
+TMBIM6	P55061	involved_in	response to L-glutamate	biological_process
+TMBIM6	P55061	involved_in	negative regulation of endoplasmic reticulum stress-induced intrinsic apoptotic signaling pathway	biological_process
+TMBIM6	P55061	involved_in	negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway	biological_process
+TMBIM6	P55061	involved_in	negative regulation of apoptotic signaling pathway	biological_process
+TMBIM6	P55061	located_in	nucleus	cellular_component
+TMBIM6	P55061	located_in	cytoplasm	cellular_component
+TMBIM6	P55061	located_in	endoplasmic reticulum	cellular_component
+TMBIM6	P55061	located_in	endoplasmic reticulum membrane	cellular_component
+TMBIM6	P55061	located_in	plasma membrane	cellular_component
+TMBIM6	P55061	located_in	membrane	cellular_component
+TMBIM6	P55061	is_active_in	endoplasmic reticulum membrane	cellular_component
+TMBIM6	P55061	enables	calcium channel activity	molecular_function

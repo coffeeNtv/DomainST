@@ -1,0 +1,96 @@
+ACTB	P60709	acts_upstream_of_or_within	maintenance of blood-brain barrier	biological_process
+ACTB	P60709	contributes_to	nucleosomal DNA binding	molecular_function
+ACTB	P60709	enables	structural constituent of cytoskeleton	molecular_function
+ACTB	P60709	enables	protein binding	molecular_function
+ACTB	P60709	enables	ATP binding	molecular_function
+ACTB	P60709	enables	ATP hydrolysis activity	molecular_function
+ACTB	P60709	enables	kinesin binding	molecular_function
+ACTB	P60709	enables	protein kinase binding	molecular_function
+ACTB	P60709	enables	Tat protein binding	molecular_function
+ACTB	P60709	enables	identical protein binding	molecular_function
+ACTB	P60709	enables	tau protein binding	molecular_function
+ACTB	P60709	enables	nitric-oxide synthase binding	molecular_function
+ACTB	P60709	enables	structural constituent of postsynaptic actin cytoskeleton	molecular_function
+ACTB	P60709	involved_in	regulation of cyclin-dependent protein serine/threonine kinase activity	biological_process
+ACTB	P60709	involved_in	morphogenesis of a polarized epithelium	biological_process
+ACTB	P60709	involved_in	chromatin remodeling	biological_process
+ACTB	P60709	involved_in	regulation of transcription by RNA polymerase II	biological_process
+ACTB	P60709	involved_in	establishment or maintenance of cell polarity	biological_process
+ACTB	P60709	involved_in	positive regulation of cell population proliferation	biological_process
+ACTB	P60709	involved_in	substantia nigra development	biological_process
+ACTB	P60709	involved_in	regulation of transmembrane transporter activity	biological_process
+ACTB	P60709	involved_in	regulation of mitotic metaphase/anaphase transition	biological_process
+ACTB	P60709	involved_in	adherens junction assembly	biological_process
+ACTB	P60709	involved_in	regulation of apoptotic process	biological_process
+ACTB	P60709	involved_in	apical protein localization	biological_process
+ACTB	P60709	involved_in	positive regulation of T cell differentiation	biological_process
+ACTB	P60709	involved_in	negative regulation of cell differentiation	biological_process
+ACTB	P60709	involved_in	positive regulation of cell differentiation	biological_process
+ACTB	P60709	involved_in	positive regulation of myoblast differentiation	biological_process
+ACTB	P60709	involved_in	positive regulation of DNA-templated transcription	biological_process
+ACTB	P60709	involved_in	cell motility	biological_process
+ACTB	P60709	involved_in	regulation of norepinephrine uptake	biological_process
+ACTB	P60709	involved_in	positive regulation of norepinephrine uptake	biological_process
+ACTB	P60709	involved_in	regulation of cell cycle	biological_process
+ACTB	P60709	involved_in	regulation of G0 to G1 transition	biological_process
+ACTB	P60709	involved_in	platelet aggregation	biological_process
+ACTB	P60709	involved_in	protein localization to adherens junction	biological_process
+ACTB	P60709	involved_in	cellular response to cytochalasin B	biological_process
+ACTB	P60709	involved_in	postsynaptic actin cytoskeleton organization	biological_process
+ACTB	P60709	involved_in	regulation of transepithelial transport	biological_process
+ACTB	P60709	involved_in	regulation of synaptic vesicle endocytosis	biological_process
+ACTB	P60709	involved_in	positive regulation of stem cell population maintenance	biological_process
+ACTB	P60709	involved_in	regulation of protein localization to plasma membrane	biological_process
+ACTB	P60709	involved_in	positive regulation of double-strand break repair via homologous recombination	biological_process
+ACTB	P60709	involved_in	regulation of G1/S transition of mitotic cell cycle	biological_process
+ACTB	P60709	involved_in	regulation of double-strand break repair	biological_process
+ACTB	P60709	involved_in	positive regulation of double-strand break repair	biological_process
+ACTB	P60709	involved_in	regulation of nucleotide-excision repair	biological_process
+ACTB	P60709	is_active_in	postsynaptic actin cytoskeleton	cellular_component
+ACTB	P60709	is_active_in	glutamatergic synapse	cellular_component
+ACTB	P60709	located_in	chromatin	cellular_component
+ACTB	P60709	located_in	extracellular space	cellular_component
+ACTB	P60709	located_in	nucleus	cellular_component
+ACTB	P60709	located_in	nucleoplasm	cellular_component
+ACTB	P60709	located_in	cytoplasm	cellular_component
+ACTB	P60709	located_in	cytosol	cellular_component
+ACTB	P60709	located_in	cytoskeleton	cellular_component
+ACTB	P60709	located_in	plasma membrane	cellular_component
+ACTB	P60709	located_in	brush border	cellular_component
+ACTB	P60709	located_in	cell-cell junction	cellular_component
+ACTB	P60709	located_in	adherens junction	cellular_component
+ACTB	P60709	located_in	focal adhesion	cellular_component
+ACTB	P60709	located_in	actin cytoskeleton	cellular_component
+ACTB	P60709	located_in	membrane	cellular_component
+ACTB	P60709	located_in	lamellipodium	cellular_component
+ACTB	P60709	located_in	cortical cytoskeleton	cellular_component
+ACTB	P60709	located_in	vesicle	cellular_component
+ACTB	P60709	located_in	cytoplasmic ribonucleoprotein granule	cellular_component
+ACTB	P60709	located_in	apical junction complex	cellular_component
+ACTB	P60709	located_in	calyx of Held	cellular_component
+ACTB	P60709	located_in	extracellular exosome	cellular_component
+ACTB	P60709	located_in	tight junction	cellular_component
+ACTB	P60709	located_in	blood microparticle	cellular_component
+ACTB	P60709	located_in	dense body	cellular_component
+ACTB	P60709	located_in	Schaffer collateral - CA1 synapse	cellular_component
+ACTB	P60709	located_in	presynapse	cellular_component
+ACTB	P60709	located_in	kinetochore	cellular_component
+ACTB	P60709	part_of	nucleosome	cellular_component
+ACTB	P60709	located_in	nuclear matrix	cellular_component
+ACTB	P60709	part_of	SWI/SNF complex	cellular_component
+ACTB	P60709	part_of	RSC-type complex	cellular_component
+ACTB	P60709	part_of	protein-containing complex	cellular_component
+ACTB	P60709	part_of	brahma complex	cellular_component
+ACTB	P60709	part_of	NuA4 histone acetyltransferase complex	cellular_component
+ACTB	P60709	part_of	npBAF complex	cellular_component
+ACTB	P60709	part_of	nBAF complex	cellular_component
+ACTB	P60709	part_of	bBAF complex	cellular_component
+ACTB	P60709	part_of	GBAF complex	cellular_component
+ACTB	P60709	part_of	ribonucleoprotein complex	cellular_component
+ACTB	P60709	is_active_in	actin filament	cellular_component
+ACTB	P60709	is_active_in	membrane	cellular_component
+ACTB	P60709	is_active_in	actin cytoskeleton	cellular_component
+ACTB	P60709	involved_in	axonogenesis	biological_process
+ACTB	P60709	is_active_in	synapse	cellular_component
+ACTB	P60709	is_active_in	axon	cellular_component
+ACTB	P60709	is_active_in	cytoplasm	cellular_component

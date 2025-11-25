@@ -1,0 +1,12 @@
+ATP5F1E	P56381	contributes_to	proton-transporting ATP synthase activity, rotational mechanism	molecular_function
+ATP5F1E	P56381	enables	protein binding	molecular_function
+ATP5F1E	P56381	enables	hydrolase activity	molecular_function
+ATP5F1E	P56381	involved_in	proton motive force-driven ATP synthesis	biological_process
+ATP5F1E	P56381	involved_in	proton motive force-driven mitochondrial ATP synthesis	biological_process
+ATP5F1E	P56381	involved_in	proton transmembrane transport	biological_process
+ATP5F1E	P56381	located_in	mitochondrion	cellular_component
+ATP5F1E	P56381	located_in	mitochondrial matrix	cellular_component
+ATP5F1E	P56381	located_in	mitochondrial inner membrane	cellular_component
+ATP5F1E	P56381	part_of	proton-transporting ATP synthase complex	cellular_component
+ATP5F1E	P56381	part_of	proton-transporting ATP synthase complex, catalytic core F(1)	cellular_component
+ATP5F1E	P56381	is_active_in	mitochondrial inner membrane	cellular_component

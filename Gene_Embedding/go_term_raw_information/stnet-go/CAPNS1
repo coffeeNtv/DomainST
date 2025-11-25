@@ -1,0 +1,11 @@
+CAPNS1	P04632	enables	calcium-dependent cysteine-type endopeptidase activity	molecular_function
+CAPNS1	P04632	enables	calcium ion binding	molecular_function
+CAPNS1	P04632	enables	protein binding	molecular_function
+CAPNS1	P04632	involved_in	proteolysis	biological_process
+CAPNS1	P04632	involved_in	positive regulation of cell population proliferation	biological_process
+CAPNS1	P04632	involved_in	regulation of macroautophagy	biological_process
+CAPNS1	P04632	located_in	cytosol	cellular_component
+CAPNS1	P04632	located_in	plasma membrane	cellular_component
+CAPNS1	P04632	located_in	membrane	cellular_component
+CAPNS1	P04632	located_in	extracellular exosome	cellular_component
+CAPNS1	P04632	part_of	calpain complex	cellular_component

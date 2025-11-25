@@ -1,0 +1,20 @@
+PFDN5	Q99471	enables	amyloid-beta binding	molecular_function
+PFDN5	Q99471	enables	transcription corepressor activity	molecular_function
+PFDN5	Q99471	enables	protein binding	molecular_function
+PFDN5	Q99471	enables	unfolded protein binding	molecular_function
+PFDN5	Q99471	involved_in	regulation of DNA-templated transcription	biological_process
+PFDN5	Q99471	involved_in	protein folding	biological_process
+PFDN5	Q99471	involved_in	negative regulation of DNA-templated transcription	biological_process
+PFDN5	Q99471	involved_in	retina development in camera-type eye	biological_process
+PFDN5	Q99471	involved_in	chaperone-mediated protein folding	biological_process
+PFDN5	Q99471	involved_in	negative regulation of canonical Wnt signaling pathway	biological_process
+PFDN5	Q99471	involved_in	negative regulation of amyloid fibril formation	biological_process
+PFDN5	Q99471	located_in	nucleus	cellular_component
+PFDN5	Q99471	located_in	cytoplasm	cellular_component
+PFDN5	Q99471	located_in	cytosol	cellular_component
+PFDN5	Q99471	located_in	intermediate filament cytoskeleton	cellular_component
+PFDN5	Q99471	part_of	prefoldin complex	cellular_component
+PFDN5	Q99471	is_active_in	cytoplasm	cellular_component
+PFDN5	Q99471	involved_in	RNA polymerase II core complex assembly	biological_process
+PFDN5	Q99471	involved_in	RNA polymerase III assembly	biological_process
+PFDN5	Q99471	involved_in	RNA polymerase I assembly	biological_process

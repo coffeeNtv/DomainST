@@ -1,0 +1,25 @@
+PTPRF	P10586	enables	phosphoprotein phosphatase activity	molecular_function
+PTPRF	P10586	enables	protein tyrosine phosphatase activity	molecular_function
+PTPRF	P10586	enables	non-membrane spanning protein tyrosine phosphatase activity	molecular_function
+PTPRF	P10586	enables	transmembrane receptor protein tyrosine phosphatase activity	molecular_function
+PTPRF	P10586	enables	heparin binding	molecular_function
+PTPRF	P10586	enables	protein tyrosine phosphatase activity, metal-dependent	molecular_function
+PTPRF	P10586	enables	chondroitin sulfate proteoglycan binding	molecular_function
+PTPRF	P10586	enables	protein-containing complex binding	molecular_function
+PTPRF	P10586	enables	cell adhesion molecule binding	molecular_function
+PTPRF	P10586	enables	histone H2AXY142 phosphatase activity	molecular_function
+PTPRF	P10586	involved_in	chromatin remodeling	biological_process
+PTPRF	P10586	involved_in	cell adhesion	biological_process
+PTPRF	P10586	involved_in	cell surface receptor protein tyrosine phosphatase signaling pathway	biological_process
+PTPRF	P10586	involved_in	cell migration	biological_process
+PTPRF	P10586	involved_in	neuron projection regeneration	biological_process
+PTPRF	P10586	involved_in	peptidyl-tyrosine dephosphorylation	biological_process
+PTPRF	P10586	involved_in	regulation of axon regeneration	biological_process
+PTPRF	P10586	involved_in	synaptic membrane adhesion	biological_process
+PTPRF	P10586	involved_in	negative regulation of receptor binding	biological_process
+PTPRF	P10586	located_in	plasma membrane	cellular_component
+PTPRF	P10586	located_in	neuron projection	cellular_component
+PTPRF	P10586	located_in	neuronal cell body	cellular_component
+PTPRF	P10586	located_in	extracellular exosome	cellular_component
+PTPRF	P10586	involved_in	signal transduction	biological_process
+PTPRF	P10586	involved_in	nervous system development	biological_process

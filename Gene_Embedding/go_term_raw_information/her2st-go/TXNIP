@@ -1,0 +1,25 @@
+TXNIP	Q9H3M7	enables	enzyme inhibitor activity	molecular_function
+TXNIP	Q9H3M7	enables	protein binding	molecular_function
+TXNIP	Q9H3M7	enables	ubiquitin protein ligase binding	molecular_function
+TXNIP	Q9H3M7	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
+TXNIP	Q9H3M7	involved_in	protein import into nucleus	biological_process
+TXNIP	Q9H3M7	involved_in	inflammatory response	biological_process
+TXNIP	Q9H3M7	involved_in	response to oxidative stress	biological_process
+TXNIP	Q9H3M7	involved_in	response to xenobiotic stimulus	biological_process
+TXNIP	Q9H3M7	involved_in	response to mechanical stimulus	biological_process
+TXNIP	Q9H3M7	involved_in	response to glucose	biological_process
+TXNIP	Q9H3M7	involved_in	keratinocyte differentiation	biological_process
+TXNIP	Q9H3M7	involved_in	response to estradiol	biological_process
+TXNIP	Q9H3M7	involved_in	response to progesterone	biological_process
+TXNIP	Q9H3M7	involved_in	regulation of cell population proliferation	biological_process
+TXNIP	Q9H3M7	involved_in	response to hydrogen peroxide	biological_process
+TXNIP	Q9H3M7	involved_in	positive regulation of apoptotic process	biological_process
+TXNIP	Q9H3M7	involved_in	platelet-derived growth factor receptor signaling pathway	biological_process
+TXNIP	Q9H3M7	involved_in	response to calcium ion	biological_process
+TXNIP	Q9H3M7	involved_in	negative regulation of cell division	biological_process
+TXNIP	Q9H3M7	involved_in	cellular response to tumor cell	biological_process
+TXNIP	Q9H3M7	involved_in	cellular response to oxidised low-density lipoprotein particle stimulus	biological_process
+TXNIP	Q9H3M7	located_in	cytoplasm	cellular_component
+TXNIP	Q9H3M7	located_in	cytosol	cellular_component
+TXNIP	Q9H3M7	is_active_in	cytoplasm	cellular_component
+TXNIP	Q9H3M7	involved_in	protein transport	biological_process

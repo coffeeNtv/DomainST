@@ -1,0 +1,21 @@
+RPL27	P61353	enables	RNA binding	molecular_function
+RPL27	P61353	enables	structural constituent of ribosome	molecular_function
+RPL27	P61353	enables	protein binding	molecular_function
+RPL27	P61353	involved_in	cytoplasmic translation	biological_process
+RPL27	P61353	involved_in	rRNA processing	biological_process
+RPL27	P61353	involved_in	translation	biological_process
+RPL27	P61353	involved_in	response to aldosterone	biological_process
+RPL27	P61353	located_in	nucleus	cellular_component
+RPL27	P61353	located_in	nucleoplasm	cellular_component
+RPL27	P61353	located_in	nucleolus	cellular_component
+RPL27	P61353	located_in	cytosol	cellular_component
+RPL27	P61353	located_in	ribosome	cellular_component
+RPL27	P61353	located_in	focal adhesion	cellular_component
+RPL27	P61353	located_in	membrane	cellular_component
+RPL27	P61353	located_in	synapse	cellular_component
+RPL27	P61353	located_in	extracellular exosome	cellular_component
+RPL27	P61353	located_in	cytoplasmic side of rough endoplasmic reticulum membrane	cellular_component
+RPL27	P61353	located_in	cytoplasm	cellular_component
+RPL27	P61353	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL27	P61353	located_in	cytosolic ribosome	cellular_component
+RPL27	P61353	part_of	ribonucleoprotein complex	cellular_component

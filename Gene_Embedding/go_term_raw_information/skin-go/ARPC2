@@ -1,0 +1,24 @@
+ARPC2	O15144	contributes_to	actin filament binding	molecular_function
+ARPC2	O15144	enables	structural constituent of cytoskeleton	molecular_function
+ARPC2	O15144	enables	protein binding	molecular_function
+ARPC2	O15144	involved_in	positive regulation of lamellipodium assembly	biological_process
+ARPC2	O15144	involved_in	actin filament polymerization	biological_process
+ARPC2	O15144	involved_in	positive regulation of actin filament polymerization	biological_process
+ARPC2	O15144	involved_in	Arp2/3 complex-mediated actin nucleation	biological_process
+ARPC2	O15144	involved_in	actin polymerization-dependent cell motility	biological_process
+ARPC2	O15144	involved_in	positive regulation of substrate adhesion-dependent cell spreading	biological_process
+ARPC2	O15144	located_in	nucleus	cellular_component
+ARPC2	O15144	located_in	nucleoplasm	cellular_component
+ARPC2	O15144	located_in	endosome	cellular_component
+ARPC2	O15144	located_in	cytosol	cellular_component
+ARPC2	O15144	located_in	focal adhesion	cellular_component
+ARPC2	O15144	located_in	actin cytoskeleton	cellular_component
+ARPC2	O15144	located_in	lamellipodium	cellular_component
+ARPC2	O15144	located_in	synaptic vesicle membrane	cellular_component
+ARPC2	O15144	located_in	site of double-strand break	cellular_component
+ARPC2	O15144	located_in	muscle cell projection membrane	cellular_component
+ARPC2	O15144	located_in	neuron projection	cellular_component
+ARPC2	O15144	located_in	extracellular exosome	cellular_component
+ARPC2	O15144	located_in	postsynapse	cellular_component
+ARPC2	O15144	located_in	glutamatergic synapse	cellular_component
+ARPC2	O15144	part_of	Arp2/3 protein complex	cellular_component

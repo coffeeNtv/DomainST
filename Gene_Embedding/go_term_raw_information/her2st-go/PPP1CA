@@ -1,0 +1,56 @@
+PPP1CA	P62136	acts_upstream_of_or_within	protein dephosphorylation	biological_process
+PPP1CA	P62136	colocalizes_with	chromosome, telomeric region	cellular_component
+PPP1CA	P62136	enables	phosphoprotein phosphatase activity	molecular_function
+PPP1CA	P62136	enables	protein serine/threonine phosphatase activity	molecular_function
+PPP1CA	P62136	enables	iron ion binding	molecular_function
+PPP1CA	P62136	enables	protein binding	molecular_function
+PPP1CA	P62136	enables	protein phosphatase 1 binding	molecular_function
+PPP1CA	P62136	enables	phosphatase activity	molecular_function
+PPP1CA	P62136	enables	myosin phosphatase activity	molecular_function
+PPP1CA	P62136	enables	calmodulin-dependent protein phosphatase activity	molecular_function
+PPP1CA	P62136	enables	ribonucleoprotein complex binding	molecular_function
+PPP1CA	P62136	enables	transition metal ion binding	molecular_function
+PPP1CA	P62136	enables	cadherin binding involved in cell-cell adhesion	molecular_function
+PPP1CA	P62136	enables	histone H2AXS140 phosphatase activity	molecular_function
+PPP1CA	P62136	enables	RNA polymerase II CTD heptapeptide repeat Y1 phosphatase activity	molecular_function
+PPP1CA	P62136	enables	RNA polymerase II CTD heptapeptide repeat T4 phosphatase activity	molecular_function
+PPP1CA	P62136	enables	RNA polymerase II CTD heptapeptide repeat S2 phosphatase activity	molecular_function
+PPP1CA	P62136	enables	RNA polymerase II CTD heptapeptide repeat S5 phosphatase activity	molecular_function
+PPP1CA	P62136	enables	RNA polymerase II CTD heptapeptide repeat S7 phosphatase activity	molecular_function
+PPP1CA	P62136	enables	MAP kinase serine/threonine phosphatase activity	molecular_function
+PPP1CA	P62136	involved_in	glycogen metabolic process	biological_process
+PPP1CA	P62136	involved_in	regulation of glycogen catabolic process	biological_process
+PPP1CA	P62136	involved_in	chromatin remodeling	biological_process
+PPP1CA	P62136	involved_in	regulation of transcription by RNA polymerase II	biological_process
+PPP1CA	P62136	involved_in	protein dephosphorylation	biological_process
+PPP1CA	P62136	involved_in	response to lead ion	biological_process
+PPP1CA	P62136	involved_in	dephosphorylation	biological_process
+PPP1CA	P62136	involved_in	lung development	biological_process
+PPP1CA	P62136	involved_in	circadian regulation of gene expression	biological_process
+PPP1CA	P62136	involved_in	regulation of circadian rhythm	biological_process
+PPP1CA	P62136	involved_in	entrainment of circadian clock by photoperiod	biological_process
+PPP1CA	P62136	involved_in	telomere maintenance in response to DNA damage	biological_process
+PPP1CA	P62136	involved_in	regulation of translational initiation in response to stress	biological_process
+PPP1CA	P62136	involved_in	positive regulation of glycogen biosynthetic process	biological_process
+PPP1CA	P62136	involved_in	branching morphogenesis of an epithelial tube	biological_process
+PPP1CA	P62136	involved_in	cell division	biological_process
+PPP1CA	P62136	involved_in	regulation of canonical Wnt signaling pathway	biological_process
+PPP1CA	P62136	involved_in	cell-cell adhesion	biological_process
+PPP1CA	P62136	involved_in	positive regulation of extrinsic apoptotic signaling pathway in absence of ligand	biological_process
+PPP1CA	P62136	located_in	nucleus	cellular_component
+PPP1CA	P62136	located_in	nucleoplasm	cellular_component
+PPP1CA	P62136	located_in	nucleolus	cellular_component
+PPP1CA	P62136	located_in	cytoplasm	cellular_component
+PPP1CA	P62136	located_in	cytosol	cellular_component
+PPP1CA	P62136	located_in	plasma membrane	cellular_component
+PPP1CA	P62136	located_in	adherens junction	cellular_component
+PPP1CA	P62136	located_in	glycogen granule	cellular_component
+PPP1CA	P62136	located_in	dendritic spine	cellular_component
+PPP1CA	P62136	located_in	perikaryon	cellular_component
+PPP1CA	P62136	located_in	extracellular exosome	cellular_component
+PPP1CA	P62136	located_in	presynapse	cellular_component
+PPP1CA	P62136	located_in	glutamatergic synapse	cellular_component
+PPP1CA	P62136	part_of	protein phosphatase type 1 complex	cellular_component
+PPP1CA	P62136	part_of	PTW/PP1 phosphatase complex	cellular_component
+PPP1CA	P62136	is_active_in	cytoplasm	cellular_component
+PPP1CA	P62136	is_active_in	nucleus	cellular_component

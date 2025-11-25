@@ -1,0 +1,19 @@
+PCGF2	P35227	enables	DNA binding	molecular_function
+PCGF2	P35227	enables	protein binding	molecular_function
+PCGF2	P35227	enables	metal ion binding	molecular_function
+PCGF2	P35227	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
+PCGF2	P35227	involved_in	in utero embryonic development	biological_process
+PCGF2	P35227	involved_in	chromatin remodeling	biological_process
+PCGF2	P35227	involved_in	anterior/posterior pattern specification	biological_process
+PCGF2	P35227	involved_in	embryonic skeletal system morphogenesis	biological_process
+PCGF2	P35227	involved_in	cellular response to hydrogen peroxide	biological_process
+PCGF2	P35227	involved_in	apoptotic signaling pathway	biological_process
+PCGF2	P35227	involved_in	negative regulation of apoptotic signaling pathway	biological_process
+PCGF2	P35227	located_in	chromatin	cellular_component
+PCGF2	P35227	located_in	sex chromatin	cellular_component
+PCGF2	P35227	located_in	nucleus	cellular_component
+PCGF2	P35227	located_in	nucleoplasm	cellular_component
+PCGF2	P35227	located_in	nuclear body	cellular_component
+PCGF2	P35227	part_of	PcG protein complex	cellular_component
+PCGF2	P35227	part_of	PRC1 complex	cellular_component
+PCGF2	P35227	enables	promoter-specific chromatin binding	molecular_function

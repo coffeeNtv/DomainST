@@ -1,0 +1,8 @@
+COX7C	P15954	enables	protein binding	molecular_function
+COX7C	P15954	involved_in	generation of precursor metabolites and energy	biological_process
+COX7C	P15954	involved_in	mitochondrial electron transport, cytochrome c to oxygen	biological_process
+COX7C	P15954	involved_in	cellular respiration	biological_process
+COX7C	P15954	located_in	mitochondrion	cellular_component
+COX7C	P15954	located_in	mitochondrial inner membrane	cellular_component
+COX7C	P15954	located_in	mitochondrial membrane	cellular_component
+COX7C	P15954	part_of	respiratory chain complex IV	cellular_component

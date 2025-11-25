@@ -1,0 +1,30 @@
+S100A10	P60903	NOT|enables	lipid binding	molecular_function
+S100A10	P60903	colocalizes_with	membrane raft	cellular_component
+S100A10	P60903	enables	protein binding	molecular_function
+S100A10	P60903	enables	protein homodimerization activity	molecular_function
+S100A10	P60903	enables	transmembrane transporter binding	molecular_function
+S100A10	P60903	involved_in	membrane raft assembly	biological_process
+S100A10	P60903	involved_in	vesicle budding from membrane	biological_process
+S100A10	P60903	involved_in	positive regulation of plasminogen activation	biological_process
+S100A10	P60903	involved_in	mRNA transcription by RNA polymerase II	biological_process
+S100A10	P60903	involved_in	positive regulation of GTPase activity	biological_process
+S100A10	P60903	involved_in	positive regulation of exocytosis	biological_process
+S100A10	P60903	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+S100A10	P60903	involved_in	regulation of neurogenesis	biological_process
+S100A10	P60903	involved_in	positive regulation of stress fiber assembly	biological_process
+S100A10	P60903	involved_in	positive regulation of focal adhesion assembly	biological_process
+S100A10	P60903	involved_in	protein localization to plasma membrane	biological_process
+S100A10	P60903	involved_in	positive regulation of substrate adhesion-dependent cell spreading	biological_process
+S100A10	P60903	involved_in	positive regulation of plasma membrane repair	biological_process
+S100A10	P60903	located_in	extracellular region	cellular_component
+S100A10	P60903	located_in	cell surface	cellular_component
+S100A10	P60903	located_in	collagen-containing extracellular matrix	cellular_component
+S100A10	P60903	located_in	extracellular exosome	cellular_component
+S100A10	P60903	located_in	plasma membrane	cellular_component
+S100A10	P60903	located_in	nuclear matrix	cellular_component
+S100A10	P60903	part_of	RNA polymerase II transcription regulator complex	cellular_component
+S100A10	P60903	part_of	plasma membrane protein complex	cellular_component
+S100A10	P60903	part_of	AnxA2-p11 complex	cellular_component
+S100A10	P60903	is_active_in	cytoplasm	cellular_component
+S100A10	P60903	enables	calcium ion binding	molecular_function
+S100A10	P60903	enables	calcium-dependent protein binding	molecular_function

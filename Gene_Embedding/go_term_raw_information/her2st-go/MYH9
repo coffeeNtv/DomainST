@@ -1,0 +1,79 @@
+MYH9	P35579	acts_upstream_of_or_within	actin filament-based movement	biological_process
+MYH9	P35579	colocalizes_with	focal adhesion	cellular_component
+MYH9	P35579	part_of	COP9 signalosome	cellular_component
+MYH9	P35579	contributes_to	microfilament motor activity	molecular_function
+MYH9	P35579	contributes_to	actin filament binding	molecular_function
+MYH9	P35579	enables	microfilament motor activity	molecular_function
+MYH9	P35579	enables	virus receptor activity	molecular_function
+MYH9	P35579	enables	RNA binding	molecular_function
+MYH9	P35579	enables	cytoskeletal motor activity	molecular_function
+MYH9	P35579	enables	actin binding	molecular_function
+MYH9	P35579	enables	integrin binding	molecular_function
+MYH9	P35579	enables	protein binding	molecular_function
+MYH9	P35579	enables	calmodulin binding	molecular_function
+MYH9	P35579	enables	ATP binding	molecular_function
+MYH9	P35579	enables	protein domain specific binding	molecular_function
+MYH9	P35579	enables	identical protein binding	molecular_function
+MYH9	P35579	enables	protein homodimerization activity	molecular_function
+MYH9	P35579	enables	protein-membrane adaptor activity	molecular_function
+MYH9	P35579	enables	ADP binding	molecular_function
+MYH9	P35579	enables	cadherin binding	molecular_function
+MYH9	P35579	enables	actin filament binding	molecular_function
+MYH9	P35579	involved_in	meiotic spindle organization	biological_process
+MYH9	P35579	involved_in	angiogenesis	biological_process
+MYH9	P35579	involved_in	in utero embryonic development	biological_process
+MYH9	P35579	involved_in	establishment of T cell polarity	biological_process
+MYH9	P35579	involved_in	plasma membrane repair	biological_process
+MYH9	P35579	involved_in	membrane protein ectodomain proteolysis	biological_process
+MYH9	P35579	involved_in	phagocytosis, engulfment	biological_process
+MYH9	P35579	involved_in	integrin-mediated signaling pathway	biological_process
+MYH9	P35579	involved_in	myoblast fusion	biological_process
+MYH9	P35579	involved_in	regulation of cell shape	biological_process
+MYH9	P35579	involved_in	protein transport	biological_process
+MYH9	P35579	involved_in	actin cytoskeleton organization	biological_process
+MYH9	P35579	involved_in	actin filament-based movement	biological_process
+MYH9	P35579	involved_in	platelet formation	biological_process
+MYH9	P35579	involved_in	monocyte differentiation	biological_process
+MYH9	P35579	involved_in	actomyosin structure organization	biological_process
+MYH9	P35579	involved_in	lysosome localization	biological_process
+MYH9	P35579	involved_in	cytokinetic process	biological_process
+MYH9	P35579	involved_in	uropod organization	biological_process
+MYH9	P35579	involved_in	endodermal cell differentiation	biological_process
+MYH9	P35579	involved_in	blood vessel endothelial cell migration	biological_process
+MYH9	P35579	involved_in	regulated exocytosis	biological_process
+MYH9	P35579	involved_in	symbiont entry into host cell	biological_process
+MYH9	P35579	involved_in	leukocyte migration	biological_process
+MYH9	P35579	involved_in	establishment of meiotic spindle localization	biological_process
+MYH9	P35579	involved_in	cortical granule exocytosis	biological_process
+MYH9	P35579	involved_in	platelet aggregation	biological_process
+MYH9	P35579	involved_in	negative regulation of actin filament severing	biological_process
+MYH9	P35579	involved_in	positive regulation of protein processing in phagocytic vesicle	biological_process
+MYH9	P35579	involved_in	regulation of plasma membrane repair	biological_process
+MYH9	P35579	is_active_in	cell surface	cellular_component
+MYH9	P35579	located_in	stress fiber	cellular_component
+MYH9	P35579	located_in	ruffle	cellular_component
+MYH9	P35579	located_in	immunological synapse	cellular_component
+MYH9	P35579	located_in	uropod	cellular_component
+MYH9	P35579	located_in	nucleus	cellular_component
+MYH9	P35579	located_in	cytoplasm	cellular_component
+MYH9	P35579	located_in	spindle	cellular_component
+MYH9	P35579	located_in	actomyosin contractile ring	cellular_component
+MYH9	P35579	located_in	cytosol	cellular_component
+MYH9	P35579	located_in	plasma membrane	cellular_component
+MYH9	P35579	located_in	brush border	cellular_component
+MYH9	P35579	located_in	adherens junction	cellular_component
+MYH9	P35579	located_in	cytoplasmic side of plasma membrane	cellular_component
+MYH9	P35579	located_in	actin cytoskeleton	cellular_component
+MYH9	P35579	located_in	membrane	cellular_component
+MYH9	P35579	located_in	nuclear body	cellular_component
+MYH9	P35579	located_in	cell leading edge	cellular_component
+MYH9	P35579	located_in	neuromuscular junction	cellular_component
+MYH9	P35579	located_in	cleavage furrow	cellular_component
+MYH9	P35579	located_in	actomyosin	cellular_component
+MYH9	P35579	located_in	cortical granule	cellular_component
+MYH9	P35579	located_in	extracellular exosome	cellular_component
+MYH9	P35579	located_in	myosin II filament	cellular_component
+MYH9	P35579	part_of	myosin II complex	cellular_component
+MYH9	P35579	part_of	protein-containing complex	cellular_component
+MYH9	P35579	is_active_in	cytoplasm	cellular_component
+MYH9	P35579	is_active_in	myosin filament	cellular_component

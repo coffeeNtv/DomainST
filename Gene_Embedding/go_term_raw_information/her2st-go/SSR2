@@ -1,0 +1,5 @@
+SSR2	P43308	enables	protein binding	molecular_function
+SSR2	P43308	involved_in	cotranslational protein targeting to membrane	biological_process
+SSR2	P43308	located_in	endoplasmic reticulum	cellular_component
+SSR2	P43308	located_in	endoplasmic reticulum membrane	cellular_component
+SSR2	P43308	located_in	membrane	cellular_component

@@ -1,0 +1,15 @@
+PLD3	Q8IV08	enables	phospholipase D activity	molecular_function
+PLD3	Q8IV08	enables	protein binding	molecular_function
+PLD3	Q8IV08	enables	single-stranded DNA 5'-3' DNA exonuclease activity	molecular_function
+PLD3	Q8IV08	involved_in	immune system process	biological_process
+PLD3	Q8IV08	involved_in	DNA metabolic process	biological_process
+PLD3	Q8IV08	involved_in	inflammatory response	biological_process
+PLD3	Q8IV08	involved_in	myotube differentiation	biological_process
+PLD3	Q8IV08	involved_in	regulation of cytokine production involved in inflammatory response	biological_process
+PLD3	Q8IV08	located_in	Golgi membrane	cellular_component
+PLD3	Q8IV08	located_in	lysosomal membrane	cellular_component
+PLD3	Q8IV08	located_in	endoplasmic reticulum membrane	cellular_component
+PLD3	Q8IV08	located_in	early endosome membrane	cellular_component
+PLD3	Q8IV08	located_in	late endosome membrane	cellular_component
+PLD3	Q8IV08	located_in	lysosomal lumen	cellular_component
+PLD3	Q8IV08	located_in	extracellular exosome	cellular_component

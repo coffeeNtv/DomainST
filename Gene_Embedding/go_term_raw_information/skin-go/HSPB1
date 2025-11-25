@@ -1,0 +1,47 @@
+HSPB1	P04792	enables	RNA binding	molecular_function
+HSPB1	P04792	enables	protein kinase C binding	molecular_function
+HSPB1	P04792	enables	protein binding	molecular_function
+HSPB1	P04792	enables	protein kinase C inhibitor activity	molecular_function
+HSPB1	P04792	enables	protein kinase binding	molecular_function
+HSPB1	P04792	enables	identical protein binding	molecular_function
+HSPB1	P04792	enables	protein homodimerization activity	molecular_function
+HSPB1	P04792	enables	ubiquitin binding	molecular_function
+HSPB1	P04792	enables	protein folding chaperone	molecular_function
+HSPB1	P04792	enables	RNA polymerase II-specific DNA-binding transcription factor binding	molecular_function
+HSPB1	P04792	involved_in	regulation of protein phosphorylation	biological_process
+HSPB1	P04792	involved_in	regulation of translational initiation	biological_process
+HSPB1	P04792	involved_in	negative regulation of protein kinase activity	biological_process
+HSPB1	P04792	involved_in	response to unfolded protein	biological_process
+HSPB1	P04792	involved_in	response to virus	biological_process
+HSPB1	P04792	involved_in	regulation of autophagy	biological_process
+HSPB1	P04792	involved_in	positive regulation of interleukin-1 beta production	biological_process
+HSPB1	P04792	involved_in	positive regulation of tumor necrosis factor production	biological_process
+HSPB1	P04792	involved_in	intracellular signal transduction	biological_process
+HSPB1	P04792	involved_in	cellular response to vascular endothelial growth factor stimulus	biological_process
+HSPB1	P04792	involved_in	negative regulation of apoptotic process	biological_process
+HSPB1	P04792	involved_in	regulation of canonical NF-kappaB signal transduction	biological_process
+HSPB1	P04792	involved_in	positive regulation of blood vessel endothelial cell migration	biological_process
+HSPB1	P04792	involved_in	positive regulation of angiogenesis	biological_process
+HSPB1	P04792	involved_in	vascular endothelial growth factor receptor signaling pathway	biological_process
+HSPB1	P04792	involved_in	chaperone-mediated protein folding	biological_process
+HSPB1	P04792	involved_in	platelet aggregation	biological_process
+HSPB1	P04792	involved_in	anterograde axonal protein transport	biological_process
+HSPB1	P04792	involved_in	negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway	biological_process
+HSPB1	P04792	involved_in	positive regulation of endothelial cell chemotaxis	biological_process
+HSPB1	P04792	located_in	cornified envelope	cellular_component
+HSPB1	P04792	located_in	extracellular space	cellular_component
+HSPB1	P04792	located_in	nucleus	cellular_component
+HSPB1	P04792	located_in	cytoplasm	cellular_component
+HSPB1	P04792	located_in	spindle	cellular_component
+HSPB1	P04792	located_in	cytosol	cellular_component
+HSPB1	P04792	located_in	cytoskeleton	cellular_component
+HSPB1	P04792	located_in	focal adhesion	cellular_component
+HSPB1	P04792	located_in	Z disc	cellular_component
+HSPB1	P04792	located_in	extracellular exosome	cellular_component
+HSPB1	P04792	located_in	axon cytoplasm	cellular_component
+HSPB1	P04792	part_of	proteasome complex	cellular_component
+HSPB1	P04792	involved_in	protein refolding	biological_process
+HSPB1	P04792	involved_in	response to heat	biological_process
+HSPB1	P04792	is_active_in	nucleus	cellular_component
+HSPB1	P04792	enables	unfolded protein binding	molecular_function
+HSPB1	P04792	is_active_in	cytoplasm	cellular_component

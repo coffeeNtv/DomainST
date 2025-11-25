@@ -1,0 +1,33 @@
+FASN	P49327	enables	RNA binding	molecular_function
+FASN	P49327	enables	fatty acid synthase activity	molecular_function
+FASN	P49327	enables	[acyl-carrier-protein] S-acetyltransferase activity	molecular_function
+FASN	P49327	enables	[acyl-carrier-protein] S-malonyltransferase activity	molecular_function
+FASN	P49327	enables	3-oxoacyl-[acyl-carrier-protein] synthase activity	molecular_function
+FASN	P49327	enables	3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity	molecular_function
+FASN	P49327	enables	protein binding	molecular_function
+FASN	P49327	enables	fatty acyl-[ACP] hydrolase activity	molecular_function
+FASN	P49327	enables	(3R)-hydroxyacyl-[acyl-carrier-protein] dehydratase activity	molecular_function
+FASN	P49327	enables	phosphopantetheine binding	molecular_function
+FASN	P49327	enables	cadherin binding	molecular_function
+FASN	P49327	enables	enoyl-[acyl-carrier-protein] reductase (NADPH) activity	molecular_function
+FASN	P49327	involved_in	osteoblast differentiation	biological_process
+FASN	P49327	involved_in	glandular epithelial cell development	biological_process
+FASN	P49327	involved_in	fatty acid metabolic process	biological_process
+FASN	P49327	involved_in	fatty acid biosynthetic process	biological_process
+FASN	P49327	involved_in	inflammatory response	biological_process
+FASN	P49327	involved_in	ether lipid biosynthetic process	biological_process
+FASN	P49327	involved_in	neutrophil differentiation	biological_process
+FASN	P49327	involved_in	monocyte differentiation	biological_process
+FASN	P49327	involved_in	mammary gland development	biological_process
+FASN	P49327	involved_in	modulation by host of viral process	biological_process
+FASN	P49327	involved_in	fatty-acyl-CoA biosynthetic process	biological_process
+FASN	P49327	involved_in	cellular response to interleukin-4	biological_process
+FASN	P49327	involved_in	establishment of endothelial intestinal barrier	biological_process
+FASN	P49327	located_in	Golgi apparatus	cellular_component
+FASN	P49327	located_in	cytosol	cellular_component
+FASN	P49327	located_in	plasma membrane	cellular_component
+FASN	P49327	located_in	membrane	cellular_component
+FASN	P49327	located_in	melanosome	cellular_component
+FASN	P49327	located_in	glycogen granule	cellular_component
+FASN	P49327	located_in	extracellular exosome	cellular_component
+FASN	P49327	is_active_in	cytoplasm	cellular_component

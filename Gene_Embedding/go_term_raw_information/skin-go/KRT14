@@ -1,0 +1,21 @@
+KRT14	P02533	enables	structural constituent of cytoskeleton	molecular_function
+KRT14	P02533	enables	protein binding	molecular_function
+KRT14	P02533	enables	keratin filament binding	molecular_function
+KRT14	P02533	involved_in	epidermis development	biological_process
+KRT14	P02533	involved_in	response to radiation	biological_process
+KRT14	P02533	involved_in	keratinocyte differentiation	biological_process
+KRT14	P02533	involved_in	hair cycle	biological_process
+KRT14	P02533	involved_in	intermediate filament bundle assembly	biological_process
+KRT14	P02533	involved_in	stem cell differentiation	biological_process
+KRT14	P02533	located_in	cornified envelope	cellular_component
+KRT14	P02533	located_in	nucleus	cellular_component
+KRT14	P02533	located_in	cytoplasm	cellular_component
+KRT14	P02533	located_in	cytosol	cellular_component
+KRT14	P02533	located_in	intermediate filament	cellular_component
+KRT14	P02533	located_in	keratin filament	cellular_component
+KRT14	P02533	located_in	basal part of cell	cellular_component
+KRT14	P02533	located_in	extracellular exosome	cellular_component
+KRT14	P02533	involved_in	epithelial cell differentiation	biological_process
+KRT14	P02533	is_active_in	keratin filament	cellular_component
+KRT14	P02533	is_active_in	cytoskeleton	cellular_component
+KRT14	P02533	involved_in	intermediate filament organization	biological_process

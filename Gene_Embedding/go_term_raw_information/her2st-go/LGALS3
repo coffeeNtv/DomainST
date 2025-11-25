@@ -1,0 +1,60 @@
+LGALS3	P17931	NOT|involved_in	positive regulation of dendritic cell differentiation	biological_process
+LGALS3	P17931	colocalizes_with	collagen-containing extracellular matrix	cellular_component
+LGALS3	P17931	enables	RNA binding	molecular_function
+LGALS3	P17931	enables	protein phosphatase inhibitor activity	molecular_function
+LGALS3	P17931	enables	protein binding	molecular_function
+LGALS3	P17931	enables	IgE binding	molecular_function
+LGALS3	P17931	enables	protein phosphatase binding	molecular_function
+LGALS3	P17931	enables	carbohydrate binding	molecular_function
+LGALS3	P17931	enables	signaling receptor inhibitor activity	molecular_function
+LGALS3	P17931	enables	chemoattractant activity	molecular_function
+LGALS3	P17931	enables	laminin binding	molecular_function
+LGALS3	P17931	enables	oligosaccharide binding	molecular_function
+LGALS3	P17931	enables	molecular condensate scaffold activity	molecular_function
+LGALS3	P17931	enables	receptor ligand inhibitor activity	molecular_function
+LGALS3	P17931	involved_in	monocyte chemotaxis	biological_process
+LGALS3	P17931	involved_in	mRNA processing	biological_process
+LGALS3	P17931	involved_in	RNA splicing	biological_process
+LGALS3	P17931	involved_in	neutrophil chemotaxis	biological_process
+LGALS3	P17931	involved_in	epithelial cell differentiation	biological_process
+LGALS3	P17931	involved_in	positive regulation of protein-containing complex assembly	biological_process
+LGALS3	P17931	involved_in	killing of cells of another organism	biological_process
+LGALS3	P17931	involved_in	regulation of T cell proliferation	biological_process
+LGALS3	P17931	involved_in	innate immune response	biological_process
+LGALS3	P17931	involved_in	negative regulation of endocytosis	biological_process
+LGALS3	P17931	involved_in	eosinophil chemotaxis	biological_process
+LGALS3	P17931	involved_in	macrophage chemotaxis	biological_process
+LGALS3	P17931	involved_in	negative regulation of T cell receptor signaling pathway	biological_process
+LGALS3	P17931	involved_in	positive chemotaxis	biological_process
+LGALS3	P17931	involved_in	negative regulation of NK T cell activation	biological_process
+LGALS3	P17931	involved_in	antimicrobial humoral immune response mediated by antimicrobial peptide	biological_process
+LGALS3	P17931	involved_in	regulation of T cell apoptotic process	biological_process
+LGALS3	P17931	involved_in	mononuclear cell migration	biological_process
+LGALS3	P17931	involved_in	positive regulation of mononuclear cell migration	biological_process
+LGALS3	P17931	involved_in	positive regulation of calcium ion import	biological_process
+LGALS3	P17931	involved_in	regulation of extrinsic apoptotic signaling pathway via death domain receptors	biological_process
+LGALS3	P17931	involved_in	positive regulation of protein localization to plasma membrane	biological_process
+LGALS3	P17931	involved_in	negative regulation of immunological synapse formation	biological_process
+LGALS3	P17931	involved_in	negative regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	biological_process
+LGALS3	P17931	involved_in	negative regulation of extrinsic apoptotic signaling pathway	biological_process
+LGALS3	P17931	is_active_in	extracellular space	cellular_component
+LGALS3	P17931	located_in	immunological synapse	cellular_component
+LGALS3	P17931	located_in	extracellular region	cellular_component
+LGALS3	P17931	located_in	extracellular space	cellular_component
+LGALS3	P17931	located_in	nucleus	cellular_component
+LGALS3	P17931	located_in	nucleoplasm	cellular_component
+LGALS3	P17931	located_in	cytoplasm	cellular_component
+LGALS3	P17931	located_in	mitochondrial inner membrane	cellular_component
+LGALS3	P17931	located_in	cytosol	cellular_component
+LGALS3	P17931	located_in	plasma membrane	cellular_component
+LGALS3	P17931	located_in	cell surface	cellular_component
+LGALS3	P17931	located_in	membrane	cellular_component
+LGALS3	P17931	located_in	secretory granule membrane	cellular_component
+LGALS3	P17931	located_in	collagen-containing extracellular matrix	cellular_component
+LGALS3	P17931	located_in	extracellular exosome	cellular_component
+LGALS3	P17931	located_in	ficolin-1-rich granule membrane	cellular_component
+LGALS3	P17931	part_of	spliceosomal complex	cellular_component
+LGALS3	P17931	is_active_in	nucleus	cellular_component
+LGALS3	P17931	is_active_in	immunological synapse	cellular_component
+LGALS3	P17931	is_active_in	cytoplasm	cellular_component
+LGALS3	P17931	enables	disaccharide binding	molecular_function

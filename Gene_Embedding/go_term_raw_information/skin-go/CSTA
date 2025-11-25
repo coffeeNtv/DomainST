@@ -1,0 +1,15 @@
+CSTA	P01040	enables	protease binding	molecular_function
+CSTA	P01040	enables	cysteine-type endopeptidase inhibitor activity	molecular_function
+CSTA	P01040	enables	protein binding	molecular_function
+CSTA	P01040	involved_in	negative regulation of peptidase activity	biological_process
+CSTA	P01040	involved_in	peptide cross-linking	biological_process
+CSTA	P01040	involved_in	keratinocyte differentiation	biological_process
+CSTA	P01040	involved_in	negative regulation of proteolysis	biological_process
+CSTA	P01040	involved_in	cell-cell adhesion	biological_process
+CSTA	P01040	located_in	cornified envelope	cellular_component
+CSTA	P01040	located_in	extracellular space	cellular_component
+CSTA	P01040	located_in	nucleoplasm	cellular_component
+CSTA	P01040	located_in	cytoplasm	cellular_component
+CSTA	P01040	located_in	cytosol	cellular_component
+CSTA	P01040	part_of	peptidase inhibitor complex	cellular_component
+CSTA	P01040	is_active_in	cytosol	cellular_component

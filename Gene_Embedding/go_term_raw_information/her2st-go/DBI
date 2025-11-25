@@ -1,0 +1,16 @@
+DBI	P07108	enables	protein binding	molecular_function
+DBI	P07108	enables	benzodiazepine receptor binding	molecular_function
+DBI	P07108	enables	long-chain fatty acyl-CoA binding	molecular_function
+DBI	P07108	enables	identical protein binding	molecular_function
+DBI	P07108	involved_in	phosphatidylcholine acyl-chain remodeling	biological_process
+DBI	P07108	involved_in	negative regulation of protein lipidation	biological_process
+DBI	P07108	involved_in	positive regulation of CoA-transferase activity	biological_process
+DBI	P07108	involved_in	positive regulation of phospholipid transport	biological_process
+DBI	P07108	located_in	endoplasmic reticulum	cellular_component
+DBI	P07108	located_in	endoplasmic reticulum lumen	cellular_component
+DBI	P07108	located_in	Golgi apparatus	cellular_component
+DBI	P07108	located_in	extracellular exosome	cellular_component
+DBI	P07108	located_in	perinuclear endoplasmic reticulum	cellular_component
+DBI	P07108	part_of	protein-lipid complex	cellular_component
+DBI	P07108	involved_in	fatty acid metabolic process	biological_process
+DBI	P07108	enables	fatty-acyl-CoA binding	molecular_function

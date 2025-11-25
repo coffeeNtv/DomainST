@@ -1,0 +1,60 @@
+MMP14	P50281	colocalizes_with	cytoplasm	cellular_component
+MMP14	P50281	enables	endopeptidase activity	molecular_function
+MMP14	P50281	enables	metalloendopeptidase activity	molecular_function
+MMP14	P50281	enables	serine-type endopeptidase activity	molecular_function
+MMP14	P50281	enables	integrin binding	molecular_function
+MMP14	P50281	enables	protein binding	molecular_function
+MMP14	P50281	enables	zinc ion binding	molecular_function
+MMP14	P50281	enables	metalloaminopeptidase activity	molecular_function
+MMP14	P50281	involved_in	angiogenesis	biological_process
+MMP14	P50281	involved_in	ovarian follicle development	biological_process
+MMP14	P50281	involved_in	response to hypoxia	biological_process
+MMP14	P50281	involved_in	endothelial cell proliferation	biological_process
+MMP14	P50281	involved_in	endochondral ossification	biological_process
+MMP14	P50281	involved_in	proteolysis	biological_process
+MMP14	P50281	involved_in	response to oxidative stress	biological_process
+MMP14	P50281	involved_in	male gonad development	biological_process
+MMP14	P50281	involved_in	response to mechanical stimulus	biological_process
+MMP14	P50281	involved_in	positive regulation of myotube differentiation	biological_process
+MMP14	P50281	involved_in	positive regulation of protein processing	biological_process
+MMP14	P50281	involved_in	response to organic cyclic compound	biological_process
+MMP14	P50281	involved_in	protein processing	biological_process
+MMP14	P50281	involved_in	extracellular matrix disassembly	biological_process
+MMP14	P50281	involved_in	protein catabolic process	biological_process
+MMP14	P50281	involved_in	positive regulation of cell growth	biological_process
+MMP14	P50281	involved_in	lung development	biological_process
+MMP14	P50281	involved_in	positive regulation of cell migration	biological_process
+MMP14	P50281	involved_in	collagen catabolic process	biological_process
+MMP14	P50281	involved_in	zymogen activation	biological_process
+MMP14	P50281	involved_in	endodermal cell differentiation	biological_process
+MMP14	P50281	involved_in	chondrocyte proliferation	biological_process
+MMP14	P50281	involved_in	astrocyte cell migration	biological_process
+MMP14	P50281	involved_in	response to estrogen	biological_process
+MMP14	P50281	involved_in	positive regulation of B cell differentiation	biological_process
+MMP14	P50281	involved_in	negative regulation of Notch signaling pathway	biological_process
+MMP14	P50281	involved_in	embryonic cranial skeleton morphogenesis	biological_process
+MMP14	P50281	involved_in	branching morphogenesis of an epithelial tube	biological_process
+MMP14	P50281	involved_in	tissue remodeling	biological_process
+MMP14	P50281	involved_in	cell motility	biological_process
+MMP14	P50281	involved_in	negative regulation of focal adhesion assembly	biological_process
+MMP14	P50281	involved_in	head development	biological_process
+MMP14	P50281	involved_in	craniofacial suture morphogenesis	biological_process
+MMP14	P50281	involved_in	negative regulation of GDF15-GFRAL signaling pathway	biological_process
+MMP14	P50281	involved_in	regulation of protein localization to plasma membrane	biological_process
+MMP14	P50281	involved_in	positive regulation of macrophage migration	biological_process
+MMP14	P50281	involved_in	response to odorant	biological_process
+MMP14	P50281	is_active_in	plasma membrane	cellular_component
+MMP14	P50281	located_in	extracellular space	cellular_component
+MMP14	P50281	located_in	nucleus	cellular_component
+MMP14	P50281	located_in	Golgi lumen	cellular_component
+MMP14	P50281	located_in	cytosol	cellular_component
+MMP14	P50281	located_in	plasma membrane	cellular_component
+MMP14	P50281	located_in	focal adhesion	cellular_component
+MMP14	P50281	located_in	extracellular matrix	cellular_component
+MMP14	P50281	located_in	cytoplasmic vesicle	cellular_component
+MMP14	P50281	located_in	melanosome	cellular_component
+MMP14	P50281	located_in	macropinosome	cellular_component
+MMP14	P50281	located_in	intermediate filament cytoskeleton	cellular_component
+MMP14	P50281	involved_in	extracellular matrix organization	biological_process
+MMP14	P50281	is_active_in	extracellular space	cellular_component
+MMP14	P50281	involved_in	skeletal system development	biological_process

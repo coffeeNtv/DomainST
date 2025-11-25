@@ -1,0 +1,14 @@
+RPL34	P49207	enables	RNA binding	molecular_function
+RPL34	P49207	enables	structural constituent of ribosome	molecular_function
+RPL34	P49207	enables	protein binding	molecular_function
+RPL34	P49207	enables	cadherin binding	molecular_function
+RPL34	P49207	involved_in	cytoplasmic translation	biological_process
+RPL34	P49207	involved_in	translation	biological_process
+RPL34	P49207	located_in	nucleolus	cellular_component
+RPL34	P49207	located_in	endoplasmic reticulum	cellular_component
+RPL34	P49207	located_in	cytosol	cellular_component
+RPL34	P49207	located_in	synapse	cellular_component
+RPL34	P49207	located_in	extracellular exosome	cellular_component
+RPL34	P49207	located_in	cytoplasm	cellular_component
+RPL34	P49207	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL34	P49207	located_in	cytosolic ribosome	cellular_component

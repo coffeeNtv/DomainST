@@ -1,0 +1,23 @@
+MT-CYB	P00156	enables	ubiquinol-cytochrome-c reductase activity	molecular_function
+MT-CYB	P00156	enables	protein-containing complex binding	molecular_function
+MT-CYB	P00156	enables	metal ion binding	molecular_function
+MT-CYB	P00156	involved_in	response to hypoxia	biological_process
+MT-CYB	P00156	involved_in	mitochondrial electron transport, ubiquinol to cytochrome c	biological_process
+MT-CYB	P00156	involved_in	response to xenobiotic stimulus	biological_process
+MT-CYB	P00156	involved_in	response to toxic substance	biological_process
+MT-CYB	P00156	involved_in	electron transport coupled proton transport	biological_process
+MT-CYB	P00156	involved_in	animal organ regeneration	biological_process
+MT-CYB	P00156	involved_in	response to cobalamin	biological_process
+MT-CYB	P00156	involved_in	response to glucagon	biological_process
+MT-CYB	P00156	involved_in	cellular respiration	biological_process
+MT-CYB	P00156	involved_in	response to ethanol	biological_process
+MT-CYB	P00156	involved_in	response to cadmium ion	biological_process
+MT-CYB	P00156	involved_in	response to copper ion	biological_process
+MT-CYB	P00156	involved_in	response to mercury ion	biological_process
+MT-CYB	P00156	involved_in	response to calcium ion	biological_process
+MT-CYB	P00156	involved_in	response to hyperoxia	biological_process
+MT-CYB	P00156	located_in	mitochondrion	cellular_component
+MT-CYB	P00156	located_in	mitochondrial inner membrane	cellular_component
+MT-CYB	P00156	part_of	respiratory chain complex III	cellular_component
+MT-CYB	P00156	contributes_to	ubiquinol-cytochrome-c reductase activity	molecular_function
+MT-CYB	P00156	is_active_in	membrane	cellular_component

@@ -1,0 +1,43 @@
+CD81	P60033	enables	virus receptor activity	molecular_function
+CD81	P60033	enables	integrin binding	molecular_function
+CD81	P60033	enables	protein binding	molecular_function
+CD81	P60033	enables	cholesterol binding	molecular_function
+CD81	P60033	enables	MHC class II protein complex binding	molecular_function
+CD81	P60033	enables	MHC class II protein binding	molecular_function
+CD81	P60033	enables	transferrin receptor binding	molecular_function
+CD81	P60033	involved_in	immunological synapse formation	biological_process
+CD81	P60033	involved_in	humoral immune response mediated by circulating immunoglobulin	biological_process
+CD81	P60033	involved_in	positive regulation of inflammatory response to antigenic stimulus	biological_process
+CD81	P60033	involved_in	myoblast fusion involved in skeletal muscle regeneration	biological_process
+CD81	P60033	involved_in	positive regulation of B cell proliferation	biological_process
+CD81	P60033	involved_in	receptor internalization	biological_process
+CD81	P60033	involved_in	regulation of protein stability	biological_process
+CD81	P60033	involved_in	macrophage fusion	biological_process
+CD81	P60033	involved_in	CD4-positive, alpha-beta T cell costimulation	biological_process
+CD81	P60033	involved_in	positive regulation of MAPK cascade	biological_process
+CD81	P60033	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+CD81	P60033	involved_in	symbiont entry into host cell	biological_process
+CD81	P60033	involved_in	positive regulation of B cell receptor signaling pathway	biological_process
+CD81	P60033	involved_in	positive regulation of T cell receptor signaling pathway	biological_process
+CD81	P60033	involved_in	protein localization to lysosome	biological_process
+CD81	P60033	involved_in	positive regulation of protein exit from endoplasmic reticulum	biological_process
+CD81	P60033	involved_in	cellular response to low-density lipoprotein particle stimulus	biological_process
+CD81	P60033	involved_in	protein localization to plasma membrane	biological_process
+CD81	P60033	involved_in	osteoclast fusion	biological_process
+CD81	P60033	involved_in	positive regulation of receptor clustering	biological_process
+CD81	P60033	involved_in	positive regulation of protein catabolic process in the vacuole	biological_process
+CD81	P60033	involved_in	regulation of macrophage migration	biological_process
+CD81	P60033	involved_in	positive regulation of adaptive immune memory response	biological_process
+CD81	P60033	involved_in	positive regulation of T-helper 2 cell cytokine production	biological_process
+CD81	P60033	involved_in	positive regulation of CD4-positive, alpha-beta T cell proliferation	biological_process
+CD81	P60033	involved_in	positive regulation of T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell	biological_process
+CD81	P60033	located_in	immunological synapse	cellular_component
+CD81	P60033	located_in	plasma membrane	cellular_component
+CD81	P60033	located_in	focal adhesion	cellular_component
+CD81	P60033	located_in	basal plasma membrane	cellular_component
+CD81	P60033	located_in	membrane	cellular_component
+CD81	P60033	located_in	basolateral plasma membrane	cellular_component
+CD81	P60033	located_in	vesicle	cellular_component
+CD81	P60033	located_in	extracellular exosome	cellular_component
+CD81	P60033	located_in	tetraspanin-enriched microdomain	cellular_component
+CD81	P60033	is_active_in	plasma membrane	cellular_component

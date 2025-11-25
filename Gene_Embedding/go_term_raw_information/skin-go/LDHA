@@ -1,0 +1,14 @@
+LDHA	P00338	enables	L-lactate dehydrogenase activity	molecular_function
+LDHA	P00338	enables	protein binding	molecular_function
+LDHA	P00338	enables	identical protein binding	molecular_function
+LDHA	P00338	enables	cadherin binding	molecular_function
+LDHA	P00338	involved_in	lactate metabolic process	biological_process
+LDHA	P00338	involved_in	pyruvate metabolic process	biological_process
+LDHA	P00338	involved_in	glycolytic process	biological_process
+LDHA	P00338	involved_in	substantia nigra development	biological_process
+LDHA	P00338	located_in	nucleus	cellular_component
+LDHA	P00338	located_in	cytosol	cellular_component
+LDHA	P00338	located_in	membrane	cellular_component
+LDHA	P00338	located_in	extracellular exosome	cellular_component
+LDHA	P00338	part_of	oxidoreductase complex	cellular_component
+LDHA	P00338	is_active_in	mitochondrion	cellular_component

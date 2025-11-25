@@ -1,0 +1,16 @@
+GRB7	Q14451	enables	RNA binding	molecular_function
+GRB7	Q14451	enables	protein binding	molecular_function
+GRB7	Q14451	enables	protein kinase binding	molecular_function
+GRB7	Q14451	enables	phosphatidylinositol binding	molecular_function
+GRB7	Q14451	enables	identical protein binding	molecular_function
+GRB7	Q14451	involved_in	epidermal growth factor receptor signaling pathway	biological_process
+GRB7	Q14451	involved_in	negative regulation of translation	biological_process
+GRB7	Q14451	involved_in	positive regulation of cell migration	biological_process
+GRB7	Q14451	involved_in	stress granule assembly	biological_process
+GRB7	Q14451	located_in	cytosol	cellular_component
+GRB7	Q14451	located_in	plasma membrane	cellular_component
+GRB7	Q14451	located_in	focal adhesion	cellular_component
+GRB7	Q14451	located_in	cytoplasmic stress granule	cellular_component
+GRB7	Q14451	located_in	cell projection	cellular_component
+GRB7	Q14451	NOT|involved_in	negative regulation of insulin receptor signaling pathway	biological_process
+GRB7	Q14451	NOT|involved_in	insulin receptor signaling pathway	biological_process

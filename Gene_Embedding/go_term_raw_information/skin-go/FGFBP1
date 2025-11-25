@@ -1,0 +1,17 @@
+FGFBP1	Q14512	enables	protein binding	molecular_function
+FGFBP1	Q14512	enables	heparin binding	molecular_function
+FGFBP1	Q14512	enables	fibroblast growth factor binding	molecular_function
+FGFBP1	Q14512	involved_in	signal transduction	biological_process
+FGFBP1	Q14512	involved_in	negative regulation of cell population proliferation	biological_process
+FGFBP1	Q14512	involved_in	fibroblast growth factor receptor signaling pathway	biological_process
+FGFBP1	Q14512	involved_in	positive regulation of fibroblast growth factor receptor signaling pathway	biological_process
+FGFBP1	Q14512	involved_in	myoblast proliferation	biological_process
+FGFBP1	Q14512	involved_in	positive regulation of cell migration involved in sprouting angiogenesis	biological_process
+FGFBP1	Q14512	involved_in	positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	biological_process
+FGFBP1	Q14512	involved_in	positive regulation of myoblast proliferation	biological_process
+FGFBP1	Q14512	located_in	extracellular region	cellular_component
+FGFBP1	Q14512	located_in	extracellular space	cellular_component
+FGFBP1	Q14512	located_in	plasma membrane	cellular_component
+FGFBP1	Q14512	located_in	cell surface	cellular_component
+FGFBP1	Q14512	involved_in	cell-cell signaling	biological_process
+FGFBP1	Q14512	enables	growth factor binding	molecular_function

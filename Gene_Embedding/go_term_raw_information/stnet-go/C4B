@@ -1,0 +1,21 @@
+C4B	P0C0L5	enables	complement binding	molecular_function
+C4B	P0C0L5	enables	endopeptidase inhibitor activity	molecular_function
+C4B	P0C0L5	enables	protein binding	molecular_function
+C4B	P0C0L5	enables	carbohydrate binding	molecular_function
+C4B	P0C0L5	involved_in	inflammatory response	biological_process
+C4B	P0C0L5	involved_in	complement activation	biological_process
+C4B	P0C0L5	involved_in	complement activation, classical pathway	biological_process
+C4B	P0C0L5	involved_in	opsonization	biological_process
+C4B	P0C0L5	involved_in	detection of molecule of bacterial origin	biological_process
+C4B	P0C0L5	involved_in	innate immune response	biological_process
+C4B	P0C0L5	involved_in	positive regulation of apoptotic cell clearance	biological_process
+C4B	P0C0L5	located_in	extracellular region	cellular_component
+C4B	P0C0L5	located_in	extracellular space	cellular_component
+C4B	P0C0L5	located_in	plasma membrane	cellular_component
+C4B	P0C0L5	located_in	axon	cellular_component
+C4B	P0C0L5	located_in	dendrite	cellular_component
+C4B	P0C0L5	located_in	synapse	cellular_component
+C4B	P0C0L5	located_in	extracellular exosome	cellular_component
+C4B	P0C0L5	located_in	blood microparticle	cellular_component
+C4B	P0C0L5	located_in	symbiont cell surface	cellular_component
+C4B	P0C0L5	is_active_in	extracellular space	cellular_component

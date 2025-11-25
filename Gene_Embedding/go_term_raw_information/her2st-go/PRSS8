@@ -1,0 +1,9 @@
+PRSS8	Q16651	enables	serine-type endopeptidase activity	molecular_function
+PRSS8	Q16651	enables	protein binding	molecular_function
+PRSS8	Q16651	enables	serine-type peptidase activity	molecular_function
+PRSS8	Q16651	involved_in	proteolysis	biological_process
+PRSS8	Q16651	located_in	extracellular region	cellular_component
+PRSS8	Q16651	located_in	extracellular space	cellular_component
+PRSS8	Q16651	located_in	plasma membrane	cellular_component
+PRSS8	Q16651	located_in	extracellular exosome	cellular_component
+PRSS8	Q16651	involved_in	positive regulation of sodium ion transport	biological_process

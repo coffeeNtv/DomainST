@@ -1,0 +1,5 @@
+TAGLN	Q01995	enables	actin binding	molecular_function
+TAGLN	Q01995	enables	protein binding	molecular_function
+TAGLN	Q01995	involved_in	muscle organ development	biological_process
+TAGLN	Q01995	involved_in	epithelial cell differentiation	biological_process
+TAGLN	Q01995	located_in	cytoplasm	cellular_component

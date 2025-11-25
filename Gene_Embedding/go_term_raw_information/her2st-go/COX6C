@@ -1,0 +1,9 @@
+COX6C	P09669	enables	protein binding	molecular_function
+COX6C	P09669	involved_in	generation of precursor metabolites and energy	biological_process
+COX6C	P09669	involved_in	mitochondrial electron transport, cytochrome c to oxygen	biological_process
+COX6C	P09669	involved_in	cellular respiration	biological_process
+COX6C	P09669	located_in	mitochondrion	cellular_component
+COX6C	P09669	located_in	mitochondrial inner membrane	cellular_component
+COX6C	P09669	located_in	mitochondrial intermembrane space	cellular_component
+COX6C	P09669	located_in	mitochondrial membrane	cellular_component
+COX6C	P09669	part_of	respiratory chain complex IV	cellular_component

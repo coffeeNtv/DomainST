@@ -1,0 +1,50 @@
+SLC2A1	P11166	acts_upstream_of_or_within	central nervous system development	biological_process
+SLC2A1	P11166	acts_upstream_of_or_within	transport across blood-brain barrier	biological_process
+SLC2A1	P11166	enables	long-chain fatty acid transmembrane transporter activity	molecular_function
+SLC2A1	P11166	enables	protein binding	molecular_function
+SLC2A1	P11166	enables	kinase binding	molecular_function
+SLC2A1	P11166	enables	dehydroascorbic acid transmembrane transporter activity	molecular_function
+SLC2A1	P11166	enables	identical protein binding	molecular_function
+SLC2A1	P11166	enables	xenobiotic transmembrane transporter activity	molecular_function
+SLC2A1	P11166	enables	D-glucose transmembrane transporter activity	molecular_function
+SLC2A1	P11166	involved_in	response to hypoxia	biological_process
+SLC2A1	P11166	involved_in	female pregnancy	biological_process
+SLC2A1	P11166	involved_in	long-chain fatty acid import across plasma membrane	biological_process
+SLC2A1	P11166	involved_in	L-ascorbic acid metabolic process	biological_process
+SLC2A1	P11166	involved_in	cerebral cortex development	biological_process
+SLC2A1	P11166	involved_in	cellular response to glucose starvation	biological_process
+SLC2A1	P11166	involved_in	xenobiotic transport	biological_process
+SLC2A1	P11166	involved_in	photoreceptor cell maintenance	biological_process
+SLC2A1	P11166	involved_in	protein-containing complex assembly	biological_process
+SLC2A1	P11166	involved_in	cellular response to mechanical stimulus	biological_process
+SLC2A1	P11166	involved_in	cellular hyperosmotic response	biological_process
+SLC2A1	P11166	involved_in	D-glucose import across plasma membrane	biological_process
+SLC2A1	P11166	involved_in	transport across blood-brain barrier	biological_process
+SLC2A1	P11166	involved_in	response to Thyroglobulin triiodothyronine	biological_process
+SLC2A1	P11166	involved_in	D-glucose transmembrane transport	biological_process
+SLC2A1	P11166	is_active_in	plasma membrane	cellular_component
+SLC2A1	P11166	located_in	Golgi membrane	cellular_component
+SLC2A1	P11166	located_in	female germ cell nucleus	cellular_component
+SLC2A1	P11166	located_in	photoreceptor inner segment	cellular_component
+SLC2A1	P11166	located_in	female pronucleus	cellular_component
+SLC2A1	P11166	located_in	cytosol	cellular_component
+SLC2A1	P11166	located_in	plasma membrane	cellular_component
+SLC2A1	P11166	located_in	caveola	cellular_component
+SLC2A1	P11166	located_in	intercalated disc	cellular_component
+SLC2A1	P11166	located_in	membrane	cellular_component
+SLC2A1	P11166	located_in	basolateral plasma membrane	cellular_component
+SLC2A1	P11166	located_in	apical plasma membrane	cellular_component
+SLC2A1	P11166	located_in	Z disc	cellular_component
+SLC2A1	P11166	located_in	midbody	cellular_component
+SLC2A1	P11166	located_in	cortical actin cytoskeleton	cellular_component
+SLC2A1	P11166	located_in	sarcolemma	cellular_component
+SLC2A1	P11166	located_in	melanosome	cellular_component
+SLC2A1	P11166	located_in	extracellular exosome	cellular_component
+SLC2A1	P11166	located_in	blood microparticle	cellular_component
+SLC2A1	P11166	located_in	presynapse	cellular_component
+SLC2A1	P11166	part_of	glucose transporter complex	cellular_component
+SLC2A1	P11166	is_active_in	apical plasma membrane	cellular_component
+SLC2A1	P11166	involved_in	dehydroascorbic acid transport	biological_process
+SLC2A1	P11166	involved_in	D-glucose import	biological_process
+SLC2A1	P11166	is_active_in	basolateral plasma membrane	cellular_component
+SLC2A1	P11166	involved_in	response to insulin	biological_process

@@ -1,0 +1,27 @@
+TAPBP	O15533	enables	protein binding	molecular_function
+TAPBP	O15533	enables	MHC class I protein binding	molecular_function
+TAPBP	O15533	enables	peptide antigen binding	molecular_function
+TAPBP	O15533	enables	protein folding chaperone	molecular_function
+TAPBP	O15533	enables	TAP1 binding	molecular_function
+TAPBP	O15533	enables	TAP2 binding	molecular_function
+TAPBP	O15533	enables	unfolded protein binding	molecular_function
+TAPBP	O15533	enables	molecular adaptor activity	molecular_function
+TAPBP	O15533	enables	TAP complex binding	molecular_function
+TAPBP	O15533	involved_in	MHC class Ib protein complex assembly	biological_process
+TAPBP	O15533	involved_in	peptide antigen assembly with MHC class I protein complex	biological_process
+TAPBP	O15533	involved_in	protein folding	biological_process
+TAPBP	O15533	involved_in	retrograde vesicle-mediated transport, Golgi to endoplasmic reticulum	biological_process
+TAPBP	O15533	involved_in	regulation of gene expression	biological_process
+TAPBP	O15533	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class I	biological_process
+TAPBP	O15533	involved_in	peptide antigen stabilization	biological_process
+TAPBP	O15533	involved_in	regulation of protein complex stability	biological_process
+TAPBP	O15533	involved_in	protein-containing complex assembly	biological_process
+TAPBP	O15533	is_active_in	endoplasmic reticulum	cellular_component
+TAPBP	O15533	located_in	Golgi membrane	cellular_component
+TAPBP	O15533	located_in	endoplasmic reticulum membrane	cellular_component
+TAPBP	O15533	located_in	phagocytic vesicle membrane	cellular_component
+TAPBP	O15533	located_in	endoplasmic reticulum-Golgi intermediate compartment membrane	cellular_component
+TAPBP	O15533	located_in	lumenal side of endoplasmic reticulum membrane	cellular_component
+TAPBP	O15533	part_of	MHC class I peptide loading complex	cellular_component
+TAPBP	O15533	part_of	Tapasin-ERp57 complex	cellular_component
+TAPBP	O15533	enables	MHC class I protein complex binding	molecular_function

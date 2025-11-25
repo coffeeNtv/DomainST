@@ -1,0 +1,15 @@
+IDH2	P48735	enables	magnesium ion binding	molecular_function
+IDH2	P48735	enables	isocitrate dehydrogenase (NADP+) activity	molecular_function
+IDH2	P48735	enables	NAD binding	molecular_function
+IDH2	P48735	involved_in	carbohydrate metabolic process	biological_process
+IDH2	P48735	involved_in	glyoxylate cycle	biological_process
+IDH2	P48735	involved_in	tricarboxylic acid cycle	biological_process
+IDH2	P48735	involved_in	isocitrate metabolic process	biological_process
+IDH2	P48735	involved_in	2-oxoglutarate metabolic process	biological_process
+IDH2	P48735	located_in	mitochondrion	cellular_component
+IDH2	P48735	located_in	mitochondrial matrix	cellular_component
+IDH2	P48735	located_in	peroxisome	cellular_component
+IDH2	P48735	located_in	cytosol	cellular_component
+IDH2	P48735	located_in	extracellular exosome	cellular_component
+IDH2	P48735	involved_in	NADP metabolic process	biological_process
+IDH2	P48735	is_active_in	mitochondrion	cellular_component

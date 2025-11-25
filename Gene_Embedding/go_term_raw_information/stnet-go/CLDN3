@@ -1,0 +1,39 @@
+CLDN3	O15551	enables	transmembrane signaling receptor activity	molecular_function
+CLDN3	O15551	enables	structural molecule activity	molecular_function
+CLDN3	O15551	enables	protein binding	molecular_function
+CLDN3	O15551	enables	identical protein binding	molecular_function
+CLDN3	O15551	involved_in	response to hypoxia	biological_process
+CLDN3	O15551	involved_in	positive regulation of protein phosphorylation	biological_process
+CLDN3	O15551	involved_in	epithelial cell morphogenesis	biological_process
+CLDN3	O15551	involved_in	negative regulation of cell population proliferation	biological_process
+CLDN3	O15551	involved_in	positive regulation of gene expression	biological_process
+CLDN3	O15551	involved_in	negative regulation of gene expression	biological_process
+CLDN3	O15551	involved_in	establishment of endothelial blood-brain barrier	biological_process
+CLDN3	O15551	involved_in	calcium-independent cell-cell adhesion via plasma membrane cell-adhesion molecules	biological_process
+CLDN3	O15551	involved_in	regulation of cell morphogenesis	biological_process
+CLDN3	O15551	involved_in	actin cytoskeleton organization	biological_process
+CLDN3	O15551	involved_in	positive regulation of cell migration	biological_process
+CLDN3	O15551	involved_in	negative regulation of cell migration	biological_process
+CLDN3	O15551	involved_in	cell junction maintenance	biological_process
+CLDN3	O15551	involved_in	maintenance of blood-brain barrier	biological_process
+CLDN3	O15551	involved_in	response to ethanol	biological_process
+CLDN3	O15551	involved_in	negative regulation of wound healing	biological_process
+CLDN3	O15551	involved_in	bicellular tight junction assembly	biological_process
+CLDN3	O15551	involved_in	positive regulation of wound healing	biological_process
+CLDN3	O15551	involved_in	regulation of membrane permeability	biological_process
+CLDN3	O15551	involved_in	response to Gram-positive bacterium	biological_process
+CLDN3	O15551	involved_in	regulation of transepithelial transport	biological_process
+CLDN3	O15551	involved_in	positive regulation of cell junction assembly	biological_process
+CLDN3	O15551	involved_in	positive regulation of bicellular tight junction assembly	biological_process
+CLDN3	O15551	involved_in	positive regulation of metallopeptidase activity	biological_process
+CLDN3	O15551	located_in	cell-cell junction	cellular_component
+CLDN3	O15551	located_in	bicellular tight junction	cellular_component
+CLDN3	O15551	located_in	membrane	cellular_component
+CLDN3	O15551	located_in	apicolateral plasma membrane	cellular_component
+CLDN3	O15551	located_in	lateral plasma membrane	cellular_component
+CLDN3	O15551	located_in	apical junction complex	cellular_component
+CLDN3	O15551	located_in	tight junction	cellular_component
+CLDN3	O15551	part_of	protein-containing complex	cellular_component
+CLDN3	O15551	involved_in	cell adhesion	biological_process
+CLDN3	O15551	is_active_in	plasma membrane	cellular_component
+CLDN3	O15551	is_active_in	bicellular tight junction	cellular_component

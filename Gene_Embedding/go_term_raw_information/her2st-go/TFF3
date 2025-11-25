@@ -1,0 +1,7 @@
+TFF3	Q07654	enables	protein binding	molecular_function
+TFF3	Q07654	enables	identical protein binding	molecular_function
+TFF3	Q07654	involved_in	regulation of glucose metabolic process	biological_process
+TFF3	Q07654	located_in	extracellular region	cellular_component
+TFF3	Q07654	located_in	secretory granule	cellular_component
+TFF3	Q07654	involved_in	maintenance of gastrointestinal epithelium	biological_process
+TFF3	Q07654	is_active_in	extracellular space	cellular_component

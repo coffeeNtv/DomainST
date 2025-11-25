@@ -1,0 +1,29 @@
+HNRNPA2B1	P22626	enables	RNA binding	molecular_function
+HNRNPA2B1	P22626	enables	mRNA 3'-UTR binding	molecular_function
+HNRNPA2B1	P22626	enables	protein binding	molecular_function
+HNRNPA2B1	P22626	enables	miRNA binding	molecular_function
+HNRNPA2B1	P22626	enables	identical protein binding	molecular_function
+HNRNPA2B1	P22626	enables	single-stranded telomeric DNA binding	molecular_function
+HNRNPA2B1	P22626	enables	G-rich strand telomeric DNA binding	molecular_function
+HNRNPA2B1	P22626	enables	molecular condensate scaffold activity	molecular_function
+HNRNPA2B1	P22626	enables	N6-methyladenosine-containing RNA reader activity	molecular_function
+HNRNPA2B1	P22626	involved_in	mRNA splicing, via spliceosome	biological_process
+HNRNPA2B1	P22626	involved_in	mRNA processing	biological_process
+HNRNPA2B1	P22626	involved_in	mRNA export from nucleus	biological_process
+HNRNPA2B1	P22626	involved_in	primary miRNA processing	biological_process
+HNRNPA2B1	P22626	involved_in	G-quadruplex DNA unwinding	biological_process
+HNRNPA2B1	P22626	involved_in	RNA transport	biological_process
+HNRNPA2B1	P22626	involved_in	positive regulation of telomere maintenance via telomere lengthening	biological_process
+HNRNPA2B1	P22626	involved_in	miRNA transport	biological_process
+HNRNPA2B1	P22626	located_in	chromosome, telomeric region	cellular_component
+HNRNPA2B1	P22626	located_in	nucleus	cellular_component
+HNRNPA2B1	P22626	located_in	nucleoplasm	cellular_component
+HNRNPA2B1	P22626	located_in	cytoplasm	cellular_component
+HNRNPA2B1	P22626	located_in	Cajal body	cellular_component
+HNRNPA2B1	P22626	located_in	membrane	cellular_component
+HNRNPA2B1	P22626	located_in	nuclear matrix	cellular_component
+HNRNPA2B1	P22626	located_in	extracellular exosome	cellular_component
+HNRNPA2B1	P22626	part_of	spliceosomal complex	cellular_component
+HNRNPA2B1	P22626	part_of	catalytic step 2 spliceosome	cellular_component
+HNRNPA2B1	P22626	part_of	ribonucleoprotein complex	cellular_component
+HNRNPA2B1	P22626	involved_in	mRNA transport	biological_process

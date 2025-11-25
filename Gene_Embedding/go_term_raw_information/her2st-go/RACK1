@@ -1,0 +1,75 @@
+RACK1	P63244	enables	RNA binding	molecular_function
+RACK1	P63244	enables	protein kinase C binding	molecular_function
+RACK1	P63244	enables	signaling receptor binding	molecular_function
+RACK1	P63244	enables	protein binding	molecular_function
+RACK1	P63244	enables	enzyme activator activity	molecular_function
+RACK1	P63244	enables	ion channel inhibitor activity	molecular_function
+RACK1	P63244	enables	cysteine-type endopeptidase activator activity involved in apoptotic process	molecular_function
+RACK1	P63244	enables	enzyme binding	molecular_function
+RACK1	P63244	enables	protein phosphatase binding	molecular_function
+RACK1	P63244	enables	protein tyrosine kinase inhibitor activity	molecular_function
+RACK1	P63244	enables	cyclin binding	molecular_function
+RACK1	P63244	enables	receptor tyrosine kinase binding	molecular_function
+RACK1	P63244	enables	signaling adaptor activity	molecular_function
+RACK1	P63244	enables	SH2 domain binding	molecular_function
+RACK1	P63244	enables	identical protein binding	molecular_function
+RACK1	P63244	enables	protein homodimerization activity	molecular_function
+RACK1	P63244	enables	ribosome binding	molecular_function
+RACK1	P63244	enables	translation regulator activity	molecular_function
+RACK1	P63244	enables	cadherin binding	molecular_function
+RACK1	P63244	enables	BH3 domain binding	molecular_function
+RACK1	P63244	enables	molecular adaptor activity	molecular_function
+RACK1	P63244	involved_in	positive regulation of protein phosphorylation	biological_process
+RACK1	P63244	involved_in	cytoplasmic translation	biological_process
+RACK1	P63244	involved_in	apoptotic process	biological_process
+RACK1	P63244	involved_in	gastrulation	biological_process
+RACK1	P63244	involved_in	negative regulation of gene expression	biological_process
+RACK1	P63244	involved_in	protein ubiquitination	biological_process
+RACK1	P63244	involved_in	negative regulation of translation	biological_process
+RACK1	P63244	involved_in	negative regulation of Wnt signaling pathway	biological_process
+RACK1	P63244	involved_in	negative regulation of cell growth	biological_process
+RACK1	P63244	involved_in	positive regulation of cell migration	biological_process
+RACK1	P63244	involved_in	positive regulation of protein-containing complex assembly	biological_process
+RACK1	P63244	involved_in	negative regulation of protein binding	biological_process
+RACK1	P63244	involved_in	positive regulation of proteasomal ubiquitin-dependent protein catabolic process	biological_process
+RACK1	P63244	involved_in	regulation of protein localization	biological_process
+RACK1	P63244	involved_in	negative regulation of peptidyl-serine phosphorylation	biological_process
+RACK1	P63244	involved_in	positive regulation of Golgi to plasma membrane protein transport	biological_process
+RACK1	P63244	involved_in	positive regulation of apoptotic process	biological_process
+RACK1	P63244	involved_in	pigmentation	biological_process
+RACK1	P63244	involved_in	positive regulation of GTPase activity	biological_process
+RACK1	P63244	involved_in	negative regulation of smoothened signaling pathway	biological_process
+RACK1	P63244	involved_in	rhythmic process	biological_process
+RACK1	P63244	involved_in	negative regulation of phagocytosis	biological_process
+RACK1	P63244	involved_in	regulation of cell division	biological_process
+RACK1	P63244	involved_in	regulation of cell cycle	biological_process
+RACK1	P63244	involved_in	negative regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	biological_process
+RACK1	P63244	involved_in	positive regulation of mitochondrial depolarization	biological_process
+RACK1	P63244	involved_in	cellular response to glucose stimulus	biological_process
+RACK1	P63244	involved_in	cellular response to growth factor stimulus	biological_process
+RACK1	P63244	involved_in	rescue of stalled ribosome	biological_process
+RACK1	P63244	involved_in	regulation of adenylate cyclase-activating G protein-coupled receptor signaling pathway	biological_process
+RACK1	P63244	involved_in	negative regulation of endoplasmic reticulum unfolded protein response	biological_process
+RACK1	P63244	involved_in	negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide	biological_process
+RACK1	P63244	involved_in	regulation of establishment of cell polarity	biological_process
+RACK1	P63244	involved_in	positive regulation of gastrulation	biological_process
+RACK1	P63244	involved_in	positive regulation of cysteine-type endopeptidase activity	biological_process
+RACK1	P63244	involved_in	positive regulation of intrinsic apoptotic signaling pathway	biological_process
+RACK1	P63244	located_in	phagocytic cup	cellular_component
+RACK1	P63244	located_in	nucleus	cellular_component
+RACK1	P63244	located_in	nucleoplasm	cellular_component
+RACK1	P63244	located_in	cytoplasm	cellular_component
+RACK1	P63244	located_in	mitochondrion	cellular_component
+RACK1	P63244	located_in	cytosol	cellular_component
+RACK1	P63244	located_in	dendrite	cellular_component
+RACK1	P63244	located_in	midbody	cellular_component
+RACK1	P63244	located_in	neuronal cell body	cellular_component
+RACK1	P63244	located_in	perikaryon	cellular_component
+RACK1	P63244	located_in	perinuclear region of cytoplasm	cellular_component
+RACK1	P63244	located_in	extracellular exosome	cellular_component
+RACK1	P63244	part_of	small ribosomal subunit	cellular_component
+RACK1	P63244	part_of	cytosolic small ribosomal subunit	cellular_component
+RACK1	P63244	part_of	IRE1-RACK1-PP2A complex	cellular_component
+RACK1	P63244	is_active_in	nucleus	cellular_component
+RACK1	P63244	is_active_in	cytosol	cellular_component
+RACK1	P63244	involved_in	negative regulation of translational frameshifting	biological_process

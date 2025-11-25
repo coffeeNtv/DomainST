@@ -1,0 +1,18 @@
+RPS11	P62280	enables	RNA binding	molecular_function
+RPS11	P62280	enables	structural constituent of ribosome	molecular_function
+RPS11	P62280	enables	protein binding	molecular_function
+RPS11	P62280	enables	rRNA binding	molecular_function
+RPS11	P62280	involved_in	cytoplasmic translation	biological_process
+RPS11	P62280	involved_in	translation	biological_process
+RPS11	P62280	involved_in	ribosomal small subunit biogenesis	biological_process
+RPS11	P62280	located_in	nucleoplasm	cellular_component
+RPS11	P62280	located_in	nucleolus	cellular_component
+RPS11	P62280	located_in	cytoplasm	cellular_component
+RPS11	P62280	located_in	cytosol	cellular_component
+RPS11	P62280	located_in	ribosome	cellular_component
+RPS11	P62280	located_in	focal adhesion	cellular_component
+RPS11	P62280	located_in	membrane	cellular_component
+RPS11	P62280	located_in	extracellular exosome	cellular_component
+RPS11	P62280	located_in	cytosolic ribosome	cellular_component
+RPS11	P62280	part_of	cytosolic small ribosomal subunit	cellular_component
+RPS11	P62280	part_of	small-subunit processome	cellular_component

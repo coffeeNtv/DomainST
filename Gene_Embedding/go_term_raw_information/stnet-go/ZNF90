@@ -1,0 +1,7 @@
+ZNF90	Q03938	enables	DNA-binding transcription factor activity	molecular_function
+ZNF90	Q03938	enables	zinc ion binding	molecular_function
+ZNF90	Q03938	involved_in	regulation of transcription by RNA polymerase II	biological_process
+ZNF90	Q03938	located_in	nucleus	cellular_component
+ZNF90	Q03938	enables	RNA polymerase II cis-regulatory region sequence-specific DNA binding	molecular_function
+ZNF90	Q03938	involved_in	regulation of DNA-templated transcription	biological_process
+ZNF90	Q03938	enables	DNA-binding transcription factor activity, RNA polymerase II-specific	molecular_function

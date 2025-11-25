@@ -1,0 +1,14 @@
+MLLT6	P55198	enables	protein binding	molecular_function
+MLLT6	P55198	enables	nucleosome binding	molecular_function
+MLLT6	P55198	enables	histone binding	molecular_function
+MLLT6	P55198	enables	metal ion binding	molecular_function
+MLLT6	P55198	involved_in	chromatin organization	biological_process
+MLLT6	P55198	involved_in	regulation of DNA-templated transcription	biological_process
+MLLT6	P55198	involved_in	positive regulation of sodium ion transport	biological_process
+MLLT6	P55198	involved_in	negative regulation of urine volume	biological_process
+MLLT6	P55198	involved_in	renal sodium excretion	biological_process
+MLLT6	P55198	involved_in	renal potassium excretion	biological_process
+MLLT6	P55198	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+MLLT6	P55198	involved_in	renal water absorption	biological_process
+MLLT6	P55198	is_active_in	nucleus	cellular_component
+MLLT6	P55198	involved_in	regulation of transcription by RNA polymerase II	biological_process

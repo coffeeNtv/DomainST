@@ -1,0 +1,28 @@
+PRDX2	P32119	enables	protein binding	molecular_function
+PRDX2	P32119	enables	thioredoxin peroxidase activity	molecular_function
+PRDX2	P32119	enables	antioxidant activity	molecular_function
+PRDX2	P32119	involved_in	defense response to tumor cell	biological_process
+PRDX2	P32119	involved_in	respiratory burst involved in inflammatory response	biological_process
+PRDX2	P32119	involved_in	response to oxidative stress	biological_process
+PRDX2	P32119	involved_in	regulation of hydrogen peroxide metabolic process	biological_process
+PRDX2	P32119	involved_in	removal of superoxide radicals	biological_process
+PRDX2	P32119	involved_in	positive regulation of blood coagulation	biological_process
+PRDX2	P32119	involved_in	negative regulation of lipopolysaccharide-mediated signaling pathway	biological_process
+PRDX2	P32119	involved_in	response to lipopolysaccharide	biological_process
+PRDX2	P32119	involved_in	cellular response to oxidative stress	biological_process
+PRDX2	P32119	involved_in	T cell proliferation	biological_process
+PRDX2	P32119	involved_in	hydrogen peroxide catabolic process	biological_process
+PRDX2	P32119	involved_in	regulation of apoptotic process	biological_process
+PRDX2	P32119	involved_in	T cell homeostasis	biological_process
+PRDX2	P32119	involved_in	negative regulation of apoptotic process	biological_process
+PRDX2	P32119	involved_in	positive regulation of MAPK cascade	biological_process
+PRDX2	P32119	involved_in	negative regulation of T cell differentiation	biological_process
+PRDX2	P32119	involved_in	thymus development	biological_process
+PRDX2	P32119	involved_in	extrinsic apoptotic signaling pathway	biological_process
+PRDX2	P32119	involved_in	negative regulation of extrinsic apoptotic signaling pathway in absence of ligand	biological_process
+PRDX2	P32119	located_in	cytoplasm	cellular_component
+PRDX2	P32119	located_in	cytosol	cellular_component
+PRDX2	P32119	located_in	extracellular exosome	cellular_component
+PRDX2	P32119	involved_in	cell redox homeostasis	biological_process
+PRDX2	P32119	involved_in	leukocyte activation	biological_process
+PRDX2	P32119	is_active_in	cytosol	cellular_component

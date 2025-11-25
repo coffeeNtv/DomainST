@@ -1,0 +1,13 @@
+UQCRQ	O14949	involved_in	mitochondrial electron transport, ubiquinol to cytochrome c	biological_process
+UQCRQ	O14949	involved_in	subthalamus development	biological_process
+UQCRQ	O14949	involved_in	pons development	biological_process
+UQCRQ	O14949	involved_in	cerebellar Purkinje cell layer development	biological_process
+UQCRQ	O14949	involved_in	hippocampus development	biological_process
+UQCRQ	O14949	involved_in	thalamus development	biological_process
+UQCRQ	O14949	involved_in	hypothalamus development	biological_process
+UQCRQ	O14949	involved_in	pyramidal neuron development	biological_process
+UQCRQ	O14949	involved_in	midbrain development	biological_process
+UQCRQ	O14949	involved_in	cellular respiration	biological_process
+UQCRQ	O14949	located_in	mitochondrion	cellular_component
+UQCRQ	O14949	located_in	mitochondrial inner membrane	cellular_component
+UQCRQ	O14949	part_of	respiratory chain complex III	cellular_component

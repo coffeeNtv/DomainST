@@ -1,0 +1,65 @@
+MDK	P21741	colocalizes_with	collagen-containing extracellular matrix	cellular_component
+MDK	P21741	enables	protein binding	molecular_function
+MDK	P21741	enables	growth factor activity	molecular_function
+MDK	P21741	enables	heparin binding	molecular_function
+MDK	P21741	enables	chondroitin sulfate binding	molecular_function
+MDK	P21741	enables	heparan sulfate binding	molecular_function
+MDK	P21741	involved_in	behavioral fear response	biological_process
+MDK	P21741	involved_in	leukocyte chemotaxis involved in inflammatory response	biological_process
+MDK	P21741	involved_in	T cell activation involved in immune response	biological_process
+MDK	P21741	involved_in	positive regulation of leukocyte chemotaxis	biological_process
+MDK	P21741	involved_in	cytoskeleton organization	biological_process
+MDK	P21741	involved_in	negative regulation of cell adhesion	biological_process
+MDK	P21741	involved_in	signal transduction	biological_process
+MDK	P21741	involved_in	nervous system development	biological_process
+MDK	P21741	involved_in	short-term memory	biological_process
+MDK	P21741	involved_in	response to wounding	biological_process
+MDK	P21741	involved_in	negative regulation of cardiac muscle cell apoptotic process	biological_process
+MDK	P21741	involved_in	positive regulation of epithelial to mesenchymal transition	biological_process
+MDK	P21741	involved_in	positive regulation of macrophage chemotaxis	biological_process
+MDK	P21741	involved_in	positive regulation of keratinocyte proliferation	biological_process
+MDK	P21741	involved_in	positive regulation of neuron projection development	biological_process
+MDK	P21741	involved_in	response to auditory stimulus	biological_process
+MDK	P21741	involved_in	dentate gyrus development	biological_process
+MDK	P21741	involved_in	cerebellar granular layer development	biological_process
+MDK	P21741	involved_in	cerebral cortex development	biological_process
+MDK	P21741	involved_in	cell differentiation	biological_process
+MDK	P21741	involved_in	negative regulation of ossification	biological_process
+MDK	P21741	involved_in	adrenal gland development	biological_process
+MDK	P21741	involved_in	positive regulation of cell migration	biological_process
+MDK	P21741	involved_in	defecation	biological_process
+MDK	P21741	involved_in	regulation of chondrocyte differentiation	biological_process
+MDK	P21741	involved_in	positive regulation of interleukin-12 production	biological_process
+MDK	P21741	involved_in	intracellular signal transduction	biological_process
+MDK	P21741	involved_in	tissue regeneration	biological_process
+MDK	P21741	involved_in	negative regulation of neuron apoptotic process	biological_process
+MDK	P21741	involved_in	estrous cycle	biological_process
+MDK	P21741	involved_in	positive regulation of T cell differentiation	biological_process
+MDK	P21741	involved_in	negative regulation of regulatory T cell differentiation	biological_process
+MDK	P21741	involved_in	positive regulation of cell adhesion	biological_process
+MDK	P21741	involved_in	positive regulation of DNA-templated transcription	biological_process
+MDK	P21741	involved_in	regulation of bone remodeling	biological_process
+MDK	P21741	involved_in	oogenesis	biological_process
+MDK	P21741	involved_in	positive regulation of oligodendrocyte differentiation	biological_process
+MDK	P21741	involved_in	positive regulation of inflammatory response	biological_process
+MDK	P21741	involved_in	regulation of behavior	biological_process
+MDK	P21741	involved_in	positive regulation of cell division	biological_process
+MDK	P21741	involved_in	positive regulation of cartilage development	biological_process
+MDK	P21741	involved_in	positive regulation of smooth muscle cell chemotaxis	biological_process
+MDK	P21741	involved_in	positive regulation of neutrophil chemotaxis	biological_process
+MDK	P21741	involved_in	negative regulation of canonical Wnt signaling pathway	biological_process
+MDK	P21741	involved_in	negative regulation of inflammatory response to wounding	biological_process
+MDK	P21741	involved_in	positive regulation of inflammatory response to wounding	biological_process
+MDK	P21741	involved_in	glial cell projection elongation	biological_process
+MDK	P21741	involved_in	positive regulation of substrate adhesion-dependent cell spreading	biological_process
+MDK	P21741	involved_in	positive regulation of leukocyte cell-cell adhesion	biological_process
+MDK	P21741	involved_in	negative regulation of epithelial cell apoptotic process	biological_process
+MDK	P21741	involved_in	positive regulation of leukocyte adhesion to vascular endothelial cell	biological_process
+MDK	P21741	involved_in	positive regulation of blood vessel branching	biological_process
+MDK	P21741	involved_in	positive regulation of vascular endothelial cell proliferation	biological_process
+MDK	P21741	involved_in	positive regulation of artery morphogenesis	biological_process
+MDK	P21741	involved_in	positive regulation of neural precursor cell proliferation	biological_process
+MDK	P21741	involved_in	positive regulation of hepatocyte proliferation	biological_process
+MDK	P21741	involved_in	positive regulation of neutrophil extravasation	biological_process
+MDK	P21741	involved_in	positive regulation of neuron migration	biological_process
+MDK	P21741	located_in	extracellular region	cellular_component

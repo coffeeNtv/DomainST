@@ -1,0 +1,53 @@
+GSTP1	P09211	enables	glutathione transferase activity	molecular_function
+GSTP1	P09211	enables	glutathione peroxidase activity	molecular_function
+GSTP1	P09211	enables	fatty acid binding	molecular_function
+GSTP1	P09211	enables	protein binding	molecular_function
+GSTP1	P09211	enables	JUN kinase binding	molecular_function
+GSTP1	P09211	enables	kinase regulator activity	molecular_function
+GSTP1	P09211	enables	S-nitrosoglutathione binding	molecular_function
+GSTP1	P09211	enables	dinitrosyl-iron complex binding	molecular_function
+GSTP1	P09211	enables	nitric oxide binding	molecular_function
+GSTP1	P09211	involved_in	response to reactive oxygen species	biological_process
+GSTP1	P09211	involved_in	negative regulation of acute inflammatory response	biological_process
+GSTP1	P09211	involved_in	negative regulation of protein kinase activity	biological_process
+GSTP1	P09211	involved_in	prostaglandin metabolic process	biological_process
+GSTP1	P09211	involved_in	glutathione metabolic process	biological_process
+GSTP1	P09211	involved_in	xenobiotic metabolic process	biological_process
+GSTP1	P09211	involved_in	central nervous system development	biological_process
+GSTP1	P09211	involved_in	negative regulation of biosynthetic process	biological_process
+GSTP1	P09211	involved_in	negative regulation of tumor necrosis factor-mediated signaling pathway	biological_process
+GSTP1	P09211	involved_in	negative regulation of interleukin-1 beta production	biological_process
+GSTP1	P09211	involved_in	negative regulation of tumor necrosis factor production	biological_process
+GSTP1	P09211	involved_in	regulation of stress-activated MAPK cascade	biological_process
+GSTP1	P09211	involved_in	negative regulation of stress-activated MAPK cascade	biological_process
+GSTP1	P09211	involved_in	positive regulation of superoxide anion generation	biological_process
+GSTP1	P09211	involved_in	common myeloid progenitor cell proliferation	biological_process
+GSTP1	P09211	involved_in	nitric oxide storage	biological_process
+GSTP1	P09211	involved_in	negative regulation of apoptotic process	biological_process
+GSTP1	P09211	involved_in	negative regulation of canonical NF-kappaB signal transduction	biological_process
+GSTP1	P09211	involved_in	negative regulation of MAP kinase activity	biological_process
+GSTP1	P09211	involved_in	negative regulation of MAPK cascade	biological_process
+GSTP1	P09211	involved_in	negative regulation of JUN kinase activity	biological_process
+GSTP1	P09211	involved_in	linoleic acid metabolic process	biological_process
+GSTP1	P09211	involved_in	negative regulation of fibroblast proliferation	biological_process
+GSTP1	P09211	involved_in	hepoxilin biosynthetic process	biological_process
+GSTP1	P09211	involved_in	regulation of ERK1 and ERK2 cascade	biological_process
+GSTP1	P09211	involved_in	negative regulation of ERK1 and ERK2 cascade	biological_process
+GSTP1	P09211	involved_in	negative regulation of leukocyte proliferation	biological_process
+GSTP1	P09211	involved_in	cellular response to lipopolysaccharide	biological_process
+GSTP1	P09211	involved_in	negative regulation of monocyte chemotactic protein-1 production	biological_process
+GSTP1	P09211	involved_in	cellular oxidant detoxification	biological_process
+GSTP1	P09211	involved_in	glutathione derivative biosynthetic process	biological_process
+GSTP1	P09211	involved_in	negative regulation of extrinsic apoptotic signaling pathway	biological_process
+GSTP1	P09211	located_in	extracellular region	cellular_component
+GSTP1	P09211	located_in	extracellular space	cellular_component
+GSTP1	P09211	located_in	nucleus	cellular_component
+GSTP1	P09211	located_in	cytoplasm	cellular_component
+GSTP1	P09211	located_in	mitochondrion	cellular_component
+GSTP1	P09211	located_in	cytosol	cellular_component
+GSTP1	P09211	located_in	vesicle	cellular_component
+GSTP1	P09211	located_in	secretory granule lumen	cellular_component
+GSTP1	P09211	located_in	extracellular exosome	cellular_component
+GSTP1	P09211	located_in	ficolin-1-rich granule lumen	cellular_component
+GSTP1	P09211	part_of	TRAF2-GSTP1 complex	cellular_component
+GSTP1	P09211	is_active_in	cytosol	cellular_component

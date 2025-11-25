@@ -1,0 +1,52 @@
+CALM2	P0DP24	acts_upstream_of_or_within	regulation of calcium-mediated signaling	biological_process
+CALM2	P0DP24	enables	calcium ion binding	molecular_function
+CALM2	P0DP24	enables	protein binding	molecular_function
+CALM2	P0DP24	enables	adenylate cyclase binding	molecular_function
+CALM2	P0DP24	enables	adenylate cyclase activator activity	molecular_function
+CALM2	P0DP24	enables	calcium channel inhibitor activity	molecular_function
+CALM2	P0DP24	enables	protein kinase binding	molecular_function
+CALM2	P0DP24	enables	titin binding	molecular_function
+CALM2	P0DP24	enables	protein serine/threonine kinase activator activity	molecular_function
+CALM2	P0DP24	enables	transmembrane transporter binding	molecular_function
+CALM2	P0DP24	enables	calcium-dependent protein binding	molecular_function
+CALM2	P0DP24	enables	protein phosphatase activator activity	molecular_function
+CALM2	P0DP24	involved_in	G2/M transition of mitotic cell cycle	biological_process
+CALM2	P0DP24	involved_in	regulation of heart rate	biological_process
+CALM2	P0DP24	involved_in	detection of calcium ion	biological_process
+CALM2	P0DP24	involved_in	G protein-coupled receptor signaling pathway	biological_process
+CALM2	P0DP24	involved_in	positive regulation of peptidyl-threonine phosphorylation	biological_process
+CALM2	P0DP24	involved_in	negative regulation of peptidyl-threonine phosphorylation	biological_process
+CALM2	P0DP24	involved_in	regulation of release of sequestered calcium ion into cytosol by sarcoplasmic reticulum	biological_process
+CALM2	P0DP24	involved_in	regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion	biological_process
+CALM2	P0DP24	involved_in	substantia nigra development	biological_process
+CALM2	P0DP24	involved_in	positive regulation of protein autophosphorylation	biological_process
+CALM2	P0DP24	involved_in	regulation of cytokinesis	biological_process
+CALM2	P0DP24	involved_in	response to calcium ion	biological_process
+CALM2	P0DP24	involved_in	regulation of cardiac muscle contraction	biological_process
+CALM2	P0DP24	involved_in	negative regulation of ryanodine-sensitive calcium-release channel activity	biological_process
+CALM2	P0DP24	involved_in	positive regulation of ryanodine-sensitive calcium-release channel activity	biological_process
+CALM2	P0DP24	involved_in	positive regulation of protein serine/threonine kinase activity	biological_process
+CALM2	P0DP24	involved_in	calcineurin-mediated signaling	biological_process
+CALM2	P0DP24	involved_in	presynaptic endocytosis	biological_process
+CALM2	P0DP24	involved_in	negative regulation of calcium ion transmembrane transporter activity	biological_process
+CALM2	P0DP24	involved_in	regulation of cell communication by electrical coupling involved in cardiac conduction	biological_process
+CALM2	P0DP24	involved_in	negative regulation of calcium ion export across plasma membrane	biological_process
+CALM2	P0DP24	located_in	spindle pole	cellular_component
+CALM2	P0DP24	located_in	nucleus	cellular_component
+CALM2	P0DP24	located_in	cytoplasm	cellular_component
+CALM2	P0DP24	located_in	centrosome	cellular_component
+CALM2	P0DP24	located_in	spindle microtubule	cellular_component
+CALM2	P0DP24	located_in	plasma membrane	cellular_component
+CALM2	P0DP24	located_in	membrane	cellular_component
+CALM2	P0DP24	located_in	sarcomere	cellular_component
+CALM2	P0DP24	located_in	vesicle	cellular_component
+CALM2	P0DP24	located_in	calyx of Held	cellular_component
+CALM2	P0DP24	located_in	sperm midpiece	cellular_component
+CALM2	P0DP24	located_in	presynaptic cytosol	cellular_component
+CALM2	P0DP24	part_of	voltage-gated potassium channel complex	cellular_component
+CALM2	P0DP24	part_of	protein-containing complex	cellular_component
+CALM2	P0DP24	part_of	calcium channel complex	cellular_component
+CALM2	P0DP24	part_of	catalytic complex	cellular_component
+CALM2	P0DP24	is_active_in	myelin sheath	cellular_component
+CALM2	P0DP24	is_active_in	cytoplasm	cellular_component
+CALM2	P0DP24	is_active_in	centrosome	cellular_component

@@ -1,0 +1,39 @@
+CD44	P16070	contributes_to	cytokine receptor activity	molecular_function
+CD44	P16070	enables	protein binding	molecular_function
+CD44	P16070	enables	collagen binding	molecular_function
+CD44	P16070	enables	hyaluronic acid binding	molecular_function
+CD44	P16070	involved_in	cell adhesion	biological_process
+CD44	P16070	involved_in	cell-matrix adhesion	biological_process
+CD44	P16070	involved_in	cell migration	biological_process
+CD44	P16070	involved_in	cytokine-mediated signaling pathway	biological_process
+CD44	P16070	involved_in	hyaluronan catabolic process	biological_process
+CD44	P16070	involved_in	positive regulation of heterotypic cell-cell adhesion	biological_process
+CD44	P16070	involved_in	T cell activation	biological_process
+CD44	P16070	involved_in	negative regulation of apoptotic process	biological_process
+CD44	P16070	involved_in	negative regulation of DNA damage response, signal transduction by p53 class mediator	biological_process
+CD44	P16070	involved_in	wound healing, spreading of cells	biological_process
+CD44	P16070	involved_in	cellular response to fibroblast growth factor stimulus	biological_process
+CD44	P16070	involved_in	cartilage development	biological_process
+CD44	P16070	involved_in	positive regulation of ERK1 and ERK2 cascade	biological_process
+CD44	P16070	involved_in	monocyte aggregation	biological_process
+CD44	P16070	involved_in	cell-cell adhesion	biological_process
+CD44	P16070	involved_in	positive regulation of monocyte aggregation	biological_process
+CD44	P16070	involved_in	negative regulation of intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator	biological_process
+CD44	P16070	involved_in	negative regulation of cysteine-type endopeptidase activity	biological_process
+CD44	P16070	involved_in	regulation of lamellipodium morphogenesis	biological_process
+CD44	P16070	located_in	Golgi apparatus	cellular_component
+CD44	P16070	located_in	cytosol	cellular_component
+CD44	P16070	located_in	plasma membrane	cellular_component
+CD44	P16070	located_in	microvillus	cellular_component
+CD44	P16070	located_in	focal adhesion	cellular_component
+CD44	P16070	located_in	cell surface	cellular_component
+CD44	P16070	located_in	apical plasma membrane	cellular_component
+CD44	P16070	located_in	secretory granule membrane	cellular_component
+CD44	P16070	located_in	lamellipodium membrane	cellular_component
+CD44	P16070	located_in	cell projection	cellular_component
+CD44	P16070	located_in	extracellular exosome	cellular_component
+CD44	P16070	part_of	macrophage migration inhibitory factor receptor complex	cellular_component
+CD44	P16070	is_active_in	basolateral plasma membrane	cellular_component
+CD44	P16070	is_active_in	plasma membrane	cellular_component
+CD44	P16070	involved_in	inflammatory response	biological_process
+CD44	P16070	enables	transmembrane signaling receptor activity	molecular_function

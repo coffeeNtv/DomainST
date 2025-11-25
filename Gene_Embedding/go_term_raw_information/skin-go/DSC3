@@ -1,0 +1,15 @@
+DSC3	Q14574	enables	gamma-catenin binding	molecular_function
+DSC3	Q14574	involved_in	in utero embryonic development	biological_process
+DSC3	Q14574	involved_in	cell adhesion	biological_process
+DSC3	Q14574	involved_in	homophilic cell adhesion via plasma membrane adhesion molecules	biological_process
+DSC3	Q14574	involved_in	protein stabilization	biological_process
+DSC3	Q14574	located_in	cornified envelope	cellular_component
+DSC3	Q14574	located_in	extracellular region	cellular_component
+DSC3	Q14574	located_in	cytoplasm	cellular_component
+DSC3	Q14574	located_in	plasma membrane	cellular_component
+DSC3	Q14574	located_in	cell-cell junction	cellular_component
+DSC3	Q14574	located_in	membrane	cellular_component
+DSC3	Q14574	located_in	cell junction	cellular_component
+DSC3	Q14574	enables	calcium ion binding	molecular_function
+DSC3	Q14574	is_active_in	desmosome	cellular_component
+DSC3	Q14574	involved_in	cell-cell adhesion	biological_process

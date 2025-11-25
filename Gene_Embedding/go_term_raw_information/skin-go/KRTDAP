@@ -1,0 +1,5 @@
+KRTDAP	P60985	involved_in	cell differentiation	biological_process
+KRTDAP	P60985	located_in	extracellular space	cellular_component
+KRTDAP	P60985	located_in	lamellar body	cellular_component
+KRTDAP	P60985	involved_in	epidermis development	biological_process
+KRTDAP	P60985	is_active_in	extracellular space	cellular_component

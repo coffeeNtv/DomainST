@@ -1,0 +1,18 @@
+GNB2	P62879	enables	GTPase activity	molecular_function
+GNB2	P62879	enables	protein binding	molecular_function
+GNB2	P62879	enables	protein-containing complex binding	molecular_function
+GNB2	P62879	enables	GTPase binding	molecular_function
+GNB2	P62879	involved_in	regulation of potassium ion transmembrane transport	biological_process
+GNB2	P62879	located_in	extracellular space	cellular_component
+GNB2	P62879	located_in	lysosomal membrane	cellular_component
+GNB2	P62879	located_in	cytosol	cellular_component
+GNB2	P62879	located_in	plasma membrane	cellular_component
+GNB2	P62879	located_in	focal adhesion	cellular_component
+GNB2	P62879	located_in	membrane	cellular_component
+GNB2	P62879	located_in	vesicle	cellular_component
+GNB2	P62879	located_in	perinuclear region of cytoplasm	cellular_component
+GNB2	P62879	located_in	extracellular exosome	cellular_component
+GNB2	P62879	part_of	heterotrimeric G-protein complex	cellular_component
+GNB2	P62879	is_active_in	cytoplasm	cellular_component
+GNB2	P62879	involved_in	G protein-coupled receptor signaling pathway	biological_process
+GNB2	P62879	enables	signaling receptor complex adaptor activity	molecular_function

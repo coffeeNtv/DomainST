@@ -1,0 +1,12 @@
+PSMB3	P49720	enables	protein binding	molecular_function
+PSMB3	P49720	involved_in	proteasome-mediated ubiquitin-dependent protein catabolic process	biological_process
+PSMB3	P49720	is_active_in	nucleus	cellular_component
+PSMB3	P49720	is_active_in	cytoplasm	cellular_component
+PSMB3	P49720	located_in	nucleus	cellular_component
+PSMB3	P49720	located_in	nucleoplasm	cellular_component
+PSMB3	P49720	located_in	cytosol	cellular_component
+PSMB3	P49720	located_in	extracellular exosome	cellular_component
+PSMB3	P49720	part_of	proteasome complex	cellular_component
+PSMB3	P49720	part_of	proteasome core complex	cellular_component
+PSMB3	P49720	part_of	proteasome core complex, beta-subunit complex	cellular_component
+PSMB3	P49720	is_active_in	cytosol	cellular_component

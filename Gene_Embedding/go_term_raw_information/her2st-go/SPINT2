@@ -1,0 +1,14 @@
+SPINT2	O43291	acts_upstream_of_or_within	negative regulation of cell-cell adhesion	biological_process
+SPINT2	O43291	acts_upstream_of_or_within	negative regulation of cell motility	biological_process
+SPINT2	O43291	enables	endopeptidase inhibitor activity	molecular_function
+SPINT2	O43291	enables	serine-type endopeptidase inhibitor activity	molecular_function
+SPINT2	O43291	involved_in	neural tube closure	biological_process
+SPINT2	O43291	involved_in	establishment or maintenance of cell polarity	biological_process
+SPINT2	O43291	involved_in	epithelial cell morphogenesis involved in placental branching	biological_process
+SPINT2	O43291	involved_in	basement membrane organization	biological_process
+SPINT2	O43291	involved_in	cellular response to BMP stimulus	biological_process
+SPINT2	O43291	involved_in	negative regulation of neural precursor cell proliferation	biological_process
+SPINT2	O43291	located_in	extracellular region	cellular_component
+SPINT2	O43291	located_in	cytoplasm	cellular_component
+SPINT2	O43291	located_in	plasma membrane	cellular_component
+SPINT2	O43291	located_in	membrane	cellular_component

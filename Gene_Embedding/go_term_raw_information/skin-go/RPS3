@@ -1,0 +1,81 @@
+RPS3	P23396	NOT|enables	DNA N-glycosylase activity	molecular_function
+RPS3	P23396	contributes_to	RNA polymerase II transcription regulatory region sequence-specific DNA binding	molecular_function
+RPS3	P23396	enables	DNA binding	molecular_function
+RPS3	P23396	enables	damaged DNA binding	molecular_function
+RPS3	P23396	enables	RNA binding	molecular_function
+RPS3	P23396	enables	mRNA binding	molecular_function
+RPS3	P23396	enables	structural constituent of ribosome	molecular_function
+RPS3	P23396	enables	DNA-(apurinic or apyrimidinic site) endonuclease activity	molecular_function
+RPS3	P23396	enables	DNA endonuclease activity	molecular_function
+RPS3	P23396	enables	protein binding	molecular_function
+RPS3	P23396	enables	microtubule binding	molecular_function
+RPS3	P23396	enables	tubulin binding	molecular_function
+RPS3	P23396	enables	enzyme binding	molecular_function
+RPS3	P23396	enables	kinase binding	molecular_function
+RPS3	P23396	enables	protein kinase binding	molecular_function
+RPS3	P23396	enables	Hsp70 protein binding	molecular_function
+RPS3	P23396	enables	oxidized purine DNA binding	molecular_function
+RPS3	P23396	enables	oxidized pyrimidine DNA binding	molecular_function
+RPS3	P23396	enables	ubiquitin-like protein conjugating enzyme binding	molecular_function
+RPS3	P23396	enables	protein-containing complex binding	molecular_function
+RPS3	P23396	enables	protein kinase A binding	molecular_function
+RPS3	P23396	enables	iron-sulfur cluster binding	molecular_function
+RPS3	P23396	enables	Hsp90 protein binding	molecular_function
+RPS3	P23396	enables	small ribosomal subunit rRNA binding	molecular_function
+RPS3	P23396	enables	supercoiled DNA binding	molecular_function
+RPS3	P23396	enables	class I DNA-(apurinic or apyrimidinic site) endonuclease activity	molecular_function
+RPS3	P23396	enables	DNA-binding transcription factor binding	molecular_function
+RPS3	P23396	involved_in	cytoplasmic translation	biological_process
+RPS3	P23396	involved_in	DNA repair	biological_process
+RPS3	P23396	involved_in	base-excision repair	biological_process
+RPS3	P23396	involved_in	translation	biological_process
+RPS3	P23396	involved_in	translational initiation	biological_process
+RPS3	P23396	involved_in	apoptotic process	biological_process
+RPS3	P23396	involved_in	DNA damage response	biological_process
+RPS3	P23396	involved_in	chromosome segregation	biological_process
+RPS3	P23396	involved_in	positive regulation of gene expression	biological_process
+RPS3	P23396	involved_in	negative regulation of translation	biological_process
+RPS3	P23396	involved_in	positive regulation of microtubule polymerization	biological_process
+RPS3	P23396	involved_in	positive regulation of protein-containing complex assembly	biological_process
+RPS3	P23396	involved_in	negative regulation of protein ubiquitination	biological_process
+RPS3	P23396	involved_in	positive regulation of endodeoxyribonuclease activity	biological_process
+RPS3	P23396	involved_in	positive regulation of interleukin-2 production	biological_process
+RPS3	P23396	involved_in	cellular response to reactive oxygen species	biological_process
+RPS3	P23396	involved_in	positive regulation of activated T cell proliferation	biological_process
+RPS3	P23396	involved_in	regulation of apoptotic process	biological_process
+RPS3	P23396	involved_in	positive regulation of JUN kinase activity	biological_process
+RPS3	P23396	involved_in	negative regulation of DNA repair	biological_process
+RPS3	P23396	involved_in	positive regulation of DNA repair	biological_process
+RPS3	P23396	involved_in	positive regulation of T cell receptor signaling pathway	biological_process
+RPS3	P23396	involved_in	positive regulation of NF-kappaB transcription factor activity	biological_process
+RPS3	P23396	involved_in	spindle assembly	biological_process
+RPS3	P23396	involved_in	cell division	biological_process
+RPS3	P23396	involved_in	response to TNF agonist	biological_process
+RPS3	P23396	involved_in	cellular response to hydrogen peroxide	biological_process
+RPS3	P23396	involved_in	cellular response to tumor necrosis factor	biological_process
+RPS3	P23396	involved_in	positive regulation of non-canonical NF-kappaB signal transduction	biological_process
+RPS3	P23396	involved_in	positive regulation of intrinsic apoptotic signaling pathway in response to DNA damage	biological_process
+RPS3	P23396	involved_in	positive regulation of base-excision repair	biological_process
+RPS3	P23396	involved_in	positive regulation of cysteine-type endopeptidase activity	biological_process
+RPS3	P23396	involved_in	positive regulation of apoptotic signaling pathway	biological_process
+RPS3	P23396	is_active_in	postsynaptic density	cellular_component
+RPS3	P23396	located_in	nucleus	cellular_component
+RPS3	P23396	located_in	nucleoplasm	cellular_component
+RPS3	P23396	located_in	nucleolus	cellular_component
+RPS3	P23396	located_in	cytoplasm	cellular_component
+RPS3	P23396	located_in	mitochondrial inner membrane	cellular_component
+RPS3	P23396	located_in	mitochondrial matrix	cellular_component
+RPS3	P23396	located_in	endoplasmic reticulum	cellular_component
+RPS3	P23396	located_in	cytosol	cellular_component
+RPS3	P23396	located_in	ribosome	cellular_component
+RPS3	P23396	located_in	plasma membrane	cellular_component
+RPS3	P23396	located_in	focal adhesion	cellular_component
+RPS3	P23396	located_in	membrane	cellular_component
+RPS3	P23396	located_in	ruffle membrane	cellular_component
+RPS3	P23396	located_in	extracellular exosome	cellular_component
+RPS3	P23396	located_in	mitotic spindle	cellular_component
+RPS3	P23396	located_in	cytosolic ribosome	cellular_component
+RPS3	P23396	part_of	cytosolic small ribosomal subunit	cellular_component
+RPS3	P23396	part_of	NF-kappaB complex	cellular_component
+RPS3	P23396	part_of	ribonucleoprotein complex	cellular_component
+RPS3	P23396	is_active_in	nucleus	cellular_component

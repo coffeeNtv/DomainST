@@ -1,0 +1,11 @@
+RPL41	P62945	enables	RNA binding	molecular_function
+RPL41	P62945	enables	mRNA 3'-UTR binding	molecular_function
+RPL41	P62945	enables	structural constituent of ribosome	molecular_function
+RPL41	P62945	enables	protein binding	molecular_function
+RPL41	P62945	enables	mRNA 5'-UTR binding	molecular_function
+RPL41	P62945	involved_in	cytoplasmic translation	biological_process
+RPL41	P62945	involved_in	translation	biological_process
+RPL41	P62945	located_in	endoplasmic reticulum	cellular_component
+RPL41	P62945	located_in	cytosol	cellular_component
+RPL41	P62945	located_in	cytoplasm	cellular_component
+RPL41	P62945	part_of	cytosolic large ribosomal subunit	cellular_component

@@ -1,0 +1,10 @@
+RRBP1	Q9P2E9	enables	RNA binding	molecular_function
+RRBP1	Q9P2E9	enables	protein binding	molecular_function
+RRBP1	Q9P2E9	enables	signaling receptor activity	molecular_function
+RRBP1	Q9P2E9	involved_in	osteoblast differentiation	biological_process
+RRBP1	Q9P2E9	involved_in	translation	biological_process
+RRBP1	Q9P2E9	involved_in	protein transport	biological_process
+RRBP1	Q9P2E9	located_in	endoplasmic reticulum	cellular_component
+RRBP1	Q9P2E9	located_in	ribosome	cellular_component
+RRBP1	Q9P2E9	located_in	membrane	cellular_component
+RRBP1	Q9P2E9	is_active_in	endoplasmic reticulum membrane	cellular_component

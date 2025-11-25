@@ -1,0 +1,10 @@
+CXCL14	O95715	enables	protein binding	molecular_function
+CXCL14	O95715	enables	chemokine activity	molecular_function
+CXCL14	O95715	involved_in	chemotaxis	biological_process
+CXCL14	O95715	involved_in	signal transduction	biological_process
+CXCL14	O95715	involved_in	cell-cell signaling	biological_process
+CXCL14	O95715	involved_in	killing of cells of another organism	biological_process
+CXCL14	O95715	involved_in	cell chemotaxis	biological_process
+CXCL14	O95715	involved_in	antimicrobial humoral immune response mediated by antimicrobial peptide	biological_process
+CXCL14	O95715	located_in	extracellular space	cellular_component
+CXCL14	O95715	located_in	Golgi apparatus	cellular_component

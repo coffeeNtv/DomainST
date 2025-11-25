@@ -1,0 +1,13 @@
+H1-10	Q92522	enables	RNA binding	molecular_function
+H1-10	Q92522	enables	structural constituent of chromatin	molecular_function
+H1-10	Q92522	enables	cadherin binding	molecular_function
+H1-10	Q92522	involved_in	nucleosome assembly	biological_process
+H1-10	Q92522	located_in	nucleoplasm	cellular_component
+H1-10	Q92522	located_in	chromosome	cellular_component
+H1-10	Q92522	located_in	nucleolus	cellular_component
+H1-10	Q92522	part_of	nucleosome	cellular_component
+H1-10	Q92522	enables	double-stranded DNA binding	molecular_function
+H1-10	Q92522	involved_in	negative regulation of DNA recombination	biological_process
+H1-10	Q92522	is_active_in	nucleus	cellular_component
+H1-10	Q92522	involved_in	chromosome condensation	biological_process
+H1-10	Q92522	enables	nucleosomal DNA binding	molecular_function

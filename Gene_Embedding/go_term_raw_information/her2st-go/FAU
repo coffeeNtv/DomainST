@@ -1,0 +1,24 @@
+FAU	P62861	enables	RNA binding	molecular_function
+FAU	P62861	enables	structural constituent of ribosome	molecular_function
+FAU	P62861	enables	protein binding	molecular_function
+FAU	P62861	involved_in	ribosomal small subunit assembly	biological_process
+FAU	P62861	involved_in	cytoplasmic translation	biological_process
+FAU	P62861	involved_in	innate immune response in mucosa	biological_process
+FAU	P62861	involved_in	translation	biological_process
+FAU	P62861	involved_in	antibacterial humoral response	biological_process
+FAU	P62861	involved_in	defense response to Gram-positive bacterium	biological_process
+FAU	P62861	involved_in	antimicrobial humoral immune response mediated by antimicrobial peptide	biological_process
+FAU	P62861	located_in	extracellular space	cellular_component
+FAU	P62861	located_in	nucleus	cellular_component
+FAU	P62861	located_in	nucleoplasm	cellular_component
+FAU	P62861	located_in	cytosol	cellular_component
+FAU	P62861	located_in	cytoplasm	cellular_component
+FAU	P62861	part_of	small ribosomal subunit	cellular_component
+FAU	P62861	located_in	cytosolic ribosome	cellular_component
+FAU	P62861	part_of	cytosolic small ribosomal subunit	cellular_component
+FAU	P62861	involved_in	modification-dependent protein catabolic process	biological_process
+FAU	P62861	enables	protein tag activity	molecular_function
+FAU	P62861	is_active_in	nucleus	cellular_component
+FAU	P62861	enables	ubiquitin protein ligase binding	molecular_function
+FAU	P62861	is_active_in	cytoplasm	cellular_component
+FAU	P62861	involved_in	protein ubiquitination	biological_process

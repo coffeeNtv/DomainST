@@ -1,0 +1,5 @@
+LAD1	O00515	enables	structural molecule activity	molecular_function
+LAD1	O00515	enables	cadherin binding	molecular_function
+LAD1	O00515	located_in	basement membrane	cellular_component
+LAD1	O00515	located_in	actin cytoskeleton	cellular_component
+LAD1	O00515	located_in	extracellular exosome	cellular_component

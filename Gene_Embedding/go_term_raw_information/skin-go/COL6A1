@@ -1,0 +1,91 @@
+COL6A1	P12109	colocalizes_with	collagen-containing extracellular matrix	cellular_component
+COL6A1	P12109	enables	protein binding	molecular_function
+COL6A1	P12109	enables	collagen binding	molecular_function
+COL6A1	P12109	enables	extracellular matrix structural constituent conferring tensile strength	molecular_function
+COL6A1	P12109	enables	platelet-derived growth factor binding	molecular_function
+COL6A1	P12109	involved_in	response to reactive oxygen species	biological_process
+COL6A1	P12109	involved_in	cell morphogenesis	biological_process
+COL6A1	P12109	involved_in	osteoblast differentiation	biological_process
+COL6A1	P12109	involved_in	hair follicle development	biological_process
+COL6A1	P12109	involved_in	reduction of food intake in response to dietary excess	biological_process
+COL6A1	P12109	involved_in	muscle system process	biological_process
+COL6A1	P12109	involved_in	respiratory system process	biological_process
+COL6A1	P12109	involved_in	glycolytic process	biological_process
+COL6A1	P12109	involved_in	tricarboxylic acid cycle	biological_process
+COL6A1	P12109	involved_in	2-oxoglutarate metabolic process	biological_process
+COL6A1	P12109	involved_in	energy reserve metabolic process	biological_process
+COL6A1	P12109	involved_in	autophagy	biological_process
+COL6A1	P12109	involved_in	inflammatory response	biological_process
+COL6A1	P12109	involved_in	mitochondrion organization	biological_process
+COL6A1	P12109	involved_in	cell adhesion	biological_process
+COL6A1	P12109	involved_in	single fertilization	biological_process
+COL6A1	P12109	involved_in	heart development	biological_process
+COL6A1	P12109	involved_in	circadian rhythm	biological_process
+COL6A1	P12109	involved_in	insulin receptor signaling pathway	biological_process
+COL6A1	P12109	involved_in	regulation of cell size	biological_process
+COL6A1	P12109	involved_in	response to xenobiotic stimulus	biological_process
+COL6A1	P12109	involved_in	response to UV	biological_process
+COL6A1	P12109	involved_in	response to wounding	biological_process
+COL6A1	P12109	involved_in	response to mechanical stimulus	biological_process
+COL6A1	P12109	involved_in	response to toxic substance	biological_process
+COL6A1	P12109	involved_in	gene expression	biological_process
+COL6A1	P12109	involved_in	muscle cell apoptotic process	biological_process
+COL6A1	P12109	involved_in	response to muscle activity	biological_process
+COL6A1	P12109	involved_in	transmission of nerve impulse	biological_process
+COL6A1	P12109	involved_in	myelination in peripheral nervous system	biological_process
+COL6A1	P12109	involved_in	collagen fibril organization	biological_process
+COL6A1	P12109	involved_in	apoptotic nuclear changes	biological_process
+COL6A1	P12109	involved_in	bone mineralization	biological_process
+COL6A1	P12109	involved_in	response to lipopolysaccharide	biological_process
+COL6A1	P12109	involved_in	collagen metabolic process	biological_process
+COL6A1	P12109	involved_in	endodermal cell differentiation	biological_process
+COL6A1	P12109	involved_in	limb joint morphogenesis	biological_process
+COL6A1	P12109	involved_in	response to decreased oxygen levels	biological_process
+COL6A1	P12109	involved_in	skeletal muscle tissue regeneration	biological_process
+COL6A1	P12109	involved_in	phosphatidylinositol 3-kinase/protein kinase B signal transduction	biological_process
+COL6A1	P12109	involved_in	insulin-like growth factor receptor signaling pathway	biological_process
+COL6A1	P12109	involved_in	response to pain	biological_process
+COL6A1	P12109	involved_in	lung alveolus development	biological_process
+COL6A1	P12109	involved_in	skeletal muscle tissue growth	biological_process
+COL6A1	P12109	involved_in	skeletal muscle fiber development	biological_process
+COL6A1	P12109	involved_in	tissue remodeling	biological_process
+COL6A1	P12109	involved_in	homeostasis of number of cells	biological_process
+COL6A1	P12109	involved_in	sensory perception of mechanical stimulus	biological_process
+COL6A1	P12109	involved_in	cartilage development	biological_process
+COL6A1	P12109	involved_in	protein tetramerization	biological_process
+COL6A1	P12109	involved_in	neuron apoptotic process	biological_process
+COL6A1	P12109	involved_in	mitochondrial depolarization	biological_process
+COL6A1	P12109	involved_in	uterus development	biological_process
+COL6A1	P12109	involved_in	canonical Wnt signaling pathway	biological_process
+COL6A1	P12109	involved_in	bone development	biological_process
+COL6A1	P12109	involved_in	lung morphogenesis	biological_process
+COL6A1	P12109	involved_in	lung epithelial cell differentiation	biological_process
+COL6A1	P12109	involved_in	adipose tissue development	biological_process
+COL6A1	P12109	involved_in	fat cell proliferation	biological_process
+COL6A1	P12109	involved_in	caveola assembly	biological_process
+COL6A1	P12109	involved_in	cellular response to amino acid stimulus	biological_process
+COL6A1	P12109	involved_in	basement membrane organization	biological_process
+COL6A1	P12109	involved_in	multicellular organismal locomotion	biological_process
+COL6A1	P12109	involved_in	reactive oxygen species metabolic process	biological_process
+COL6A1	P12109	involved_in	extracellular matrix assembly	biological_process
+COL6A1	P12109	involved_in	skeletal muscle fiber differentiation	biological_process
+COL6A1	P12109	involved_in	response to peptide	biological_process
+COL6A1	P12109	involved_in	regulation of collagen fibril organization	biological_process
+COL6A1	P12109	involved_in	response to polyamine macromolecule	biological_process
+COL6A1	P12109	involved_in	response to bleomycin	biological_process
+COL6A1	P12109	involved_in	mitochondrial transmembrane transport	biological_process
+COL6A1	P12109	located_in	extracellular region	cellular_component
+COL6A1	P12109	located_in	basement membrane	cellular_component
+COL6A1	P12109	located_in	mitochondrion	cellular_component
+COL6A1	P12109	located_in	lysosomal membrane	cellular_component
+COL6A1	P12109	located_in	endoplasmic reticulum lumen	cellular_component
+COL6A1	P12109	located_in	membrane	cellular_component
+COL6A1	P12109	located_in	sarcoplasmic reticulum	cellular_component
+COL6A1	P12109	located_in	myofibril	cellular_component
+COL6A1	P12109	located_in	sarcolemma	cellular_component
+COL6A1	P12109	located_in	collagen-containing extracellular matrix	cellular_component
+COL6A1	P12109	located_in	extracellular exosome	cellular_component
+COL6A1	P12109	located_in	intracellular vesicle	cellular_component
+COL6A1	P12109	part_of	collagen type VI trimer	cellular_component
+COL6A1	P12109	part_of	protein-containing complex	cellular_component
+COL6A1	P12109	is_active_in	collagen-containing extracellular matrix	cellular_component

@@ -1,0 +1,29 @@
+NUCKS1	Q9H1E3	enables	chromatin binding	molecular_function
+NUCKS1	Q9H1E3	enables	double-stranded DNA binding	molecular_function
+NUCKS1	Q9H1E3	enables	transcription coactivator activity	molecular_function
+NUCKS1	Q9H1E3	enables	RNA binding	molecular_function
+NUCKS1	Q9H1E3	enables	DNA-binding transcription factor binding	molecular_function
+NUCKS1	Q9H1E3	involved_in	double-strand break repair via homologous recombination	biological_process
+NUCKS1	Q9H1E3	involved_in	intracellular glucose homeostasis	biological_process
+NUCKS1	Q9H1E3	involved_in	regulation of DNA replication	biological_process
+NUCKS1	Q9H1E3	involved_in	chromatin organization	biological_process
+NUCKS1	Q9H1E3	involved_in	replication fork processing	biological_process
+NUCKS1	Q9H1E3	involved_in	gene conversion	biological_process
+NUCKS1	Q9H1E3	involved_in	interstrand cross-link repair	biological_process
+NUCKS1	Q9H1E3	involved_in	positive regulation by host of viral transcription	biological_process
+NUCKS1	Q9H1E3	involved_in	modulation by host of viral genome replication	biological_process
+NUCKS1	Q9H1E3	involved_in	positive regulation by host of viral genome replication	biological_process
+NUCKS1	Q9H1E3	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
+NUCKS1	Q9H1E3	involved_in	regulation of insulin receptor signaling pathway	biological_process
+NUCKS1	Q9H1E3	involved_in	positive regulation of insulin receptor signaling pathway	biological_process
+NUCKS1	Q9H1E3	involved_in	regulation of DNA strand elongation	biological_process
+NUCKS1	Q9H1E3	involved_in	cellular response to X-ray	biological_process
+NUCKS1	Q9H1E3	involved_in	modulation by host of RNA binding by virus	biological_process
+NUCKS1	Q9H1E3	involved_in	modulation by host of viral RNA-binding transcription factor activity	biological_process
+NUCKS1	Q9H1E3	located_in	chromatin	cellular_component
+NUCKS1	Q9H1E3	located_in	nucleus	cellular_component
+NUCKS1	Q9H1E3	located_in	nucleoplasm	cellular_component
+NUCKS1	Q9H1E3	located_in	nucleolus	cellular_component
+NUCKS1	Q9H1E3	located_in	cytoplasm	cellular_component
+NUCKS1	Q9H1E3	is_active_in	cytoplasm	cellular_component
+NUCKS1	Q9H1E3	enables	single-stranded DNA binding	molecular_function

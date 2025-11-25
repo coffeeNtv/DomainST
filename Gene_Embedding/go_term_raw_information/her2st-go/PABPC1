@@ -1,0 +1,34 @@
+PABPC1	P11940	enables	RNA binding	molecular_function
+PABPC1	P11940	enables	mRNA binding	molecular_function
+PABPC1	P11940	enables	mRNA 3'-UTR binding	molecular_function
+PABPC1	P11940	enables	protein binding	molecular_function
+PABPC1	P11940	enables	poly(A) binding	molecular_function
+PABPC1	P11940	enables	poly(U) RNA binding	molecular_function
+PABPC1	P11940	enables	translation activator activity	molecular_function
+PABPC1	P11940	involved_in	nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	biological_process
+PABPC1	P11940	involved_in	mRNA splicing, via spliceosome	biological_process
+PABPC1	P11940	involved_in	regulatory ncRNA-mediated gene silencing	biological_process
+PABPC1	P11940	involved_in	positive regulation of viral genome replication	biological_process
+PABPC1	P11940	involved_in	mRNA stabilization	biological_process
+PABPC1	P11940	involved_in	positive regulation of nuclear-transcribed mRNA poly(A) tail shortening	biological_process
+PABPC1	P11940	involved_in	CRD-mediated mRNA stabilization	biological_process
+PABPC1	P11940	involved_in	negative regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	biological_process
+PABPC1	P11940	involved_in	positive regulation of nuclear-transcribed mRNA catabolic process, deadenylation-dependent decay	biological_process
+PABPC1	P11940	involved_in	negative regulation of nuclear-transcribed mRNA catabolic process, nonsense-mediated decay	biological_process
+PABPC1	P11940	involved_in	positive regulation of cytoplasmic translation	biological_process
+PABPC1	P11940	located_in	nucleus	cellular_component
+PABPC1	P11940	located_in	cytoplasm	cellular_component
+PABPC1	P11940	located_in	cytosol	cellular_component
+PABPC1	P11940	located_in	focal adhesion	cellular_component
+PABPC1	P11940	located_in	cytoplasmic stress granule	cellular_component
+PABPC1	P11940	located_in	membrane	cellular_component
+PABPC1	P11940	located_in	lamellipodium	cellular_component
+PABPC1	P11940	located_in	cell leading edge	cellular_component
+PABPC1	P11940	located_in	cytoplasmic ribonucleoprotein granule	cellular_component
+PABPC1	P11940	located_in	extracellular exosome	cellular_component
+PABPC1	P11940	part_of	catalytic step 2 spliceosome	cellular_component
+PABPC1	P11940	part_of	mCRD-mediated mRNA stability complex	cellular_component
+PABPC1	P11940	part_of	ribonucleoprotein complex	cellular_component
+PABPC1	P11940	is_active_in	nucleus	cellular_component
+PABPC1	P11940	is_active_in	cytoplasmic stress granule	cellular_component
+PABPC1	P11940	is_active_in	cytosol	cellular_component

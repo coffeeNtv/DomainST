@@ -1,0 +1,31 @@
+POSTN	Q15063	colocalizes_with	collagen-containing extracellular matrix	cellular_component
+POSTN	Q15063	enables	extracellular matrix structural constituent	molecular_function
+POSTN	Q15063	enables	protein binding	molecular_function
+POSTN	Q15063	enables	heparin binding	molecular_function
+POSTN	Q15063	enables	metal ion binding	molecular_function
+POSTN	Q15063	involved_in	response to hypoxia	biological_process
+POSTN	Q15063	involved_in	negative regulation of cell-matrix adhesion	biological_process
+POSTN	Q15063	involved_in	regulation of systemic arterial blood pressure	biological_process
+POSTN	Q15063	involved_in	cell adhesion	biological_process
+POSTN	Q15063	involved_in	regulation of Notch signaling pathway	biological_process
+POSTN	Q15063	involved_in	response to mechanical stimulus	biological_process
+POSTN	Q15063	involved_in	tissue development	biological_process
+POSTN	Q15063	involved_in	response to muscle activity	biological_process
+POSTN	Q15063	involved_in	positive regulation of smooth muscle cell migration	biological_process
+POSTN	Q15063	involved_in	response to estradiol	biological_process
+POSTN	Q15063	involved_in	cellular response to fibroblast growth factor stimulus	biological_process
+POSTN	Q15063	involved_in	cellular response to vitamin K	biological_process
+POSTN	Q15063	involved_in	cellular response to tumor necrosis factor	biological_process
+POSTN	Q15063	involved_in	cellular response to transforming growth factor beta stimulus	biological_process
+POSTN	Q15063	involved_in	negative regulation of substrate adhesion-dependent cell spreading	biological_process
+POSTN	Q15063	involved_in	neuron projection extension	biological_process
+POSTN	Q15063	involved_in	bone regeneration	biological_process
+POSTN	Q15063	involved_in	positive regulation of chemokine (C-X-C motif) ligand 2 production	biological_process
+POSTN	Q15063	located_in	trans-Golgi network	cellular_component
+POSTN	Q15063	located_in	extracellular matrix	cellular_component
+POSTN	Q15063	located_in	neuromuscular junction	cellular_component
+POSTN	Q15063	located_in	collagen-containing extracellular matrix	cellular_component
+POSTN	Q15063	is_active_in	extracellular space	cellular_component
+POSTN	Q15063	is_active_in	extracellular matrix	cellular_component
+POSTN	Q15063	involved_in	extracellular matrix organization	biological_process
+POSTN	Q15063	enables	cell adhesion molecule binding	molecular_function

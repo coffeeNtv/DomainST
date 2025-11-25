@@ -1,0 +1,32 @@
+CFL1	P23528	enables	protein binding	molecular_function
+CFL1	P23528	enables	actin filament binding	molecular_function
+CFL1	P23528	involved_in	cytoskeleton organization	biological_process
+CFL1	P23528	involved_in	Rho protein signal transduction	biological_process
+CFL1	P23528	involved_in	response to virus	biological_process
+CFL1	P23528	involved_in	regulation of cell morphogenesis	biological_process
+CFL1	P23528	involved_in	actin cytoskeleton organization	biological_process
+CFL1	P23528	involved_in	actin filament depolymerization	biological_process
+CFL1	P23528	involved_in	positive regulation of embryonic development	biological_process
+CFL1	P23528	involved_in	negative regulation of apoptotic process	biological_process
+CFL1	P23528	involved_in	positive regulation by host of viral process	biological_process
+CFL1	P23528	involved_in	establishment of spindle localization	biological_process
+CFL1	P23528	involved_in	regulation of dendritic spine morphogenesis	biological_process
+CFL1	P23528	located_in	extracellular space	cellular_component
+CFL1	P23528	located_in	nucleus	cellular_component
+CFL1	P23528	located_in	cytoplasm	cellular_component
+CFL1	P23528	located_in	cytosol	cellular_component
+CFL1	P23528	located_in	focal adhesion	cellular_component
+CFL1	P23528	located_in	membrane	cellular_component
+CFL1	P23528	located_in	nuclear matrix	cellular_component
+CFL1	P23528	located_in	lamellipodium	cellular_component
+CFL1	P23528	located_in	growth cone	cellular_component
+CFL1	P23528	located_in	lamellipodium membrane	cellular_component
+CFL1	P23528	located_in	vesicle	cellular_component
+CFL1	P23528	located_in	ruffle membrane	cellular_component
+CFL1	P23528	located_in	extracellular exosome	cellular_component
+CFL1	P23528	is_active_in	actin cytoskeleton	cellular_component
+CFL1	P23528	involved_in	mitotic cytokinesis	biological_process
+CFL1	P23528	is_active_in	lamellipodium	cellular_component
+CFL1	P23528	is_active_in	cytoplasm	cellular_component
+CFL1	P23528	involved_in	actin filament severing	biological_process
+CFL1	P23528	involved_in	actin filament fragmentation	biological_process

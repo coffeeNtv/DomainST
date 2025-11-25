@@ -1,0 +1,20 @@
+FNBP1L	Q5T0N5	acts_upstream_of_or_within	cilium assembly	biological_process
+FNBP1L	Q5T0N5	enables	protein binding	molecular_function
+FNBP1L	Q5T0N5	enables	lipid binding	molecular_function
+FNBP1L	Q5T0N5	enables	cadherin binding	molecular_function
+FNBP1L	Q5T0N5	enables	GTPase binding	molecular_function
+FNBP1L	Q5T0N5	involved_in	vesicle budding from membrane	biological_process
+FNBP1L	Q5T0N5	involved_in	autophagy	biological_process
+FNBP1L	Q5T0N5	involved_in	signal transduction	biological_process
+FNBP1L	Q5T0N5	involved_in	membrane invagination	biological_process
+FNBP1L	Q5T0N5	involved_in	vesicle organization	biological_process
+FNBP1L	Q5T0N5	involved_in	vesicle transport along actin filament	biological_process
+FNBP1L	Q5T0N5	involved_in	positive regulation of filopodium assembly	biological_process
+FNBP1L	Q5T0N5	involved_in	clathrin-dependent endocytosis	biological_process
+FNBP1L	Q5T0N5	involved_in	plasma membrane tubulation	biological_process
+FNBP1L	Q5T0N5	located_in	cytoplasm	cellular_component
+FNBP1L	Q5T0N5	located_in	cytosol	cellular_component
+FNBP1L	Q5T0N5	located_in	cytoskeleton	cellular_component
+FNBP1L	Q5T0N5	located_in	plasma membrane	cellular_component
+FNBP1L	Q5T0N5	located_in	cell cortex	cellular_component
+FNBP1L	Q5T0N5	located_in	cytoplasmic vesicle	cellular_component

@@ -1,0 +1,35 @@
+CD24	P25063	enables	protein binding	molecular_function
+CD24	P25063	enables	protein kinase binding	molecular_function
+CD24	P25063	enables	protein tyrosine kinase activator activity	molecular_function
+CD24	P25063	involved_in	response to hypoxia	biological_process
+CD24	P25063	involved_in	cell activation	biological_process
+CD24	P25063	involved_in	regulation of cytokine-mediated signaling pathway	biological_process
+CD24	P25063	involved_in	response to molecule of bacterial origin	biological_process
+CD24	P25063	involved_in	immune response-regulating cell surface receptor signaling pathway	biological_process
+CD24	P25063	involved_in	positive regulation of cytosolic calcium ion concentration	biological_process
+CD24	P25063	involved_in	Wnt signaling pathway	biological_process
+CD24	P25063	involved_in	cell migration	biological_process
+CD24	P25063	involved_in	regulation of epithelial cell differentiation	biological_process
+CD24	P25063	involved_in	T cell costimulation	biological_process
+CD24	P25063	involved_in	B cell receptor transport into membrane raft	biological_process
+CD24	P25063	involved_in	chemokine receptor transport out of membrane raft	biological_process
+CD24	P25063	involved_in	negative regulation of transforming growth factor beta3 production	biological_process
+CD24	P25063	involved_in	positive regulation of activated T cell proliferation	biological_process
+CD24	P25063	involved_in	regulation of phosphorylation	biological_process
+CD24	P25063	involved_in	cholesterol homeostasis	biological_process
+CD24	P25063	involved_in	positive regulation of MAP kinase activity	biological_process
+CD24	P25063	involved_in	regulation of MAPK cascade	biological_process
+CD24	P25063	involved_in	response to estrogen	biological_process
+CD24	P25063	involved_in	respiratory burst	biological_process
+CD24	P25063	involved_in	podocyte differentiation	biological_process
+CD24	P25063	involved_in	glomerular parietal epithelial cell differentiation	biological_process
+CD24	P25063	involved_in	intrinsic apoptotic signaling pathway	biological_process
+CD24	P25063	involved_in	cell-cell adhesion	biological_process
+CD24	P25063	involved_in	positive regulation of nephron tubule epithelial cell differentiation	biological_process
+CD24	P25063	located_in	cell surface	cellular_component
+CD24	P25063	located_in	membrane	cellular_component
+CD24	P25063	located_in	intracellular membrane-bounded organelle	cellular_component
+CD24	P25063	located_in	membrane raft	cellular_component
+CD24	P25063	is_active_in	membrane raft	cellular_component
+CD24	P25063	involved_in	regulation of cell-cell adhesion	biological_process
+CD24	P25063	is_active_in	external side of plasma membrane	cellular_component

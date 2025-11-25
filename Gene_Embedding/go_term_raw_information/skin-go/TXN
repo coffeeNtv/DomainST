@@ -1,0 +1,22 @@
+TXN	P10599	enables	RNA binding	molecular_function
+TXN	P10599	enables	thioredoxin-disulfide reductase (NADPH) activity	molecular_function
+TXN	P10599	enables	protein binding	molecular_function
+TXN	P10599	enables	protein-disulfide reductase activity	molecular_function
+TXN	P10599	enables	protein homodimerization activity	molecular_function
+TXN	P10599	enables	protein-disulfide reductase (NAD(P)H) activity	molecular_function
+TXN	P10599	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
+TXN	P10599	involved_in	response to radiation	biological_process
+TXN	P10599	involved_in	positive regulation of peptidyl-serine phosphorylation	biological_process
+TXN	P10599	involved_in	positive regulation of DNA binding	biological_process
+TXN	P10599	involved_in	cell redox homeostasis	biological_process
+TXN	P10599	involved_in	negative regulation of protein export from nucleus	biological_process
+TXN	P10599	involved_in	positive regulation of phosphatidylinositol 3-kinase/protein kinase B signal transduction	biological_process
+TXN	P10599	involved_in	cellular detoxification of hydrogen peroxide	biological_process
+TXN	P10599	involved_in	response to nitric oxide	biological_process
+TXN	P10599	involved_in	positive regulation of peptidyl-cysteine S-nitrosylation	biological_process
+TXN	P10599	located_in	extracellular region	cellular_component
+TXN	P10599	located_in	nucleus	cellular_component
+TXN	P10599	located_in	nucleoplasm	cellular_component
+TXN	P10599	located_in	cytoplasm	cellular_component
+TXN	P10599	located_in	cytosol	cellular_component
+TXN	P10599	located_in	extracellular exosome	cellular_component

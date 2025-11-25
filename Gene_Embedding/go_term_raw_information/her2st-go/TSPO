@@ -1,0 +1,52 @@
+TSPO	B1AH88	located_in	mitochondrion	cellular_component
+TSPO	P30536	enables	androgen binding	molecular_function
+TSPO	P30536	enables	protein binding	molecular_function
+TSPO	P30536	enables	benzodiazepine receptor activity	molecular_function
+TSPO	P30536	enables	cholesterol binding	molecular_function
+TSPO	P30536	enables	transmembrane transporter binding	molecular_function
+TSPO	P30536	enables	cholesterol transfer activity	molecular_function
+TSPO	P30536	involved_in	protein targeting to mitochondrion	biological_process
+TSPO	P30536	involved_in	C21-steroid hormone biosynthetic process	biological_process
+TSPO	P30536	involved_in	heme biosynthetic process	biological_process
+TSPO	P30536	involved_in	monoatomic anion transport	biological_process
+TSPO	P30536	involved_in	chloride transport	biological_process
+TSPO	P30536	involved_in	steroid metabolic process	biological_process
+TSPO	P30536	involved_in	glial cell migration	biological_process
+TSPO	P30536	involved_in	response to xenobiotic stimulus	biological_process
+TSPO	P30536	involved_in	response to manganese ion	biological_process
+TSPO	P30536	involved_in	response to vitamin B1	biological_process
+TSPO	P30536	involved_in	peripheral nervous system axon regeneration	biological_process
+TSPO	P30536	involved_in	sterol transport	biological_process
+TSPO	P30536	involved_in	adrenal gland development	biological_process
+TSPO	P30536	involved_in	negative regulation of protein ubiquitination	biological_process
+TSPO	P30536	involved_in	regulation of cholesterol transport	biological_process
+TSPO	P30536	involved_in	response to progesterone	biological_process
+TSPO	P30536	involved_in	negative regulation of tumor necrosis factor production	biological_process
+TSPO	P30536	involved_in	response to testosterone	biological_process
+TSPO	P30536	involved_in	regulation of cell population proliferation	biological_process
+TSPO	P30536	involved_in	cholesterol homeostasis	biological_process
+TSPO	P30536	involved_in	positive regulation of apoptotic process	biological_process
+TSPO	P30536	involved_in	negative regulation of nitric oxide biosynthetic process	biological_process
+TSPO	P30536	involved_in	behavioral response to pain	biological_process
+TSPO	P30536	involved_in	regulation of steroid biosynthetic process	biological_process
+TSPO	P30536	involved_in	positive regulation of mitochondrial depolarization	biological_process
+TSPO	P30536	involved_in	positive regulation of calcium ion transport	biological_process
+TSPO	P30536	involved_in	contact inhibition	biological_process
+TSPO	P30536	involved_in	positive regulation of glial cell proliferation	biological_process
+TSPO	P30536	involved_in	negative regulation of glial cell proliferation	biological_process
+TSPO	P30536	involved_in	positive regulation of programmed necrotic cell death	biological_process
+TSPO	P30536	involved_in	cellular response to lipopolysaccharide	biological_process
+TSPO	P30536	involved_in	cellular response to zinc ion	biological_process
+TSPO	P30536	involved_in	cellular hypotonic response	biological_process
+TSPO	P30536	involved_in	maintenance of protein location in mitochondrion	biological_process
+TSPO	P30536	involved_in	negative regulation of mitophagy	biological_process
+TSPO	P30536	involved_in	negative regulation of ATP metabolic process	biological_process
+TSPO	P30536	involved_in	response to acetylcholine	biological_process
+TSPO	P30536	involved_in	positive regulation of reactive oxygen species metabolic process	biological_process
+TSPO	P30536	involved_in	negative regulation of corticosterone secretion	biological_process
+TSPO	P30536	located_in	mitochondrion	cellular_component
+TSPO	P30536	located_in	mitochondrial outer membrane	cellular_component
+TSPO	P30536	located_in	cytosol	cellular_component
+TSPO	P30536	located_in	intracellular membrane-bounded organelle	cellular_component
+TSPO	P30536	located_in	extracellular exosome	cellular_component
+TSPO	P30536	is_active_in	membrane	cellular_component

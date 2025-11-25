@@ -1,0 +1,20 @@
+ZYX	Q15942	enables	RNA binding	molecular_function
+ZYX	Q15942	enables	protein binding	molecular_function
+ZYX	Q15942	enables	metal ion binding	molecular_function
+ZYX	Q15942	involved_in	cell-matrix adhesion	biological_process
+ZYX	Q15942	involved_in	transforming growth factor beta receptor signaling pathway	biological_process
+ZYX	Q15942	involved_in	integrin-mediated signaling pathway	biological_process
+ZYX	Q15942	involved_in	cell-cell signaling	biological_process
+ZYX	Q15942	involved_in	stress fiber assembly	biological_process
+ZYX	Q15942	involved_in	cellular response to type II interferon	biological_process
+ZYX	Q15942	located_in	stress fiber	cellular_component
+ZYX	Q15942	located_in	nucleus	cellular_component
+ZYX	Q15942	located_in	cytosol	cellular_component
+ZYX	Q15942	located_in	plasma membrane	cellular_component
+ZYX	Q15942	located_in	adherens junction	cellular_component
+ZYX	Q15942	located_in	focal adhesion	cellular_component
+ZYX	Q15942	located_in	actin cytoskeleton	cellular_component
+ZYX	Q15942	located_in	phagocytic vesicle	cellular_component
+ZYX	Q15942	is_active_in	focal adhesion	cellular_component
+ZYX	Q15942	is_active_in	cytoplasm	cellular_component
+ZYX	Q15942	is_active_in	stress fiber	cellular_component

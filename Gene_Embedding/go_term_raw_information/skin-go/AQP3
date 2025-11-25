@@ -1,0 +1,27 @@
+AQP3	Q92482	acts_upstream_of_or_within	cellular response to hypoxia	biological_process
+AQP3	Q92482	enables	protein binding	molecular_function
+AQP3	Q92482	enables	water channel activity	molecular_function
+AQP3	Q92482	enables	glycerol channel activity	molecular_function
+AQP3	Q92482	enables	identical protein binding	molecular_function
+AQP3	Q92482	involved_in	positive regulation of immune system process	biological_process
+AQP3	Q92482	involved_in	response to ischemia	biological_process
+AQP3	Q92482	involved_in	renal water homeostasis	biological_process
+AQP3	Q92482	involved_in	water transport	biological_process
+AQP3	Q92482	involved_in	glycerol transmembrane transport	biological_process
+AQP3	Q92482	involved_in	response to retinoic acid	biological_process
+AQP3	Q92482	involved_in	response to vitamin D	biological_process
+AQP3	Q92482	involved_in	odontogenesis	biological_process
+AQP3	Q92482	involved_in	regulation of keratinocyte differentiation	biological_process
+AQP3	Q92482	involved_in	response to calcium ion	biological_process
+AQP3	Q92482	involved_in	establishment of localization in cell	biological_process
+AQP3	Q92482	involved_in	renal water absorption	biological_process
+AQP3	Q92482	involved_in	urea transmembrane transport	biological_process
+AQP3	Q92482	located_in	nucleoplasm	cellular_component
+AQP3	Q92482	located_in	cytoplasm	cellular_component
+AQP3	Q92482	located_in	plasma membrane	cellular_component
+AQP3	Q92482	located_in	cell-cell junction	cellular_component
+AQP3	Q92482	located_in	membrane	cellular_component
+AQP3	Q92482	located_in	basolateral plasma membrane	cellular_component
+AQP3	Q92482	enables	urea transmembrane transporter activity	molecular_function
+AQP3	Q92482	is_active_in	basolateral plasma membrane	cellular_component
+AQP3	Q92482	is_active_in	plasma membrane	cellular_component

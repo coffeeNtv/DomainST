@@ -1,0 +1,20 @@
+RPL24	P83731	enables	RNA binding	molecular_function
+RPL24	P83731	enables	structural constituent of ribosome	molecular_function
+RPL24	P83731	enables	protein binding	molecular_function
+RPL24	P83731	enables	cadherin binding	molecular_function
+RPL24	P83731	involved_in	ribosomal large subunit assembly	biological_process
+RPL24	P83731	involved_in	cytoplasmic translation	biological_process
+RPL24	P83731	involved_in	translation	biological_process
+RPL24	P83731	involved_in	exit from mitosis	biological_process
+RPL24	P83731	involved_in	optic nerve development	biological_process
+RPL24	P83731	involved_in	retinal ganglion cell axon guidance	biological_process
+RPL24	P83731	involved_in	retina development in camera-type eye	biological_process
+RPL24	P83731	located_in	cytoplasm	cellular_component
+RPL24	P83731	located_in	endoplasmic reticulum	cellular_component
+RPL24	P83731	located_in	cytosol	cellular_component
+RPL24	P83731	located_in	membrane	cellular_component
+RPL24	P83731	located_in	synapse	cellular_component
+RPL24	P83731	located_in	extracellular exosome	cellular_component
+RPL24	P83731	part_of	cytosolic large ribosomal subunit	cellular_component
+RPL24	P83731	located_in	cytosolic ribosome	cellular_component
+RPL24	P83731	enables	mRNA binding	molecular_function

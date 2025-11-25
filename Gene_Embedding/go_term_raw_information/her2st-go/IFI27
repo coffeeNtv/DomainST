@@ -1,0 +1,26 @@
+IFI27	P40305	acts_upstream_of_or_within	negative regulation of transcription by RNA polymerase II	biological_process
+IFI27	P40305	acts_upstream_of_or_within	regulation of protein export from nucleus	biological_process
+IFI27	P40305	enables	protein binding	molecular_function
+IFI27	P40305	enables	lamin binding	molecular_function
+IFI27	P40305	enables	identical protein binding	molecular_function
+IFI27	P40305	enables	molecular adaptor activity	molecular_function
+IFI27	P40305	enables	RNA polymerase II-specific DNA-binding transcription factor binding	molecular_function
+IFI27	P40305	involved_in	apoptotic process	biological_process
+IFI27	P40305	involved_in	proteasome-mediated ubiquitin-dependent protein catabolic process	biological_process
+IFI27	P40305	involved_in	modulation by host of viral genome replication	biological_process
+IFI27	P40305	involved_in	innate immune response	biological_process
+IFI27	P40305	involved_in	defense response to virus	biological_process
+IFI27	P40305	involved_in	type I interferon-mediated signaling pathway	biological_process
+IFI27	P40305	involved_in	pyroptotic inflammatory response	biological_process
+IFI27	P40305	involved_in	protein K48-linked ubiquitination	biological_process
+IFI27	P40305	involved_in	extrinsic apoptotic signaling pathway	biological_process
+IFI27	P40305	is_active_in	mitochondrion	cellular_component
+IFI27	P40305	located_in	nuclear envelope	cellular_component
+IFI27	P40305	located_in	nuclear inner membrane	cellular_component
+IFI27	P40305	located_in	mitochondrion	cellular_component
+IFI27	P40305	located_in	mitochondrial outer membrane	cellular_component
+IFI27	P40305	located_in	endoplasmic reticulum membrane	cellular_component
+IFI27	P40305	located_in	mitochondrial membrane	cellular_component
+IFI27	P40305	involved_in	release of cytochrome c from mitochondria	biological_process
+IFI27	P40305	involved_in	intrinsic apoptotic signaling pathway	biological_process
+IFI27	P40305	is_active_in	mitochondrial membrane	cellular_component

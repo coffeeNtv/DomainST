@@ -1,0 +1,13 @@
+RPS29	P62273	enables	structural constituent of ribosome	molecular_function
+RPS29	P62273	enables	zinc ion binding	molecular_function
+RPS29	P62273	involved_in	cytoplasmic translation	biological_process
+RPS29	P62273	involved_in	translation	biological_process
+RPS29	P62273	located_in	nucleoplasm	cellular_component
+RPS29	P62273	located_in	cytosol	cellular_component
+RPS29	P62273	located_in	focal adhesion	cellular_component
+RPS29	P62273	located_in	extracellular exosome	cellular_component
+RPS29	P62273	located_in	cytoplasmic side of rough endoplasmic reticulum membrane	cellular_component
+RPS29	P62273	located_in	cytoplasm	cellular_component
+RPS29	P62273	located_in	ribosome	cellular_component
+RPS29	P62273	part_of	small ribosomal subunit	cellular_component
+RPS29	P62273	part_of	cytosolic small ribosomal subunit	cellular_component

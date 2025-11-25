@@ -1,0 +1,17 @@
+ARHGDIA	P52565	enables	GTPase activator activity	molecular_function
+ARHGDIA	P52565	enables	protein binding	molecular_function
+ARHGDIA	P52565	involved_in	regulation of protein localization	biological_process
+ARHGDIA	P52565	involved_in	regulation of Rho protein signal transduction	biological_process
+ARHGDIA	P52565	involved_in	negative regulation of apoptotic process	biological_process
+ARHGDIA	P52565	involved_in	semaphorin-plexin signaling pathway	biological_process
+ARHGDIA	P52565	involved_in	regulation of synaptic vesicle cycle	biological_process
+ARHGDIA	P52565	located_in	immunological synapse	cellular_component
+ARHGDIA	P52565	located_in	nucleus	cellular_component
+ARHGDIA	P52565	located_in	cytosol	cellular_component
+ARHGDIA	P52565	located_in	cytoskeleton	cellular_component
+ARHGDIA	P52565	located_in	extracellular exosome	cellular_component
+ARHGDIA	P52565	located_in	Schaffer collateral - CA1 synapse	cellular_component
+ARHGDIA	P52565	enables	Rho GDP-dissociation inhibitor activity	molecular_function
+ARHGDIA	P52565	is_active_in	cytosol	cellular_component
+ARHGDIA	P52565	involved_in	Rho protein signal transduction	biological_process
+ARHGDIA	P52565	is_active_in	membrane	cellular_component

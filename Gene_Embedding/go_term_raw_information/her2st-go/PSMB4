@@ -1,0 +1,16 @@
+PSMB4	P28070	enables	lipopolysaccharide binding	molecular_function
+PSMB4	P28070	enables	protein binding	molecular_function
+PSMB4	P28070	involved_in	negative regulation of inflammatory response to antigenic stimulus	biological_process
+PSMB4	P28070	involved_in	proteasome-mediated ubiquitin-dependent protein catabolic process	biological_process
+PSMB4	P28070	is_active_in	nucleus	cellular_component
+PSMB4	P28070	is_active_in	cytoplasm	cellular_component
+PSMB4	P28070	located_in	nucleus	cellular_component
+PSMB4	P28070	located_in	nucleoplasm	cellular_component
+PSMB4	P28070	located_in	mitochondrion	cellular_component
+PSMB4	P28070	located_in	cytosol	cellular_component
+PSMB4	P28070	located_in	ciliary basal body	cellular_component
+PSMB4	P28070	located_in	extracellular exosome	cellular_component
+PSMB4	P28070	part_of	proteasome complex	cellular_component
+PSMB4	P28070	part_of	proteasome core complex	cellular_component
+PSMB4	P28070	part_of	proteasome core complex, beta-subunit complex	cellular_component
+PSMB4	P28070	is_active_in	cytosol	cellular_component

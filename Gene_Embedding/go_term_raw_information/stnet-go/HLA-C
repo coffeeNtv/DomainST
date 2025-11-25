@@ -1,0 +1,26 @@
+HLA-C	P10321	enables	protein binding	molecular_function
+HLA-C	P10321	enables	peptide antigen binding	molecular_function
+HLA-C	P10321	enables	TAP binding	molecular_function
+HLA-C	P10321	involved_in	adaptive immune response	biological_process
+HLA-C	P10321	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent	biological_process
+HLA-C	P10321	involved_in	immune response	biological_process
+HLA-C	P10321	involved_in	innate immune response	biological_process
+HLA-C	P10321	located_in	Golgi membrane	cellular_component
+HLA-C	P10321	located_in	endoplasmic reticulum	cellular_component
+HLA-C	P10321	located_in	Golgi apparatus	cellular_component
+HLA-C	P10321	located_in	plasma membrane	cellular_component
+HLA-C	P10321	located_in	cell surface	cellular_component
+HLA-C	P10321	located_in	ER to Golgi transport vesicle membrane	cellular_component
+HLA-C	P10321	located_in	membrane	cellular_component
+HLA-C	P10321	located_in	secretory granule membrane	cellular_component
+HLA-C	P10321	located_in	phagocytic vesicle membrane	cellular_component
+HLA-C	P10321	located_in	early endosome membrane	cellular_component
+HLA-C	P10321	located_in	recycling endosome membrane	cellular_component
+HLA-C	P10321	located_in	extracellular exosome	cellular_component
+HLA-C	P10321	located_in	lumenal side of endoplasmic reticulum membrane	cellular_component
+HLA-C	P10321	part_of	MHC class I protein complex	cellular_component
+HLA-C	P10321	enables	signaling receptor binding	molecular_function
+HLA-C	P10321	is_active_in	external side of plasma membrane	cellular_component
+HLA-C	P10321	involved_in	positive regulation of T cell mediated cytotoxicity	biological_process
+HLA-C	P10321	involved_in	antigen processing and presentation of endogenous peptide antigen via MHC class Ib	biological_process
+HLA-C	P10321	is_active_in	extracellular space	cellular_component

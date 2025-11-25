@@ -1,0 +1,31 @@
+TRAF4	Q9BUZ4	enables	tumor necrosis factor receptor binding	molecular_function
+TRAF4	Q9BUZ4	enables	protein binding	molecular_function
+TRAF4	Q9BUZ4	enables	zinc ion binding	molecular_function
+TRAF4	Q9BUZ4	enables	transferase activity	molecular_function
+TRAF4	Q9BUZ4	enables	protein kinase binding	molecular_function
+TRAF4	Q9BUZ4	enables	ubiquitin protein ligase binding	molecular_function
+TRAF4	Q9BUZ4	enables	thioesterase binding	molecular_function
+TRAF4	Q9BUZ4	enables	identical protein binding	molecular_function
+TRAF4	Q9BUZ4	enables	WW domain binding	molecular_function
+TRAF4	Q9BUZ4	involved_in	apoptotic process	biological_process
+TRAF4	Q9BUZ4	involved_in	respiratory gaseous exchange by respiratory system	biological_process
+TRAF4	Q9BUZ4	involved_in	respiratory tube development	biological_process
+TRAF4	Q9BUZ4	involved_in	regulation of apoptotic process	biological_process
+TRAF4	Q9BUZ4	involved_in	proteasome-mediated ubiquitin-dependent protein catabolic process	biological_process
+TRAF4	Q9BUZ4	involved_in	innate immune response	biological_process
+TRAF4	Q9BUZ4	involved_in	positive regulation of protein kinase activity	biological_process
+TRAF4	Q9BUZ4	involved_in	positive regulation of JNK cascade	biological_process
+TRAF4	Q9BUZ4	located_in	fibrillar center	cellular_component
+TRAF4	Q9BUZ4	located_in	nucleus	cellular_component
+TRAF4	Q9BUZ4	located_in	nucleoplasm	cellular_component
+TRAF4	Q9BUZ4	located_in	cytoplasm	cellular_component
+TRAF4	Q9BUZ4	located_in	cytosol	cellular_component
+TRAF4	Q9BUZ4	located_in	cytoskeleton	cellular_component
+TRAF4	Q9BUZ4	located_in	plasma membrane	cellular_component
+TRAF4	Q9BUZ4	located_in	bicellular tight junction	cellular_component
+TRAF4	Q9BUZ4	located_in	perinuclear region of cytoplasm	cellular_component
+TRAF4	Q9BUZ4	part_of	plasma membrane signaling receptor complex	cellular_component
+TRAF4	Q9BUZ4	is_active_in	cytoplasm	cellular_component
+TRAF4	Q9BUZ4	involved_in	cell surface receptor signaling pathway	biological_process
+TRAF4	Q9BUZ4	involved_in	regulation of canonical NF-kappaB signal transduction	biological_process
+TRAF4	Q9BUZ4	enables	signaling adaptor activity	molecular_function

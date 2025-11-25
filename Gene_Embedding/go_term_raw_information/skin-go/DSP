@@ -1,0 +1,38 @@
+DSP	P15924	acts_upstream_of_or_within	epithelial cell-cell adhesion	biological_process
+DSP	P15924	colocalizes_with	intermediate filament	cellular_component
+DSP	P15924	enables	RNA binding	molecular_function
+DSP	P15924	enables	protein kinase C binding	molecular_function
+DSP	P15924	enables	structural constituent of cytoskeleton	molecular_function
+DSP	P15924	enables	protein binding	molecular_function
+DSP	P15924	enables	cell adhesive protein binding involved in bundle of His cell-Purkinje myocyte communication	molecular_function
+DSP	P15924	enables	scaffold protein binding	molecular_function
+DSP	P15924	involved_in	desmosome organization	biological_process
+DSP	P15924	involved_in	ventricular compact myocardium morphogenesis	biological_process
+DSP	P15924	involved_in	epidermis development	biological_process
+DSP	P15924	involved_in	peptide cross-linking	biological_process
+DSP	P15924	involved_in	keratinocyte differentiation	biological_process
+DSP	P15924	involved_in	adherens junction organization	biological_process
+DSP	P15924	involved_in	intermediate filament organization	biological_process
+DSP	P15924	involved_in	bundle of His cell-Purkinje myocyte adhesion involved in cell communication	biological_process
+DSP	P15924	involved_in	regulation of heart rate by cardiac conduction	biological_process
+DSP	P15924	involved_in	regulation of ventricular cardiac muscle cell action potential	biological_process
+DSP	P15924	involved_in	protein localization to cell-cell junction	biological_process
+DSP	P15924	located_in	cornified envelope	cellular_component
+DSP	P15924	located_in	nucleus	cellular_component
+DSP	P15924	located_in	cytoplasm	cellular_component
+DSP	P15924	located_in	plasma membrane	cellular_component
+DSP	P15924	located_in	adherens junction	cellular_component
+DSP	P15924	located_in	fascia adherens	cellular_component
+DSP	P15924	located_in	intercalated disc	cellular_component
+DSP	P15924	located_in	basolateral plasma membrane	cellular_component
+DSP	P15924	located_in	desmosome	cellular_component
+DSP	P15924	located_in	extracellular exosome	cellular_component
+DSP	P15924	located_in	ficolin-1-rich granule membrane	cellular_component
+DSP	P15924	is_active_in	cytoplasm	cellular_component
+DSP	P15924	involved_in	intermediate filament cytoskeleton organization	biological_process
+DSP	P15924	involved_in	cell-cell adhesion	biological_process
+DSP	P15924	is_active_in	plasma membrane	cellular_component
+DSP	P15924	involved_in	wound healing	biological_process
+DSP	P15924	is_active_in	intercalated disc	cellular_component
+DSP	P15924	involved_in	skin development	biological_process
+DSP	P15924	enables	structural molecule activity	molecular_function
