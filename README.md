@@ -44,17 +44,21 @@ python extract_features.py --config her2st/DomainST --test_mode internal --extra
 python extract_features.py --config her2st/DomainST --test_mode internal --extract_mode neighbor --encoder uni
 ```
 
+
+
 ## Gene Feature Extraction
 
 Our gene feature extraction have multiple steps:
 
-1. Gene summary retrieval from external gene databases
-2. Gene summary refinement by LLM
-3. Gene embedding
+1. Gene summary retrieval from external public gene databases, such as NCBI and GO-Term
+2. Gene summary refinement by LLM, such as GPT-4o, DeepSeek-V3, DeepSeek-R1, and Llama-2
+3. Gene embedding, such as Conch, Plip, BioBERT and BioGPT 
 
 Gene features used in this study can be found at [Huggingface](https://huggingface.co/datasets/wzhang472/dst/tree/main) with the .pt format.
 
-To provide more gene representation alternatives, we will provide more details about using other free accessed LLMs for reproducibility once we have these code and features well-organized. Thank you for your patience. 
+To provide more gene representation alternatives and ensure reproducibility, more details about using other free accessed LLMs can be found at [gene_embedding_notes](./Gene_Embedding/gene_embedding.md). All codes, gene summaries and gene features are also released in this repository.
+
+
 
 ## Training and Evaluation
 
