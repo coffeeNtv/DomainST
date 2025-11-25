@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Bridging imaging and genomics: Domain knowledge guided spatial transcriptomics analysis
 
 Thank you for your attention of our work. This is the codebase for DomainST.
