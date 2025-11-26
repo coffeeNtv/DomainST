@@ -1,6 +1,6 @@
 # Bridging imaging and genomics: Domain knowledge guided spatial transcriptomics analysis
 
-Thank you for your attention of our work. This is the codebase for DomainST.
+Thank you for your attention to our work. This is the codebase for DomainST.
 
 <img src="./figure/framework.png" title="DomainST"/>
 
@@ -55,13 +55,13 @@ Our gene feature extraction have multiple steps:
 
 Gene features used in this study can be found at [Huggingface](https://huggingface.co/datasets/wzhang472/dst/tree/main) with the .pt format.
 
-To provide more gene representation alternatives and ensure reproducibility, more details about using other free accessed LLMs can be found at [gene_embedding_notes](./Gene_Embedding/gene_embedding.md). All codes, gene summaries and gene features are also released in this repository.
-
+To provide more gene representation alternatives and ensure reproducibility, all codes, gene summaries and gene features will be released in this repository soon.
+Thank you for your patience!
 
 
 ## Training and Evaluation
 
-Before starting training, please make sure the directories in ./config/skin/DomainST.yaml and ./util.py are updated accordingly to your work environments.
+Before starting training, please ensure that the directories in ./config/skin/DomainST.yaml and ./util.py are updated to match your work environment.
 
 ```
 # Training
@@ -73,20 +73,6 @@ python test.py --dataset skin --gpu 0 --model_name your_model
 
 
 
-## TODO
-
-- [x] Release our ST data
-- [x] Release our gene summary and embeddings
-- [x] Release our prompts we used in this study
-- [x] Release raw information from GO-Term and NCBI database
-- [x] Release code for training and evaluation
-- [x] Release code for image features with foundation models
-- [x] Release code for gene summary from external gene databases 
-- [x] Release code for gene summary refinement via LLMs 
-- [x] Release code for gene feature extraction with text encoders
-
-
-
 ## Acknowledgement
 
 Our study builds upon previous studies: [TRIPLEX](https://github.com/NEXGEM/TRIPLEX), [HisToGene](https://github.com/maxpmx/HisToGene). Many thanks for their opensource and the contributions to this community.
@@ -95,7 +81,7 @@ Our study builds upon previous studies: [TRIPLEX](https://github.com/NEXGEM/TRIP
 
 ## Citation 
 
-Please feel free to cite as if our work could be helpful for your study. Thank you.
+Please feel free to cite our work if it could be helpful for your study. Thank you.
 
 ```
 @article{zhang2025domainst,
@@ -106,4 +92,5 @@ Please feel free to cite as if our work could be helpful for your study. Thank y
   year={2025},
   publisher={Elsevier}
 }
+
 ``````
