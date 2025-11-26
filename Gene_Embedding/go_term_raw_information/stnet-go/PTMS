@@ -1,6 +1,0 @@
-PTMS	P20962	involved_in	immune system process	biological_process
-PTMS	P20962	involved_in	DNA replication	biological_process
-PTMS	P20962	involved_in	positive regulation of transcription by RNA polymerase II	biological_process
-PTMS	P20962	involved_in	negative regulation of apoptotic process	biological_process
-PTMS	P20962	enables	histone binding	molecular_function
-PTMS	P20962	is_active_in	nucleus	cellular_component

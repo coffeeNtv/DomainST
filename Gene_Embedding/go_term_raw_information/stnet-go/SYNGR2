@@ -1,9 +1,0 @@
-SYNGR2	O43760	enables	protein binding	molecular_function
-SYNGR2	O43760	involved_in	regulated exocytosis	biological_process
-SYNGR2	O43760	involved_in	synaptic vesicle membrane organization	biological_process
-SYNGR2	O43760	located_in	lipid droplet	cellular_component
-SYNGR2	O43760	located_in	membrane	cellular_component
-SYNGR2	O43760	located_in	synaptic vesicle membrane	cellular_component
-SYNGR2	O43760	located_in	extracellular exosome	cellular_component
-SYNGR2	O43760	is_active_in	synaptic vesicle membrane	cellular_component
-SYNGR2	O43760	is_active_in	neuromuscular junction	cellular_component

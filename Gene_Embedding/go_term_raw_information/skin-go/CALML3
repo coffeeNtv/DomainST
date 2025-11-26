@@ -1,6 +1,0 @@
-CALML3	P27482	enables	protein binding	molecular_function
-CALML3	P27482	located_in	extracellular exosome	cellular_component
-CALML3	P27482	is_active_in	myelin sheath	cellular_component
-CALML3	P27482	is_active_in	centrosome	cellular_component
-CALML3	P27482	enables	calcium ion binding	molecular_function
-CALML3	P27482	is_active_in	cytoplasm	cellular_component

@@ -1,8 +1,0 @@
-CD99	P14209	enables	protein binding	molecular_function
-CD99	P14209	located_in	cytoplasm	cellular_component
-CD99	P14209	located_in	plasma membrane	cellular_component
-CD99	P14209	located_in	focal adhesion	cellular_component
-CD99	P14209	involved_in	T cell extravasation	biological_process
-CD99	P14209	involved_in	positive regulation of neutrophil extravasation	biological_process
-CD99	P14209	involved_in	homotypic cell-cell adhesion	biological_process
-CD99	P14209	is_active_in	plasma membrane	cellular_component

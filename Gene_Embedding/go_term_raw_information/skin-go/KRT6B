@@ -1,9 +1,0 @@
-KRT6B	P04259	enables	structural constituent of cytoskeleton	molecular_function
-KRT6B	P04259	enables	protein binding	molecular_function
-KRT6B	P04259	involved_in	ectoderm development	biological_process
-KRT6B	P04259	located_in	cytosol	cellular_component
-KRT6B	P04259	located_in	extracellular exosome	cellular_component
-KRT6B	P04259	enables	structural constituent of skin epidermis	molecular_function
-KRT6B	P04259	involved_in	intermediate filament organization	biological_process
-KRT6B	P04259	involved_in	keratinization	biological_process
-KRT6B	P04259	is_active_in	keratin filament	cellular_component

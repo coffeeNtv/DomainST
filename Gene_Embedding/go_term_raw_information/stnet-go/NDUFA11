@@ -1,7 +1,0 @@
-NDUFA11	Q86Y39	enables	protein binding	molecular_function
-NDUFA11	Q86Y39	involved_in	aerobic respiration	biological_process
-NDUFA11	Q86Y39	involved_in	mitochondrial respiratory chain complex I assembly	biological_process
-NDUFA11	Q86Y39	involved_in	proton motive force-driven mitochondrial ATP synthesis	biological_process
-NDUFA11	Q86Y39	located_in	mitochondrion	cellular_component
-NDUFA11	Q86Y39	located_in	mitochondrial inner membrane	cellular_component
-NDUFA11	Q86Y39	part_of	respiratory chain complex I	cellular_component

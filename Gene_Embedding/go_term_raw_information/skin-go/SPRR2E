@@ -1,9 +1,0 @@
-SPRR2E	P22531	enables	structural molecule activity	molecular_function
-SPRR2E	P22531	enables	protein binding	molecular_function
-SPRR2E	P22531	enables	structural constituent of skin epidermis	molecular_function
-SPRR2E	P22531	involved_in	epidermis development	biological_process
-SPRR2E	P22531	involved_in	peptide cross-linking	biological_process
-SPRR2E	P22531	involved_in	keratinization	biological_process
-SPRR2E	P22531	located_in	cornified envelope	cellular_component
-SPRR2E	P22531	located_in	cytoplasm	cellular_component
-SPRR2E	P22531	located_in	cytosol	cellular_component

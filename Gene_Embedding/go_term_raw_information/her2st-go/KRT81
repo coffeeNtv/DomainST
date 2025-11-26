@@ -1,7 +1,0 @@
-KRT81	Q14533	enables	protein binding	molecular_function
-KRT81	Q14533	located_in	extracellular space	cellular_component
-KRT81	Q14533	located_in	cytosol	cellular_component
-KRT81	Q14533	enables	structural constituent of skin epidermis	molecular_function
-KRT81	Q14533	involved_in	keratinization	biological_process
-KRT81	Q14533	is_active_in	keratin filament	cellular_component
-KRT81	Q14533	involved_in	intermediate filament organization	biological_process

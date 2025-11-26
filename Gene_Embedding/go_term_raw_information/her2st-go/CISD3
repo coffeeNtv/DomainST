@@ -1,5 +1,0 @@
-CISD3	P0C7P0	enables	metal ion binding	molecular_function
-CISD3	P0C7P0	enables	2 iron, 2 sulfur cluster binding	molecular_function
-CISD3	P0C7P0	involved_in	protein maturation by [2Fe-2S] cluster transfer	biological_process
-CISD3	P0C7P0	located_in	mitochondrion	cellular_component
-CISD3	P0C7P0	is_active_in	mitochondrion	cellular_component

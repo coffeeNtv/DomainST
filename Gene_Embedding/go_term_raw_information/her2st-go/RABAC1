@@ -1,9 +1,0 @@
-RABAC1	Q9UI14	enables	protein binding	molecular_function
-RABAC1	Q9UI14	enables	identical protein binding	molecular_function
-RABAC1	Q9UI14	enables	GTPase binding	molecular_function
-RABAC1	Q9UI14	enables	proline-rich region binding	molecular_function
-RABAC1	Q9UI14	located_in	plasma membrane	cellular_component
-RABAC1	Q9UI14	located_in	synaptic vesicle	cellular_component
-RABAC1	Q9UI14	located_in	membrane	cellular_component
-RABAC1	Q9UI14	located_in	glutamatergic synapse	cellular_component
-RABAC1	Q9UI14	is_active_in	Golgi apparatus	cellular_component

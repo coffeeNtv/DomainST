@@ -1,7 +1,0 @@
-PGAP3	Q96FM1	enables	protein binding	molecular_function
-PGAP3	Q96FM1	enables	hydrolase activity, acting on ester bonds	molecular_function
-PGAP3	Q96FM1	involved_in	GPI anchor metabolic process	biological_process
-PGAP3	Q96FM1	involved_in	GPI anchor biosynthetic process	biological_process
-PGAP3	Q96FM1	located_in	Golgi membrane	cellular_component
-PGAP3	Q96FM1	located_in	endoplasmic reticulum membrane	cellular_component
-PGAP3	Q96FM1	is_active_in	endoplasmic reticulum membrane	cellular_component

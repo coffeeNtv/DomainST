@@ -1,9 +1,0 @@
-KRT6C	P48668	enables	protein binding	molecular_function
-KRT6C	P48668	involved_in	intermediate filament cytoskeleton organization	biological_process
-KRT6C	P48668	located_in	cytosol	cellular_component
-KRT6C	P48668	located_in	intermediate filament	cellular_component
-KRT6C	P48668	located_in	extracellular exosome	cellular_component
-KRT6C	P48668	is_active_in	keratin filament	cellular_component
-KRT6C	P48668	enables	structural constituent of skin epidermis	molecular_function
-KRT6C	P48668	involved_in	intermediate filament organization	biological_process
-KRT6C	P48668	involved_in	keratinization	biological_process

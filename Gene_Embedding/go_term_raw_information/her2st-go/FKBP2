@@ -1,9 +1,0 @@
-FKBP2	P26885	enables	protein binding	molecular_function
-FKBP2	P26885	enables	FK506 binding	molecular_function
-FKBP2	P26885	enables	RNA polymerase II CTD heptapeptide repeat P3 isomerase activity	molecular_function
-FKBP2	P26885	enables	RNA polymerase II CTD heptapeptide repeat P6 isomerase activity	molecular_function
-FKBP2	P26885	involved_in	regulation of transcription by RNA polymerase II	biological_process
-FKBP2	P26885	involved_in	chaperone-mediated protein folding	biological_process
-FKBP2	P26885	located_in	endoplasmic reticulum membrane	cellular_component
-FKBP2	P26885	enables	peptidyl-prolyl cis-trans isomerase activity	molecular_function
-FKBP2	P26885	is_active_in	endoplasmic reticulum	cellular_component

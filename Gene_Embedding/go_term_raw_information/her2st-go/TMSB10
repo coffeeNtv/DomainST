@@ -1,7 +1,0 @@
-TMSB10	P63313	enables	protein binding	molecular_function
-TMSB10	P63313	involved_in	actin filament organization	biological_process
-TMSB10	P63313	located_in	cytoskeleton	cellular_component
-TMSB10	P63313	enables	actin monomer binding	molecular_function
-TMSB10	P63313	is_active_in	cytoplasm	cellular_component
-TMSB10	P63313	involved_in	regulation of cell migration	biological_process
-TMSB10	P63313	involved_in	sequestering of actin monomers	biological_process

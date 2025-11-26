@@ -1,9 +1,0 @@
-RALY	Q9UKM9	enables	transcription coregulator activity	molecular_function
-RALY	Q9UKM9	enables	RNA binding	molecular_function
-RALY	Q9UKM9	enables	protein binding	molecular_function
-RALY	Q9UKM9	involved_in	negative regulation of transcription by RNA polymerase II	biological_process
-RALY	Q9UKM9	involved_in	mRNA splicing, via spliceosome	biological_process
-RALY	Q9UKM9	involved_in	cholesterol homeostasis	biological_process
-RALY	Q9UKM9	located_in	nucleus	cellular_component
-RALY	Q9UKM9	part_of	catalytic step 2 spliceosome	cellular_component
-RALY	Q9UKM9	is_active_in	nucleus	cellular_component

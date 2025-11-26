@@ -1,8 +1,0 @@
-LYPD3	O95274	enables	laminin binding	molecular_function
-LYPD3	O95274	involved_in	cell-matrix adhesion	biological_process
-LYPD3	O95274	involved_in	negative regulation of smooth muscle cell apoptotic process	biological_process
-LYPD3	O95274	located_in	extracellular region	cellular_component
-LYPD3	O95274	located_in	extracellular space	cellular_component
-LYPD3	O95274	located_in	plasma membrane	cellular_component
-LYPD3	O95274	located_in	side of membrane	cellular_component
-LYPD3	O95274	is_active_in	plasma membrane	cellular_component

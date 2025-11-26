@@ -1,8 +1,0 @@
-LGALS7	P47929	enables	protein binding	molecular_function
-LGALS7	P47929	involved_in	apoptotic process	biological_process
-LGALS7	P47929	involved_in	heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules	biological_process
-LGALS7	P47929	located_in	extracellular space	cellular_component
-LGALS7	P47929	located_in	nucleus	cellular_component
-LGALS7	P47929	located_in	cytoplasm	cellular_component
-LGALS7	P47929	located_in	extracellular exosome	cellular_component
-LGALS7	P47929	enables	carbohydrate binding	molecular_function

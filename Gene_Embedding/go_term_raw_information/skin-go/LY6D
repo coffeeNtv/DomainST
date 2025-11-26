@@ -1,9 +1,0 @@
-LY6D	Q14210	enables	protein binding	molecular_function
-LY6D	Q14210	involved_in	cell adhesion	biological_process
-LY6D	Q14210	involved_in	response to stilbenoid	biological_process
-LY6D	Q14210	located_in	extracellular region	cellular_component
-LY6D	Q14210	located_in	plasma membrane	cellular_component
-LY6D	Q14210	located_in	membrane	cellular_component
-LY6D	Q14210	located_in	side of membrane	cellular_component
-LY6D	Q14210	is_active_in	cell surface	cellular_component
-LY6D	Q14210	involved_in	lymphocyte differentiation	biological_process

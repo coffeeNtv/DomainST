@@ -1,8 +1,0 @@
-ATP5MC2	Q06055	enables	protein binding	molecular_function
-ATP5MC2	Q06055	enables	lipid binding	molecular_function
-ATP5MC2	Q06055	enables	proton transmembrane transporter activity	molecular_function
-ATP5MC2	Q06055	involved_in	proton motive force-driven ATP synthesis	biological_process
-ATP5MC2	Q06055	involved_in	proton transmembrane transport	biological_process
-ATP5MC2	Q06055	located_in	mitochondrion	cellular_component
-ATP5MC2	Q06055	located_in	mitochondrial inner membrane	cellular_component
-ATP5MC2	Q06055	part_of	proton-transporting ATP synthase complex, coupling factor F(o)	cellular_component

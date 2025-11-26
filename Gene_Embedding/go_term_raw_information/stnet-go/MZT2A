@@ -1,8 +1,0 @@
-MZT2A	Q6P582	enables	protein binding	molecular_function
-MZT2A	Q6P582	located_in	nucleoplasm	cellular_component
-MZT2A	Q6P582	located_in	centrosome	cellular_component
-MZT2A	Q6P582	located_in	spindle	cellular_component
-MZT2A	Q6P582	located_in	cytosol	cellular_component
-MZT2A	Q6P582	part_of	gamma-tubulin ring complex	cellular_component
-MZT2A	Q6P582	is_active_in	spindle	cellular_component
-MZT2A	Q6P582	is_active_in	centrosome	cellular_component
